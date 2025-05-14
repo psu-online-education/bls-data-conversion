@@ -1,16 +1,18 @@
 {
   "name": "@zri5004/bls-actions-prototype",
-  "version": "1.0.0",
-  "description": "## BLS data intake ### Method 1 - GitHub versioning with no SharePoint ### Method 2 - GitHub versioning with SharePoint webhooks ## Converting XLSX to JSON",
+  "version": "1.0.1",
+  "description": "Convert XLSX to JSON, validate JSON",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "convert-xlsx": "scripts/convert-xlsx.js",
+    "validate-json": "exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zri5004/bls-actions-prototype.git"
   },
-  "author": "",
+  "author": "Zachary Ishler (https://github.com/zri5004)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zri5004/bls-actions-prototype/issues"
@@ -18,5 +20,8 @@
   "homepage": "https://github.com/zri5004/bls-actions-prototype#readme",
   "publishConfig": {
     "@zri5004:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   }
 }
