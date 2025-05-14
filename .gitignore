@@ -134,6 +134,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-.github/workflows/push-xlsx-intake.yml
-.github/workflows/push-xlsx-main.yml
