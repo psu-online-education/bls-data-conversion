@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zri5004/bls-actions-prototype/issues"
   },
-  "homepage": "https://github.com/zri5004/bls-actions-prototype#readme"
+  "homepage": "https://github.com/zri5004/bls-actions-prototype#readme",
+  "publishConfig": {
+    "@zri5004:registry": "https://npm.pkg.github.com"
+  }
 }
