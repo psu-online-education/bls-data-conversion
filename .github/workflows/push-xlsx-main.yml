@@ -1,0 +1,35 @@
+name: XLSX Data Conversion/Validation
+
+on: 
+  push:
+    branches: [ 'data/**' ]
+
+jobs: 
+  convert_xlsx:
+    # if data/* OR (main branch and xlsx or json artifact hasn't changed)
+    name: Convert XLSX to JSON
+    runs-on: ubuntu-latest
+    steps: 
+      #conversion
+  create_artifact:
+    name: Create JSON artifact
+    needs: convert_xlsx
+  validate_json:
+    name: Validate JSON
+    runs-on: ubuntu-latest
+    needs: create_artifact
+    steps: 
+  create_pr:
+    name: Create pull request
+    needs: validate_json
+    # if branch is data/* or not main
+    - uses: actions/checkout@v4
+
+      # Make changes to pull request here
+
+      # - name: Create Pull Request
+      #   uses: peter-evans/create-pull-request@v7
+  publish_json:
+    name: Publish JSON to GitHub Pages
+    needs: validate_json
+    # if branch is main and label?
