@@ -10,6 +10,8 @@
      - Option 2 (MKTGA, Actions): new file/version created in SharePoint, webhook triggered to pull into data-intake branch
 2. Initial conversion/validation
    - (Actions) .xlsx is converted to .json, create intake artifact
+   - Filtering? Luke has some unused code in lambda. Anything else? Create an unaltered atrifact in addition.
+   - total_emp: currently format as text with thousands separators -> number format (trim field for legacy?)
    - (Actions) validate .json
    - (Actions, if valid) create pull request on data-test/main branch
 3. Move intake data to test
@@ -26,3 +28,7 @@
   - convert to json, create artifact, and validate
   - if data/intake or data/test branch, create pull request to data/test or main respectively
 - On release creation, publish package
+
+
+npm install && npm run-script convert-xlsx
+npm install @zri5004/bls-actions-prototype --registry=https://npm.pkg.github.com
