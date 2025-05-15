@@ -30,7 +30,7 @@ jobs:
       # - name: Update AUTHORS
       #   run: |
       #     git log --format='%aN <%aE>%n%cN <%cE>' | sort -u > AUTHORS
-      - name: Create Pull Request
+      - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: update json
