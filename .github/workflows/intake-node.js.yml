@@ -40,7 +40,7 @@ jobs:
         git commit -m "Update BLS JSON files ${{ env.TIMESTAMP }}"
         git push
     - name: Create pull request
-      run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS JSON data from XLSX file" --base data/test --assignee zri5004 --reviewer zri5004 --label data-intake
+      run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS JSON data from XLSX file" --base data/test --assignee zri5004 --reviewer zri5004
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # create-pr:
