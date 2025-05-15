@@ -3,6 +3,12 @@
 - https://docs.github.com/en/packages/quickstart
 - https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-to-github-packages
 - npm login --scope=@NAMESPACE --auth-type=legacy --registry=https://npm.pkg.github.com
+
+### Repo Settings
+- Settings > Actions > General > Workflow permissions
+  - Enable read/write
+  - Check PR creation
+- Branch 
 # Process
 1. BLS data intake
    - (MKTG Analytics) new .xlsx file is generated

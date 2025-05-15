@@ -1,0 +1,45 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+name: BLS Data Intake (Node.js CI)
+
+on:
+  push:
+    branches: 
+      - 'data/intake'
+      - '!main'
+    paths:
+      - 'bls-data/**'
+
+jobs:
+  intake:
+    name: BLS data intake job
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout branch
+      uses: actions/checkout@v4
+      with:
+        ref: data/intake
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+    - name: Clean install dependencies and build
+      run: |
+        npm ci
+        npm run build --if-present
+    - name: Convert XLSX to JSON
+      run: npm run-script convert-xlsx
+    - name: Get timestamp
+      run: echo "TIMESTAMP=$(date +'%Y-%m-%d-%H-%M-%S')" >> ${GITHUB_ENV}
+    - name: Commit converted files
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add bls-data/wc-bls-data-sample.json
+        git commit -m "Update BLS JSON files ${{ env.TIMESTAMP }}"
+        git push
+    - name: Create pull request
+      run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS JSON data from XLSX file" --base data/test --assignee zri5004 --reviewer zri5004 --label data-intake
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
