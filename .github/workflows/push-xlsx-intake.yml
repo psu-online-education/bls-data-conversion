@@ -3,7 +3,7 @@ name: XLSX Data Conversion/Validation
 on: 
   push:
     branches: 
-      - data/intake
+      - data-intake
 
 jobs: 
   convert_xlsx:
@@ -37,3 +37,4 @@ jobs:
           title: Update JSON
           body: Update JSON with new valid data
           branch: data/test
+          
