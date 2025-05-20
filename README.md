@@ -29,7 +29,9 @@
    - (Actions) another conversion/validation to create prod artifact/pages from prod .xlsx
    - prod JSON data is surfaced. Raw-ish json file and others if more formatting is needed
 
-
+Questions for Kyle
+- If the occ_codes/prospect_codes change and the uid is changed, will that affect your integration?
+- number uid the titles completely, or separate by program?
 
 # GH Workflows
 - On push (.xlsx file, excluding all release/ branches)

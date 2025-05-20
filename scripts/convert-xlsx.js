@@ -2,25 +2,31 @@ const fs = require('node:fs');
 const xlsx = require('xlsx');
 xlsx.set_fs(fs);
 
-const xlsxFilepath = 'bls-data/World-Campus-BLS-Data-Sample.xlsx';
+// Use for v1 (will be the raw data from Analytics)
+const xlsxFilepath = 'bls-data/World-Campus-BLS-Data-Latest.xlsx';
 
-if (fileExists(xlsxFilepath)) {
+// Using these for development
+// Current data format that Analytics is sending (incl. Greg formatting)
+const currentXlsxFilepath = 'bls-data/World-Campus-BLS-Data-Sample.xlsx';
+// Raw data format that Analytics should be sending in the future
+const rawXlsxFilepath = 'bls-data/World-Campus-BLS-Data-OrigFormat.xlsx';
 
-	let workbook = readFileToWorkbook(xlsxFilepath);
+// Parse current format
+if (fileExists(currentXlsxFilepath)) {
+	let workbook = readFileToWorkbook(currentXlsxFilepath);
 	if (typeof workbook !== 'undefined') {
-
-		let jobOutlooksJsonRaw, jobTitlesJsonRaw;
+		let outlooksJsonRaw, titlesJsonRaw;
 		try {
 			if (workbook.SheetNames.includes('Employment')) {
 				// Deleting empty columns that show up when using the defval:"" option with sheet_to_json function
 				delete_cols(workbook.Sheets['Employment'], 10, 4);
 				// defval:"" will include null/empty cells, keeping the json structure consistent
-				jobOutlooksJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Employment'], { defval: "" });
+				outlooksJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Employment'], { defval: "" });
 			} else {
 				throw 'Sheet \'Employment\' not found in workbook';
 			}
 			if (workbook.SheetNames.includes('Job Titles')) {
-				jobTitlesJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Job Titles'], { defval: "" });
+				titlesJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Job Titles'], { defval: "" });
 			} else {
 				throw 'Sheet \'Job Titles\' not found in workbook';
 			}
@@ -29,11 +35,10 @@ if (fileExists(xlsxFilepath)) {
 			console.warn('Exiting function');
 			return;
 		}
-
-		let jobOutlooksJsonFormatted = jobOutlooksJsonRaw;
+		let outlooksJsonFormatted = JSON.parse(JSON.stringify(outlooksJsonRaw));
 		try {
 			// Formatting job outlooks
-			for (outlook of jobOutlooksJsonFormatted) {
+			for (outlook of outlooksJsonFormatted) {
 				let totEmpFormatted = outlook['tot_emp'];
 				// Remove any commas (if any)
 				totEmpFormatted = totEmpFormatted.replace(/[,]/g, '');
@@ -44,23 +49,110 @@ if (fileExists(xlsxFilepath)) {
 		} catch (formattingError) {
 			console.error(`Formatting error for job outlooks:\n${formattingError}`);
 			console.warn('Reverting to raw job outlook data for export');
-			jobOutlooksJsonFormatted = jobOutlooksJsonRaw;
+			outlooksJsonFormatted = JSON.parse(JSON.stringify(outlooksJsonRaw));
 		}
-
-		let jsonToOutput = `{\"job_outlooks\":${JSON.stringify(jobOutlooksJsonFormatted)},\"job_titles\":${JSON.stringify(jobTitlesJsonRaw)}}`;
-
-		let jsonOutputFilepath = 'bls-data/wc-bls-data-sample.json';
-		try {
-			fs.writeFileSync(jsonOutputFilepath, jsonToOutput);
-			console.log(`File write to \'${jsonOutputFilepath}\' successful`);
-		} catch (err) {
-			console.error(`File write to \'${jsonOutputFilepath}\' error:\n${err}`);
-		}
+		let currentJsonOuput = `{\"job_outlooks\":${JSON.stringify(outlooksJsonFormatted)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`;
+		let currentOutputFilepath = 'bls-data/wc-bls-data-current.json';
+		outputJsonToFile(currentJsonOuput, currentOutputFilepath);
 	} else {
 		console.error('Workbook undefined');
 	}
+}
 
-	// Output secondary formats/formattings for other use-cases here
+// Parse raw format
+if (fileExists(rawXlsxFilepath)) {
+	let workbook = readFileToWorkbook(rawXlsxFilepath);
+	if (typeof workbook !== 'undefined') {
+
+		// Inital parsing
+		let outlooksJsonRaw, titlesJsonRaw;
+		try {
+			if (workbook.SheetNames.includes('Employment')) {
+				// defval:"" will include null/empty cells, keeping the json structure consistent
+				outlooksJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Employment'], { defval: "" });
+				// Object.seal(outlooksJsonRaw);
+			} else {
+				throw 'Sheet \'Employment\' not found in workbook';
+			}
+			if (workbook.SheetNames.includes('Job Titles')) {
+				titlesJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Job Titles'], { defval: "" });
+				// Object.freeze(titlesJsonRaw);
+			} else {
+				throw 'Sheet \'Job Titles\' not found in workbook';
+			}
+		} catch (err) {
+			console.error(`Error during sheet conversion:\n${err}`);
+			console.warn('Exiting function');
+			return;
+		}
+
+		// Prospect formatting
+		// Initialize other formats of raw as a deep copy with stringify->parse to unlink objects
+		let outlooksJsonProspect = JSON.parse(JSON.stringify(outlooksJsonRaw));
+		let titlesJsonProspect = JSON.parse(JSON.stringify(titlesJsonRaw));
+		try {
+			// Formatting job outlooks
+			const seen = new Set();
+			const duplicates = new Map();
+			for (let outlook of outlooksJsonProspect) {
+				let uid = `O_${outlook['prospect_code'].replace(/[ ]/g, '')}_${outlook['occ_code']}`;
+				if (seen.has(uid)) {
+					if (!duplicates.has(uid)) {
+						duplicates.set(uid, 1);
+					} else {
+						numDupes = duplicates.get(uid) + 1;
+						duplicates.set(uid, numDupes);
+					}
+					// uid += `_${Math.floor(Math.random() * 999) + 100}`;
+					uid += `_${duplicates.get(uid)}`;
+				} else {
+					seen.add(uid);
+				}
+				outlook['uid'] = uid;
+				let roundedSortOrder = parseInt(Math.round(outlook['sort_order']), 10);
+				outlook['sort_order'] = roundedSortOrder;
+				delete outlook['area_title'];
+				delete outlook['program_id'];
+				delete outlook['program_name'];
+				delete outlook['deprecated'];
+				delete outlook['occ_code'];
+			}
+			// Formatting job titles
+			let titleUid = 1;
+			for (let title of titlesJsonProspect) {
+				title['uid'] = `T_${titleUid}`;
+				titleUid++;
+				title['job_title'] = title['job_titles'];
+				delete title['deprecated'];
+				delete title['job_titles'];
+				delete title['program_id'];
+				delete title['program_name'];
+			}
+		} catch (formattingError) {
+			console.error(`Formatting error for prospect output:\n${formattingError.stack}`);
+			console.warn('Reverting to raw data for output');
+			outlooksJsonProspect = JSON.parse(JSON.stringify(outlooksJsonRaw));
+			titlesJsonProspect = JSON.parse(JSON.stringify(titlesJsonRaw));
+		}
+
+		// Outputs
+		outputMap = new Map();
+		outputMap.set('bls-data/wc-bls-data-raw.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
+		outputMap.set('bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`);
+
+		outputMap.forEach((filepath, json) => { outputJsonToFile(filepath, json) });
+		// let rawJsonOutput, prospectJsonOutput;
+		// rawJsonOutput = `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`;
+		// prospectJsonOutput = `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`;
+		// let rawOutputFilepath, prospectOutputFilepath;
+		// rawOutputFilepath = 'bls-data/wc-bls-data-raw.json';
+		// prospectOutputFilepath = 'bls-data/wc-bls-data-prospect.json';
+		// outputJsonToFile(rawJsonOutput, rawOutputFilepath);
+		// outputJsonToFile(prospectJsonOutput, prospectOutputFilepath);
+
+	} else {
+		console.error('Workbook undefined');
+	}
 }
 
 function fileExists(filepath) {
@@ -73,6 +165,11 @@ function fileExists(filepath) {
 	}
 }
 
+/**
+ * Reads .xlsx file and returns it as a WorkBook.
+ * @param {string} filepath - Path of .xlsx file to read.
+ * @returns {xlsx.WorkBook}
+ */
 function readFileToWorkbook(filepath) {
 	try {
 		let workbook = xlsx.readFile(filepath);
@@ -80,6 +177,20 @@ function readFileToWorkbook(filepath) {
 		return workbook;
 	} catch (err) {
 		console.error(`File read error:\n${err}`);
+	}
+}
+
+/**
+ * Writes JSON to file.
+ * @param {string} jsonToOutput - JSON to output (stringified).
+ * @param {string} filepathToWrite - Output file path.
+ */
+function outputJsonToFile(jsonToOutput, filepathToWrite) {
+	try {
+		fs.writeFileSync(filepathToWrite, jsonToOutput);
+		console.log(`File write to \'${filepathToWrite}\' successful`);
+	} catch (err) {
+		console.error(`File write to \'${filepathToWrite}\' error:\n${err}`);
 	}
 }
 
