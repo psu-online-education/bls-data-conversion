@@ -54,3 +54,10 @@ will get 204 respose and action run if successful
 
 npm install && npm run-script convert-xlsx
 npm install @zri5004/bls-actions-prototype --registry=https://npm.pkg.github.com
+
+TODO:
+- Sharepoint webhook, GH webhook, workflow trigger
+- GH pages workflow
+- Change data paths to root/bls-data
+- Change xlsx naming convention
+- Validation tests, warn/pass on pull request
