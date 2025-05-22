@@ -1,3 +1,4 @@
+.env.local/
 .github/
 bls-data/
-root/
+docs/

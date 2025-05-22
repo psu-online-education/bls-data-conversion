@@ -3,13 +3,13 @@ const xlsx = require('xlsx');
 xlsx.set_fs(fs);
 
 // Use for v1 (will be the raw data from Analytics)
-const xlsxFilepath = 'bls-data/World-Campus-BLS-Data-Latest.xlsx';
+const xlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Latest.xlsx';
 
 // Using these for development
 // Current data format that Analytics is sending (incl. Greg formatting)
-const currentXlsxFilepath = 'bls-data/World-Campus-BLS-Data-Sample.xlsx';
+const currentXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Sample.xlsx';
 // Raw data format that Analytics should be sending in the future
-const rawXlsxFilepath = 'bls-data/World-Campus-BLS-Data-OrigFormat.xlsx';
+const rawXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-OrigFormat.xlsx';
 
 // Parse current format
 if (fileExists(currentXlsxFilepath)) {
@@ -52,7 +52,7 @@ if (fileExists(currentXlsxFilepath)) {
 			outlooksJsonFormatted = JSON.parse(JSON.stringify(outlooksJsonRaw));
 		}
 		let currentJsonOuput = `{\"job_outlooks\":${JSON.stringify(outlooksJsonFormatted)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`;
-		let currentOutputFilepath = 'bls-data/wc-bls-data-current.json';
+		let currentOutputFilepath = 'docs/bls-data/wc-bls-data-current.json';
 		outputJsonToFile(currentJsonOuput, currentOutputFilepath);
 	} else {
 		console.error('Workbook undefined');
@@ -137,16 +137,16 @@ if (fileExists(rawXlsxFilepath)) {
 
 		// Outputs
 		outputMap = new Map();
-		outputMap.set('bls-data/wc-bls-data-raw.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
-		outputMap.set('bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`);
+		outputMap.set('docs/bls-data/wc-bls-data-raw.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
+		outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`);
 
 		outputMap.forEach((filepath, json) => { outputJsonToFile(filepath, json) });
 		// let rawJsonOutput, prospectJsonOutput;
 		// rawJsonOutput = `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`;
 		// prospectJsonOutput = `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`;
 		// let rawOutputFilepath, prospectOutputFilepath;
-		// rawOutputFilepath = 'bls-data/wc-bls-data-raw.json';
-		// prospectOutputFilepath = 'bls-data/wc-bls-data-prospect.json';
+		// rawOutputFilepath = 'docs/bls-data/wc-bls-data-raw.json';
+		// prospectOutputFilepath = 'docs/bls-data/wc-bls-data-prospect.json';
 		// outputJsonToFile(rawJsonOutput, rawOutputFilepath);
 		// outputJsonToFile(prospectJsonOutput, prospectOutputFilepath);
 

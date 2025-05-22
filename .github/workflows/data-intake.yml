@@ -9,7 +9,7 @@ on:
       - 'data/intake'
       - '!main'
     paths:
-      - 'bls-data/**'
+      - 'docs/bls-data/**'
 
 jobs:
   intake:
@@ -36,7 +36,7 @@ jobs:
       run: |
         git config user.name 'github-actions[bot]'
         git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add bls-data/wc-bls-data-sample.json
+        git add docs/bls-data/wc-bls-data-sample.json
         git commit -m "Update BLS JSON files ${{ env.TIMESTAMP }}"
         git push
     - name: Create pull request

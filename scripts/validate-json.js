@@ -3,7 +3,7 @@ const jsonschema = require('jsonschema');
 
 let data, parsedData;
 try {
-  const d1 = fs.openSync('bls-data/wc-bls-data-sample.json', 'r');
+  const d1 = fs.openSync('docs/bls-data/wc-bls-data-sample.json', 'r');
   data = fs.readFileSync(d1).toString();
   fs.closeSync(d1);
   console.log(`File access/read success`);
