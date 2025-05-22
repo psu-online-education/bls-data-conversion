@@ -13,6 +13,8 @@
 1. BLS data intake
    - (MKTG Analytics) new .xlsx file is generated
      - Option 1 (MKTGA): pushed to data-intake branch (pref. by GH client)
+       - Create GH accounts for MAMR? Would need to be added to org external collaborators? Branch permissions?
+       - MAMR uses GitHub Desktop to push to data/intake
      - Option 2 (MKTGA, Actions): new file/version created in SharePoint, webhook triggered to pull into data-intake branch
      - Create readable diff file for json? MKTGA would like?
 2. Initial conversion/validation
@@ -50,7 +52,8 @@ will get 204 respose and action run if successful
 ### Workflow file
 `watch` trigger? `repository-dispatch`?
 
-
+> I would suggest adding a ?date-that-the-file-was-modified to the URL
+> 
 
 npm install && npm run-script convert-xlsx
 npm install @zri5004/bls-actions-prototype --registry=https://npm.pkg.github.com
