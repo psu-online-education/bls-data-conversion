@@ -115,11 +115,11 @@ if (fileExists(rawXlsxFilepath)) {
 				// }
 				// outlook['uid'] = uid;
 				let currOccCode = outlook['occ_code'];
-				outlook['prospect_codes'] = [outlook['prospect_code']];
+				outlook['programs'] = [outlook['prospect_code']];
 				// console.log(outlook);
 				if (seenOccCodes.has(currOccCode)) {
 					let currOccIndex = outlooksJsonProspectRestuctured.findIndex((element) => element['occ_code'] === currOccCode);
-					outlooksJsonProspectRestuctured[currOccIndex]['prospect_codes'].push(outlook['prospect_code']);
+					outlooksJsonProspectRestuctured[currOccIndex]['programs'].push(outlook['prospect_code']);
 				} else {
 					seenOccCodes.add(outlook['occ_code']);
 					outlooksJsonProspectRestuctured.push(outlook);
@@ -145,11 +145,11 @@ if (fileExists(rawXlsxFilepath)) {
 				// titleUid++;
 				title['job_title'] = title['job_titles'];
 				let currJobTitle = title['job_title'];
-				title['prospect_codes'] = [title['prospect_code']];
+				title['programs'] = [title['prospect_code']];
 				// console.log(title);
 				if (seenJobTitles.has(currJobTitle)) {
 					let currTitleIndex = titlesJsonProspectRestuctured.findIndex((element) => element['job_title'] === currJobTitle);
-					titlesJsonProspectRestuctured[currTitleIndex]['prospect_codes'].push(title['prospect_code']);
+					titlesJsonProspectRestuctured[currTitleIndex]['programs'].push(title['prospect_code']);
 				} else {
 					seenJobTitles.add(title['job_title']);
 					titlesJsonProspectRestuctured.push(title);
