@@ -129,10 +129,12 @@ if (fileExists(rawXlsxFilepath)) {
 			for (outlook of outlooksJsonProspectRestuctured) {
 				let roundedSortOrder = parseInt(Math.round(outlook['sort_order']), 10);
 				outlook['sort_order'] = roundedSortOrder;
+				outlook['uid'] = outlook['occ_code'];
 				delete outlook['area_title'];
 				delete outlook['program_id'];
 				delete outlook['program_name'];
 				delete outlook['deprecated'];
+				delete outlook['occ_code'];
 				delete outlook['prospect_code'];
 			}
 			// Formatting job titles
@@ -152,7 +154,7 @@ if (fileExists(rawXlsxFilepath)) {
 					seenJobTitles.add(title['job_title']);
 					titlesJsonProspectRestuctured.push(title);
 				}
-
+				
 				// Delete unused properties
 				delete title['deprecated'];
 				delete title['job_titles'];
