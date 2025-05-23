@@ -90,43 +90,75 @@ if (fileExists(rawXlsxFilepath)) {
 		// Initialize other formats of raw as a deep copy with stringify->parse to unlink objects
 		let outlooksJsonProspect = JSON.parse(JSON.stringify(outlooksJsonRaw));
 		let titlesJsonProspect = JSON.parse(JSON.stringify(titlesJsonRaw));
+		let outlooksJsonProspectRestuctured = [];
+		let titlesJsonProspectRestuctured = [];
 		try {
 			// Formatting job outlooks
-			const seen = new Set();
-			const duplicates = new Map();
+			// const seen = new Set();
+			// const duplicates = new Map();
+			const seenOccCodes = new Set();
+			// Iterate through outlooks
 			for (let outlook of outlooksJsonProspect) {
-				let uid = `O_${outlook['prospect_code'].replace(/[ ]/g, '')}_${outlook['occ_code']}`;
-				if (seen.has(uid)) {
-					if (!duplicates.has(uid)) {
-						duplicates.set(uid, 1);
-					} else {
-						numDupes = duplicates.get(uid) + 1;
-						duplicates.set(uid, numDupes);
-					}
-					// uid += `_${Math.floor(Math.random() * 999) + 100}`;
-					uid += `_${duplicates.get(uid)}`;
+				// UID creation (old)
+				// let uid = `O_${outlook['prospect_code'].replace(/[ ]/g, '')}_${outlook['occ_code']}`;
+				// if (seen.has(uid)) {
+				// 	if (!duplicates.has(uid)) {
+				// 		duplicates.set(uid, 1);
+				// 	} else {
+				// 		numDupes = duplicates.get(uid) + 1;
+				// 		duplicates.set(uid, numDupes);
+				// 	}
+				// 	// uid += `_${Math.floor(Math.random() * 999) + 100}`;
+				// 	uid += `_${duplicates.get(uid)}`;
+				// } else {
+				// 	seen.add(uid);
+				// }
+				// outlook['uid'] = uid;
+				let currOccCode = outlook['occ_code'];
+				outlook['prospect_codes'] = [outlook['prospect_code']];
+				// console.log(outlook);
+				if (seenOccCodes.has(currOccCode)) {
+					let currOccIndex = outlooksJsonProspectRestuctured.findIndex((element) => element['occ_code'] === currOccCode);
+					outlooksJsonProspectRestuctured[currOccIndex]['prospect_codes'].push(outlook['prospect_code']);
 				} else {
-					seen.add(uid);
+					seenOccCodes.add(outlook['occ_code']);
+					outlooksJsonProspectRestuctured.push(outlook);
 				}
-				outlook['uid'] = uid;
+			}
+			// Iterate through restructured outlooks
+			for (outlook of outlooksJsonProspectRestuctured) {
 				let roundedSortOrder = parseInt(Math.round(outlook['sort_order']), 10);
 				outlook['sort_order'] = roundedSortOrder;
 				delete outlook['area_title'];
 				delete outlook['program_id'];
 				delete outlook['program_name'];
 				delete outlook['deprecated'];
-				delete outlook['occ_code'];
+				delete outlook['prospect_code'];
 			}
 			// Formatting job titles
-			let titleUid = 1;
+			// let titleUid = 1;
+			const seenJobTitles = new Set();
 			for (let title of titlesJsonProspect) {
-				title['uid'] = `T_${titleUid}`;
-				titleUid++;
+				// title['uid'] = `T_${titleUid}`;
+				// titleUid++;
 				title['job_title'] = title['job_titles'];
+				let currJobTitle = title['job_title'];
+				title['prospect_codes'] = [title['prospect_code']];
+				// console.log(title);
+				if (seenJobTitles.has(currJobTitle)) {
+					let currTitleIndex = titlesJsonProspectRestuctured.findIndex((element) => element['job_title'] === currJobTitle);
+					titlesJsonProspectRestuctured[currTitleIndex]['prospect_codes'].push(title['prospect_code']);
+				} else {
+					seenJobTitles.add(title['job_title']);
+					titlesJsonProspectRestuctured.push(title);
+				}
+
+				// Delete unused properties
 				delete title['deprecated'];
 				delete title['job_titles'];
 				delete title['program_id'];
 				delete title['program_name'];
+				delete title['prospect_code'];
 			}
 		} catch (formattingError) {
 			console.error(`Formatting error for prospect output:\n${formattingError.stack}`);
@@ -134,11 +166,13 @@ if (fileExists(rawXlsxFilepath)) {
 			outlooksJsonProspect = JSON.parse(JSON.stringify(outlooksJsonRaw));
 			titlesJsonProspect = JSON.parse(JSON.stringify(titlesJsonRaw));
 		}
+		// console.log(`outlooksJsonProspectRestuctured: ${outlooksJsonProspectRestuctured}`)
 
 		// Outputs
 		outputMap = new Map();
 		outputMap.set('docs/bls-data/wc-bls-data-raw.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
-		outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`);
+		outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspectRestuctured)},\"job_titles\":${JSON.stringify(titlesJsonProspectRestuctured)}}`);
+		// outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspect)},\"job_titles\":${JSON.stringify(titlesJsonProspect)}}`);
 
 		outputMap.forEach((filepath, json) => { outputJsonToFile(filepath, json) });
 		// let rawJsonOutput, prospectJsonOutput;
