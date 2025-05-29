@@ -9,7 +9,7 @@ const xlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Latest.xlsx';
 // Current data format that Analytics is sending (incl. Greg formatting)
 const oldXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Sample.xlsx';
 // Raw data format that Analytics should be sending in the future
-const rawXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-OrigFormat.xlsx';
+const rawXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Latest.xlsx';
 
 // Parse old format
 const parseOld = false;
