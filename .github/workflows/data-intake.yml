@@ -36,7 +36,8 @@ jobs:
       run: |
         git config user.name 'github-actions[bot]'
         git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add docs/bls-data/wc-bls-data-sample.json
+        git add docs/bls-data/wc-bls-data-raw.json
+        git add docs/bls-data/wc-bls-data-prospect.json
         git commit -m "Update BLS JSON files ${{ env.TIMESTAMP }}"
         git push
     - name: Create pull request
