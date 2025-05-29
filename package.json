@@ -1,12 +1,13 @@
 {
   "name": "@zri5004/bls-actions-prototype",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert XLSX to JSON, validate JSON",
   "main": "index.js",
   "scripts": {
     "test": "exit 0",
     "convert-xlsx": "node scripts/convert-xlsx.js",
-    "validate-json": "node scripts/validate-json.js"
+    "validate-json-raw": "node scripts/validate-json-raw.js",
+    "validate-json-prospect": "node scripts/validate-json-prospect.js"
   },
   "repository": {
     "type": "git",

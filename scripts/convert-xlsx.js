@@ -2,65 +2,235 @@ const fs = require('node:fs');
 const xlsx = require('xlsx');
 xlsx.set_fs(fs);
 
-const xlsxFilepath = 'bls-data/World-Campus-BLS-Data-Sample.xlsx';
+// Use for v1 (will be the latest raw data from Analytics)
+const xlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Latest.xlsx';
 
-if (fileExists(xlsxFilepath)) {
+// Using these for development
+// Current data format that Analytics is sending (incl. Greg formatting)
+const oldXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Sample.xlsx';
+// Raw data format that Analytics should be sending in the future
+const rawXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-OrigFormat.xlsx';
 
-	let workbook = readFileToWorkbook(xlsxFilepath);
+// Parse old format
+const parseOld = false;
+const formatOldAsProspect = false;
+if (parseOld) {
+	if (fileExists(oldXlsxFilepath)) {
+		let workbook = readFileToWorkbook(oldXlsxFilepath);
+		if (typeof workbook !== 'undefined') {
+			// Initial parsing
+			let outlooksOldRaw, titlesOldRaw;
+			try {
+				if (workbook.SheetNames.includes('Employment')) {
+					// Deleting empty columns that show up when using the defval:"" option with sheet_to_json function
+					delete_cols(workbook.Sheets['Employment'], 10, 4);
+					// defval:"" will include null/empty cells, keeping the json structure consistent
+					outlooksOldRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Employment'], { defval: "" });
+				} else {
+					throw `Sheet \'Employment\' not found in workbook \'${oldXlsxFilepath}\'`;
+				}
+				if (workbook.SheetNames.includes('Job Titles')) {
+					titlesOldRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Job Titles'], { defval: "" });
+				} else {
+					throw `Sheet \'Job Titles\' not found in workbook \'${oldXlsxFilepath}\'`;
+				}
+			} catch (err) {
+				console.error(`Error during sheet conversion:\n${err}`);
+				console.warn('Exiting parse block');
+				return;
+			}
+			// Format data
+			let outlooksOldFormatted = JSON.parse(JSON.stringify(outlooksOldRaw));
+			let titlesOldFormatted = JSON.parse(JSON.stringify(titlesOldRaw));
+			let outlooksOldProspectRestuctured = [];
+			let titlesOldProspectRestuctured = [];
+			let outlooksOldOutput, titlesOldOutput;
+			try {
+				// Format outlooks
+				const seenOccCodes = new Set();
+				for (outlook of outlooksOldFormatted) {
+					// Reformat 'tot_emp' field to integer
+					let totEmpFormatted = parseInt(outlook['tot_emp'].replace(/[,]/g, ''), 10);
+					outlook['tot_emp'] = totEmpFormatted;
+
+					// Restructure outlooks (prospect format)
+					if (formatOldAsProspect) {
+						let currOccCode = outlook['occ_code'];
+						outlook['programs'] = [outlook['prospect_code']];
+						// console.log(outlook);
+						if (seenOccCodes.has(currOccCode)) {
+							let currOccIndex = outlooksOldProspectRestuctured.findIndex((element) => element['occ_code'] === currOccCode);
+							outlooksOldProspectRestuctured[currOccIndex]['programs'].push(outlook['prospect_code']);
+						} else {
+							seenOccCodes.add(outlook['occ_code']);
+							outlooksOldProspectRestuctured.push(outlook);
+						}
+					}
+				}
+
+				// Iterate through restructured outlooks, restructure titles (prospect format)
+				if (formatOldAsProspect) {
+					for (outlook of outlooksOldProspectRestuctured) {
+						let roundedSortOrder = parseInt(Math.round(outlook['sort_order']), 10);
+						outlook['sort_order'] = roundedSortOrder;
+						outlook['uid'] = outlook['occ_code'];
+						delete outlook['area_title'];
+						delete outlook['program_id'];
+						delete outlook['program_name'];
+						delete outlook['deprecated'];
+						delete outlook['occ_code'];
+						delete outlook['prospect_code'];
+					}
+					// Formatting job titles
+					const seenJobTitles = new Set();
+					for (let title of titlesOldFormatted) {
+						title['job_title'] = title['job_titles'];
+						let currJobTitle = title['job_title'];
+						title['programs'] = [title['prospect_code']];
+						if (seenJobTitles.has(currJobTitle)) {
+							let currTitleIndex = titlesOldProspectRestuctured.findIndex((element) => element['job_title'] === currJobTitle);
+							titlesOldProspectRestuctured[currTitleIndex]['programs'].push(title['prospect_code']);
+						} else {
+							seenJobTitles.add(title['job_title']);
+							titlesOldProspectRestuctured.push(title);
+						}
+						delete title['deprecated'];
+						delete title['job_titles'];
+						delete title['program_id'];
+						delete title['program_name'];
+						delete title['prospect_code'];
+					}
+					outlooksOldOutput = JSON.parse(JSON.stringify(outlooksOldProspectRestuctured));
+					titlesOldOutput = JSON.parse(JSON.stringify(titlesOldProspectRestuctured));
+				} else {
+					outlooksOldOutput = JSON.parse(JSON.stringify(outlooksOldFormatted));
+					titlesOldOutput = JSON.parse(JSON.stringify(titlesOldFormatted));
+				}
+			} catch (formattingError) {
+				console.error(`Formatting error for job outlooks:\n${formattingError}`);
+				console.warn('Reverting to raw job outlook data for export');
+				outlooksOldOutput = JSON.parse(JSON.stringify(outlooksOldRaw));
+				titlesOldOutput = JSON.parse(JSON.stringify(titlesOldRaw));
+			}
+			let oldDataJsonOutput = `{\"job_outlooks\":${JSON.stringify(outlooksOldOutput)},\"job_titles\":${JSON.stringify(titlesOldOutput)}}`;
+			let oldDataOutputFilepath = 'docs/bls-data/wc-bls-data-old-raw.json';
+			if (formatOldAsProspect) {
+				oldDataOutputFilepath = 'docs/bls-data/wc-bls-data-old-prospect.json';
+			}
+			outputJsonToFile(oldDataJsonOutput, oldDataOutputFilepath);
+		} else {
+			console.error('Workbook undefined');
+		}
+	}
+}
+
+// Parse raw format
+if (fileExists(rawXlsxFilepath)) {
+	let workbook = readFileToWorkbook(rawXlsxFilepath);
 	if (typeof workbook !== 'undefined') {
 
-		let jobOutlooksJsonRaw, jobTitlesJsonRaw;
+		// Inital parsing
+		let outlooksJsonRaw, titlesJsonRaw;
 		try {
 			if (workbook.SheetNames.includes('Employment')) {
-				// Deleting empty columns that show up when using the defval:"" option with sheet_to_json function
-				delete_cols(workbook.Sheets['Employment'], 10, 4);
 				// defval:"" will include null/empty cells, keeping the json structure consistent
-				jobOutlooksJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Employment'], { defval: "" });
+				outlooksJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Employment'], { defval: "" });
 			} else {
-				throw 'Sheet \'Employment\' not found in workbook';
+				throw `Sheet \'Employment\' not found in workbook \'${rawXlsxFilepath}\'`;
 			}
 			if (workbook.SheetNames.includes('Job Titles')) {
-				jobTitlesJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Job Titles'], { defval: "" });
+				titlesJsonRaw = xlsx.utils.sheet_to_json(workbook.Sheets['Job Titles'], { defval: "" });
 			} else {
-				throw 'Sheet \'Job Titles\' not found in workbook';
+				throw `Sheet \'Job Titles\' not found in workbook \'${rawXlsxFilepath}\'`;
 			}
 		} catch (err) {
-			console.error(`Error during sheet conversion:\n${err}`);
+			console.error(`Error during sheet conversion:\n${err.stack}`);
 			console.warn('Exiting function');
 			return;
 		}
 
-		let jobOutlooksJsonFormatted = jobOutlooksJsonRaw;
+		// Format for prospect use
+		// Initialize copies of raw as a "deep copy" using stringify -> parse to unlink objects and preserve original
+		let outlooksJsonProspect = JSON.parse(JSON.stringify(outlooksJsonRaw));
+		let titlesJsonProspect = JSON.parse(JSON.stringify(titlesJsonRaw));
+		let outlooksJsonProspectRestuctured = [];
+		let titlesJsonProspectRestuctured = [];
+		let outlooksJsonProspectOutput, titlesJsonProspectOutput;
 		try {
-			// Formatting job outlooks
-			for (outlook of jobOutlooksJsonFormatted) {
-				let totEmpFormatted = outlook['tot_emp'];
-				// Remove any commas (if any)
-				totEmpFormatted = totEmpFormatted.replace(/[,]/g, '');
-				// Convert to integer
-				totEmpFormatted = parseInt(totEmpFormatted, 10);
-				outlook['tot_emp'] = totEmpFormatted;
+
+			// Iterate through outlooks
+			const seenOccCodes = new Set();
+			for (let outlook of outlooksJsonProspect) {
+				// Use 'occ_code' as a primary key to merge multiple 'prospect_code' into 'programs'
+				let currOccCode = outlook['occ_code'];
+				outlook['programs'] = [outlook['prospect_code']];
+				if (seenOccCodes.has(currOccCode)) {
+					let currOccIndex = outlooksJsonProspectRestuctured.findIndex((element) => element['occ_code'] === currOccCode);
+					outlooksJsonProspectRestuctured[currOccIndex]['programs'].push(outlook['prospect_code']);
+				} else {
+					seenOccCodes.add(outlook['occ_code']);
+					outlooksJsonProspectRestuctured.push(outlook);
+				}
 			}
+
+			// Iterate through restructured outlooks
+			for (outlook of outlooksJsonProspectRestuctured) {
+				// Round and int-ify sort order
+				let roundedSortOrder = parseInt(Math.round(outlook['sort_order']), 10);
+				outlook['sort_order'] = roundedSortOrder;
+				
+				outlook['uid'] = outlook['occ_code']; // "Rename" property
+
+				// Delete unused properties
+				delete outlook['area_title'];
+				delete outlook['program_id'];
+				delete outlook['program_name'];
+				delete outlook['deprecated'];
+				delete outlook['occ_code'];
+				delete outlook['prospect_code'];
+			}
+
+			// Iterate through titles
+			const seenJobTitles = new Set();
+			for (let title of titlesJsonProspect) {
+				title['job_title'] = title['job_titles']; // "Rename" property
+
+				// Use 'job_title' as a primary key to merge multiple 'prospect_code' into 'programs'
+				let currJobTitle = title['job_title'];
+				title['programs'] = [title['prospect_code']];
+				if (seenJobTitles.has(currJobTitle)) {
+					let currTitleIndex = titlesJsonProspectRestuctured.findIndex((element) => element['job_title'] === currJobTitle);
+					titlesJsonProspectRestuctured[currTitleIndex]['programs'].push(title['prospect_code']);
+				} else {
+					seenJobTitles.add(title['job_title']);
+					titlesJsonProspectRestuctured.push(title);
+				}
+
+				// Delete unused properties
+				delete title['deprecated'];
+				delete title['job_titles'];
+				delete title['program_id'];
+				delete title['program_name'];
+				delete title['prospect_code'];
+			}
+			outlooksJsonProspectOutput = JSON.parse(JSON.stringify(outlooksJsonProspectRestuctured));
+			titlesJsonProspectOutput = JSON.parse(JSON.stringify(titlesJsonProspectRestuctured));
 		} catch (formattingError) {
-			console.error(`Formatting error for job outlooks:\n${formattingError}`);
-			console.warn('Reverting to raw job outlook data for export');
-			jobOutlooksJsonFormatted = jobOutlooksJsonRaw;
+			console.error(`Formatting error for prospect output:\n${formattingError.stack}`);
+			console.warn('Reverting to raw data for output');
+			outlooksJsonProspectOutput = JSON.parse(JSON.stringify(outlooksJsonRaw));
+			titlesJsonProspectOutput = JSON.parse(JSON.stringify(titlesJsonRaw));
 		}
 
-		let jsonToOutput = `{\"job_outlooks\":${JSON.stringify(jobOutlooksJsonFormatted)},\"job_titles\":${JSON.stringify(jobTitlesJsonRaw)}}`;
+		// Outputs
+		outputMap = new Map();
+		outputMap.set('docs/bls-data/wc-bls-data-raw.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
+		outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspectOutput)},\"job_titles\":${JSON.stringify(titlesJsonProspectOutput)}}`);
 
-		let jsonOutputFilepath = 'bls-data/wc-bls-data-sample.json';
-		try {
-			fs.writeFileSync(jsonOutputFilepath, jsonToOutput);
-			console.log(`File write to \'${jsonOutputFilepath}\' successful`);
-		} catch (err) {
-			console.error(`File write to \'${jsonOutputFilepath}\' error:\n${err}`);
-		}
+		outputMap.forEach((filepath, json) => { outputJsonToFile(filepath, json) });
 	} else {
 		console.error('Workbook undefined');
 	}
-
-	// Output secondary formats/formattings for other use-cases here
 }
 
 function fileExists(filepath) {
@@ -73,6 +243,11 @@ function fileExists(filepath) {
 	}
 }
 
+/**
+ * Reads .xlsx file and returns it as a WorkBook.
+ * @param {string} filepath - Path of .xlsx file to read.
+ * @returns {xlsx.WorkBook}
+ */
 function readFileToWorkbook(filepath) {
 	try {
 		let workbook = xlsx.readFile(filepath);
@@ -83,7 +258,21 @@ function readFileToWorkbook(filepath) {
 	}
 }
 
-// Utility functions written by SheetJSDev on an issue comment: https://github.com/SheetJS/sheetjs/issues/413#issuecomment-456979011
+/**
+ * Writes JSON to file.
+ * @param {string} jsonToOutput - JSON to output (stringified).
+ * @param {string} filepathToWrite - Output file path.
+ */
+function outputJsonToFile(jsonToOutput, filepathToWrite) {
+	try {
+		fs.writeFileSync(filepathToWrite, jsonToOutput);
+		console.log(`File write to \'${filepathToWrite}\' successful`);
+	} catch (err) {
+		console.error(`File write to \'${filepathToWrite}\' error:\n${err}`);
+	}
+}
+
+// The following utility functions were written by SheetJSDev on an issue comment: https://github.com/SheetJS/sheetjs/issues/413#issuecomment-456979011
 
 function clamp_range(range) {
 	if (range.e.r >= (1 << 20)) range.e.r = (1 << 20) - 1;
@@ -99,7 +288,6 @@ var crefregex = /(^|[^._A-Z0-9])([$]?)([A-Z]{1,2}|[A-W][A-Z]{2}|X[A-E][A-Z]|XF[A
 	- start_col  = starting col (0-indexed) | default 0
 	- ncols      = number of cols to delete | default 1
 */
-
 function delete_cols(ws, start_col, ncols) {
 	if (!ws) throw new Error("operation expects a worksheet");
 	var dense = Array.isArray(ws);
