@@ -12,8 +12,8 @@ const oldXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Sample.xlsx';
 const rawXlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-OrigFormat.xlsx';
 
 // Parse old format
-const parseOld = true;
-const formatOldAsProspect = true;
+const parseOld = false;
+const formatOldAsProspect = false;
 if (parseOld) {
 	if (fileExists(oldXlsxFilepath)) {
 		let workbook = readFileToWorkbook(oldXlsxFilepath);

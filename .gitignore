@@ -138,3 +138,6 @@ dist
 # Font Awesome
 root/font-awesome*
 docs/font-awesome*
+
+# VS Code Workspace
+*.code-workspace
