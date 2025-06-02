@@ -2,6 +2,8 @@ name: BLS Data Validation
 
 on:
   pull_request:
+    branches:
+      - 'data/**'
     paths:
       - 'docs/bls-data/**'
 
