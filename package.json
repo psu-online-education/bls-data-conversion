@@ -1,6 +1,6 @@
 {
   "name": "@zri5004/bls-actions-prototype",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Convert XLSX to JSON, validate JSON",
   "main": "index.js",
   "scripts": {

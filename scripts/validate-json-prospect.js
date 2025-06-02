@@ -7,7 +7,6 @@ let prospectDataToValidate = parseJsonFile(propectDataPath);
 let validator = new jsonschema.Validator();
 
 const prospectSchema = {
-  "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Generated schema for Root",
   "type": "object",
   "properties": {
@@ -16,9 +15,6 @@ const prospectSchema = {
       "items": {
         "type": "object",
         "properties": {
-          "prospect_code": {
-            "type": "string"
-          },
           "occ_title": {
             "type": "string"
           },
@@ -29,18 +25,24 @@ const prospectSchema = {
             "type": "number"
           },
           "sort_order": {
-            "type": "integer"
+            "type": "number"
+          },
+          "programs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           },
           "uid": {
             "type": "string"
           }
         },
         "required": [
-          "prospect_code",
           "occ_title",
           "tot_emp",
           "employment_change",
           "sort_order",
+          "programs",
           "uid"
         ]
       }
@@ -50,20 +52,19 @@ const prospectSchema = {
       "items": {
         "type": "object",
         "properties": {
-          "prospect_code": {
-            "type": "string"
-          },
-          "uid": {
-            "type": "string"
-          },
           "job_title": {
             "type": "string"
+          },
+          "programs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           }
         },
         "required": [
-          "prospect_code",
-          "uid",
-          "job_title"
+          "job_title",
+          "programs"
         ]
       }
     }
@@ -75,11 +76,12 @@ const prospectSchema = {
 };
 
 // GitHub validation test: Schema Validation
-// console.log(validator.validate(parsedData, schema));
-if (validator.validate(prospectDataToValidate, prospectSchema).valid) {
-  console.log('Prospect JSON Valid!');
-} else {
-  console.warn('Prospect JSON Invalid');
+try {
+  console.log(validator.validate(prospectDataToValidate, prospectSchema, {throwError: true, throwAll: true}));
+  console.log('Prospect JSON validated');
+} catch (validationError) {
+  console.warn('Prospect JSON invalid');
+  console.error(validationError);
 }
 
 function parseJsonFile(filepath) {
