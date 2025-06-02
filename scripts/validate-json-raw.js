@@ -7,7 +7,6 @@ let rawDataToValidate = parseJsonFile(rawDataPath);
 let validator = new jsonschema.Validator();
 
 const rawSchema = {
-  "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Generated schema for Root",
   "type": "object",
   "properties": {
@@ -95,11 +94,12 @@ const rawSchema = {
 };
 
 // GitHub validation test: Schema Validation
-// console.log(validator.validate(parsedData, schema));
-if (validator.validate(rawDataToValidate, rawSchema).valid) {
-  console.log('Raw JSON Valid!');
-} else {
-  console.warn('Raw JSON Invalid');
+try {
+  console.log(validator.validate(rawDataToValidate, rawSchema, {throwError: true, throwAll: true}));
+  console.log('Raw JSON validated');
+} catch (validationError) {
+  console.warn('Raw JSON invalid');
+  console.error(validationError);
 }
 
 function parseJsonFile(filepath) {
