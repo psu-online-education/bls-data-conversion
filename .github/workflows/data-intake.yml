@@ -43,6 +43,8 @@ jobs:
       run: |
         latest_release_tag=$(gh release list --limit 1 --json tagName | jq -r '.[0].tagName')
         gh release upload $latest_release_tag docs/bls-data/wc-bls-data-raw.json docs/bls-data/wc-bls-data-prospect.json --clobber
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Create pull request
       run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS JSON data from XLSX file" --base data/test --assignee zri5004 --reviewer zri5004 --label data-intake
       env:
