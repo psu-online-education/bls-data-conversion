@@ -17,8 +17,6 @@ jobs:
     steps:
     - name: Checkout branch
       uses: actions/checkout@v4
-      # with:
-      #   ref: data/intake
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
