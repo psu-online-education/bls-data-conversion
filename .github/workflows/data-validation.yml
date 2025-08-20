@@ -3,9 +3,9 @@ name: BLS Data Validation
 on:
   pull_request:
     branches:
-      - 'data/**'
+      - 'data/intake'
     paths:
-      - 'docs/bls-data/**'
+      - 'docs/bls-data/**.json'
 
 jobs:
   validate_json_raw:
