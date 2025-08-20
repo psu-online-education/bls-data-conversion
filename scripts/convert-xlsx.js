@@ -103,9 +103,12 @@ if (fileExists(xlsxFilepath)) {
 		}
 
 		// Outputs
-		outputMap = new Map();
-		outputMap.set('docs/bls-data/wc-bls-data-raw.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
-		outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `{\"job_outlooks\":${JSON.stringify(outlooksJsonProspectOutput)},\"job_titles\":${JSON.stringify(titlesJsonProspectOutput)}}`);
+		let combinedRawOutput = JSON.parse(`{\"job_outlooks\":${JSON.stringify(outlooksJsonRaw)},\"job_titles\":${JSON.stringify(titlesJsonRaw)}}`);
+		let combinedProspectOutput = JSON.parse(`{\"job_outlooks\":${JSON.stringify(outlooksJsonProspectOutput)},\"job_titles\":${JSON.stringify(titlesJsonProspectOutput)}}`);
+
+		let outputMap = new Map();
+		outputMap.set('docs/bls-data/wc-bls-data-raw.json', `${JSON.stringify(combinedRawOutput, null, 2)}`);
+		outputMap.set('docs/bls-data/wc-bls-data-prospect.json', `${JSON.stringify(combinedProspectOutput, null, 2)}`);
 
 		outputMap.forEach((filepath, json) => { outputJsonToFile(filepath, json) });
 	} else {
