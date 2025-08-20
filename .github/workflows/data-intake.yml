@@ -8,7 +8,7 @@ on:
     branches: 
       - 'data/intake'
     paths:
-      - 'docs/bls-data/**'
+      - 'docs/bls-data/**.xlsx'
 
 jobs:
   intake:
