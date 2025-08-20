@@ -7,8 +7,8 @@ on:
     branches:
       - 'main'
       # - 'data/intake'
-    paths:
-      - 'docs/bls-data/**.json'
+    # paths:
+    #   - 'docs/bls-data/**.json'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
