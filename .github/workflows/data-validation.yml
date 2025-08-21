@@ -1,12 +1,20 @@
 name: BLS Data Validation
 
 on:
-  push:
+  pull_request:
+    types:
+      - opened
+      - edited
     branches:
       - 'main'
-      - 'data/intake'
     paths:
       - 'docs/bls-data/**.json'
+  # push:
+  #   branches:
+  #     - 'main'
+  #     - 'data/intake'
+  #   paths:
+  #     - 'docs/bls-data/**.json'
   workflow_dispatch:
 
 jobs:
