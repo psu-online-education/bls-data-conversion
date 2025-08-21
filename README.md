@@ -19,7 +19,21 @@ JSON files on `main` (prod data) and `data/intake` (non-prod data) are deployed 
 
 `wc-bls-data-raw.json` - converted data with original structure preserved; currently only used for spot-checking and testing
 
+### Troubleshooting
+#### Merge conflicts with main + data/intake
+```sh
+git checkout data/intake
+git pull
+git checkout main
+git pull
+git merge data/intake
+git checkout --theirs docs/bls-data/wc-bls-data-* docs/bls-data/World-Campus-BLS-Data-Latest.xlsx
+git add docs/bls-data/wc-bls-data-* docs/bls-data/World-Campus-BLS-Data-Latest.xlsx
+git merge --continue
+```
+
 ## GitHub Pages directory
 `./docs/`
 ## BLS data directory
 `docs/bls-data/`
+
