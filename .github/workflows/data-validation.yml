@@ -1,7 +1,7 @@
 name: BLS Data Validation
 
 on:
-  pull_request:
+  push:
     branches:
       - 'main'
       - 'data/intake'
