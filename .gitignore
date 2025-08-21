@@ -141,3 +141,6 @@ docs/font-awesome*
 
 # VS Code Workspace
 *.code-workspace
+
+docs/bls-data/.~lock.World-Campus-BLS-Data-Latest.xlsx#
+docs/bls-data/World-Campus-BLS-Data-Latest copy.xlsx
