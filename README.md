@@ -20,7 +20,7 @@ JSON files on `main` (prod data) and `data/intake` (non-prod data) are deployed 
 `wc-bls-data-raw.json` - converted data with original structure preserved; currently only used for spot-checking and testing
 
 ### Troubleshooting
-#### Merge conflicts with main + data/intake
+#### Merge conflicts with main + data/intake (unusual)
 ```sh
 git checkout data/intake
 git pull
