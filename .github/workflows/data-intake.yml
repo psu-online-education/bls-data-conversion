@@ -87,6 +87,8 @@ jobs:
     env:
       TIMESTAMP: ${{  needs.generate_timestamp.outputs.timestamp  }}
     steps:
+    - name: Checkout branch
+      uses: actions/checkout@v4
     - name: Create pull request through GitHub CLI
       run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS data JSON files from new XLSX file" --base main --assignee zri5004 --reviewer zri5004 --label data-intake
       env:
