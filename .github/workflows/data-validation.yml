@@ -7,8 +7,6 @@ on:
       - edited
     branches:
       - 'main'
-    paths:
-      - 'docs/bls-data/**.json'
   # push:
   #   branches:
   #     - 'main'
