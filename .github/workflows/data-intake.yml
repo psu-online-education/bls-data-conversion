@@ -42,6 +42,10 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Invoke validation workflow
+<<<<<<< HEAD
+=======
+      if: '!cancelled()'
+>>>>>>> data/intake
       uses: benc-uk/workflow-dispatch@v1
       with:
         workflow: data-validation.yml
