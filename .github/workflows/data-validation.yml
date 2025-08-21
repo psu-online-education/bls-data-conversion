@@ -3,9 +3,11 @@ name: BLS Data Validation
 on:
   pull_request:
     branches:
+      - 'main'
       - 'data/intake'
     paths:
       - 'docs/bls-data/**.json'
+  workflow_dispatch:
 
 jobs:
   validate_json_raw:
