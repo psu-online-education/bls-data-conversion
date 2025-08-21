@@ -41,3 +41,9 @@ jobs:
       run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS data JSON files from new XLSX file" --base main --assignee zri5004 --reviewer zri5004 --label data-intake
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Invoke validation workflow
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: data-validation.yml
+      # env:
+      #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
