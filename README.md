@@ -1,21 +1,39 @@
-# MAMR BLS Data Surfacing Prototype
+# BLS Data Conversion
+This app is used by WC Online Education App Dev team to convert BLS data, provided by WC OOE/SIPO MAMR team, to machine-friendly JSON and surface that JSON to be easily accessed.
 
-## Creating a package
-Creating a new release will also create/update the package
-
-## Updating BLS data
+## Updating BLS data process
 ### (MAMR) Update Excel file
-- Clone remote repository to local
-- Fetch/pull most recent remote changes
-- Overwrite `World-Campus-BLS-Data-Latest.xlsx` with most recent BLS data on the local repository (overwriting prefered to editing).
-- Commit and push changes to remote repository
+- In GitHub Desktop, clone the remote repository to local using GitHub Desktop (should only have to do this once)
+- Fetch/pull most recent remote repository
+- In Windows File Explorer, overwrite `World-Campus-BLS-Data-Latest.xlsx` with most recent Excel BLS data on your local repository (located by default in `Documents/GitHub/bls-data-conversion`)
+- In GitHub Desktop, write a simple commit message, such as "Update BLS data", then commit the changes
+- Push changes to remote repository (GH Desktop)
 
 ### (App Dev) Test/push changes to main
-A PR will be created when new data is pushed to the `data/intake` branch. Manual merging may be required due to Excel files. JSON files with the new data are located on the most recent release page for testing.
+A PR to merge the new data into `main` will be created when new data is pushed to the `data/intake` branch. Manual merging may be required due to Excel files (unusual).
 
-## XLSX Converison / Validation Package
+JSON files on `main` (prod data) and `data/intake` (non-prod data) are deployed automatically to the GitHub Pages site for this repository (https://psu-online-education.github.io/bls-data-conversion).
 
-## GitHub Pages
-`docs/`
-## BLS Data Folder
+### JSON file outputs
+`wc-bls-data-prospect.json` - ***USE THIS FOR WC PROSPECT DRUPAL INTEGRATION***
+
+`wc-bls-data-raw.json` - converted data with original structure preserved; currently only used for spot-checking and testing
+
+### Troubleshooting
+#### Merge conflicts with main + data/intake (unusual)
+```sh
+git checkout data/intake
+git pull
+git checkout main
+git pull
+git merge data/intake
+git checkout --theirs docs/bls-data/wc-bls-data-* docs/bls-data/World-Campus-BLS-Data-Latest.xlsx
+git add docs/bls-data/wc-bls-data-* docs/bls-data/World-Campus-BLS-Data-Latest.xlsx
+git merge --continue
+```
+
+## GitHub Pages directory
+`./docs/`
+## BLS data directory
 `docs/bls-data/`
+
