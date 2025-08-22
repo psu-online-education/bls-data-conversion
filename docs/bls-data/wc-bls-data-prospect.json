@@ -2145,7 +2145,8 @@
     {
       "job_title": "Learning Development Specialist",
       "programs": [
-        "EDUCDED"
+        "EDUCDED",
+        "LDT"
       ]
     },
     {
@@ -2896,12 +2897,6 @@
     },
     {
       "job_title": "Instructional Systems Specialist",
-      "programs": [
-        "LDT"
-      ]
-    },
-    {
-      "job_title": "Learning Development Specialist (Ooo! Fancy!)",
       "programs": [
         "LDT"
       ]
