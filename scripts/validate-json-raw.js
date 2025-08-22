@@ -100,6 +100,8 @@ try {
 } catch (validationError) {
   console.warn('Raw JSON invalid');
   console.error(validationError);
+  console.warn('Exiting process...');
+	process.exit(1);
 }
 
 function parseJsonFile(filepath) {

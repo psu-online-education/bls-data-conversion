@@ -82,6 +82,8 @@ try {
 } catch (validationError) {
   console.warn('Prospect JSON invalid');
   console.error(validationError);
+  console.warn('Exiting process...');
+	process.exit(1);
 }
 
 function parseJsonFile(filepath) {
