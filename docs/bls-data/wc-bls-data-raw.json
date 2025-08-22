@@ -21,8 +21,8 @@
       "occ_code": "13-2011",
       "occ_title": "Accountants and Auditors",
       "tot_emp": 1448290,
-      "employment_change": 0.058,
-      "sort_order": 84000.82
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84000.81999999999
     },
     {
       "prospect_code": "ACCTBS",
@@ -69,8 +69,8 @@
       "occ_code": "13-2011",
       "occ_title": "Accountants and Auditors",
       "tot_emp": 1448290,
-      "employment_change": 0.058,
-      "sort_order": 84000.82
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84000.81999999999
     },
     {
       "prospect_code": "ACS",
@@ -118,7 +118,7 @@
       "occ_title": "Farm and Home Management Educators",
       "tot_emp": 10260,
       "employment_change": -0.017,
-      "sort_order": -174.42
+      "sort_order": -174.42000000000002
     },
     {
       "prospect_code": "AGBM",
@@ -153,7 +153,7 @@
       "occ_code": "15-2041",
       "occ_title": "Statisticians",
       "tot_emp": 29800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 3516.4
     },
     {
@@ -213,7 +213,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -249,7 +249,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -273,8 +273,8 @@
       "occ_code": "11-3051",
       "occ_title": "Industrial Production Managers",
       "tot_emp": 234380,
-      "employment_change": 0.028,
-      "sort_order": 6562.64
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6562.639999999999
     },
     {
       "prospect_code": "2BACC",
@@ -285,7 +285,7 @@
       "occ_code": "11-2022",
       "occ_title": "Sales Managers",
       "tot_emp": 603710,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 35618.89
     },
     {
@@ -297,7 +297,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -309,8 +309,8 @@
       "occ_code": "11-9151",
       "occ_title": "Social and Community Service Managers",
       "tot_emp": 195490,
-      "employment_change": 0.082,
-      "sort_order": 16030.18
+      "employment_change": 0.08199999999999999,
+      "sort_order": 16030.179999999998
     },
     {
       "prospect_code": "CIENTMMGT",
@@ -393,8 +393,8 @@
       "occ_code": "33-3011",
       "occ_title": "Bailiffs",
       "tot_emp": 16910,
-      "employment_change": -0.014,
-      "sort_order": -236.74
+      "employment_change": -0.013999999999999999,
+      "sort_order": -236.73999999999998
     },
     {
       "prospect_code": "4CRMJ",
@@ -453,8 +453,8 @@
       "occ_code": "21-1092",
       "occ_title": "Probation Officers and Correctional Treatment Specialists",
       "tot_emp": 86820,
-      "employment_change": 0.036,
-      "sort_order": 3125.52
+      "employment_change": 0.036000000000000004,
+      "sort_order": 3125.5200000000004
     },
     {
       "prospect_code": "CJPAMPS",
@@ -477,8 +477,8 @@
       "occ_code": "25-2021",
       "occ_title": "Elementary School Teachers, Except Special Education",
       "tot_emp": 1393310,
-      "employment_change": -0.007,
-      "sort_order": -9753.17
+      "employment_change": -0.006999999999999999,
+      "sort_order": -9753.169999999998
     },
     {
       "prospect_code": "LLEDM",
@@ -489,8 +489,8 @@
       "occ_code": "25-2022",
       "occ_title": "Middle School Teachers, Except Special and Career/Technical Education",
       "tot_emp": 620370,
-      "employment_change": -0.007,
-      "sort_order": -4342.59
+      "employment_change": -0.006999999999999999,
+      "sort_order": -4342.589999999999
     },
     {
       "prospect_code": "LLEDM",
@@ -501,8 +501,8 @@
       "occ_code": "25-9031",
       "occ_title": "Instructional Coordinators",
       "tot_emp": 210850,
-      "employment_change": 0.018,
-      "sort_order": 3795.3
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795.3000000000006
     },
     {
       "prospect_code": "LLEDM",
@@ -525,8 +525,8 @@
       "occ_code": "15-1299",
       "occ_title": "Computer Occupations, All Other",
       "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453.04
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453.04000000001
     },
     {
       "prospect_code": "CAOWCBS",
@@ -621,8 +621,8 @@
       "occ_code": "15-1243",
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
     },
     {
       "prospect_code": "DAANMDA",
@@ -633,7 +633,7 @@
       "occ_code": "15-2041",
       "occ_title": "Statisticians",
       "tot_emp": 29800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 3516.4
     },
     {
@@ -658,7 +658,7 @@
       "occ_title": "Editors",
       "tot_emp": 95480,
       "employment_change": -0.02,
-      "sort_order": -1909.6
+      "sort_order": -1909.6000000000001
     },
     {
       "prospect_code": "DGJRMBA",
@@ -669,8 +669,8 @@
       "occ_code": "27-3023",
       "occ_title": "News Analysts, Reporters, and Journalists",
       "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1121.85
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1121.8500000000001
     },
     {
       "prospect_code": "DIGMDBDES",
@@ -717,8 +717,8 @@
       "occ_code": "27-1011",
       "occ_title": "Art Directors",
       "tot_emp": 50370,
-      "employment_change": 0.052,
-      "sort_order": 2619.24
+      "employment_change": 0.052000000000000005,
+      "sort_order": 2619.2400000000002
     },
     {
       "prospect_code": "ECLBA",
@@ -730,7 +730,7 @@
       "occ_title": "Market Research Analysts and Marketing Specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "ECLBA",
@@ -766,7 +766,7 @@
       "occ_title": "Market Research Analysts and Marketing Specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "EMGTMPS",
@@ -777,7 +777,7 @@
       "occ_code": "19-1031",
       "occ_title": "Conservation Scientists",
       "tot_emp": 25590,
-      "employment_change": 0.056,
+      "employment_change": 0.055999999999999994,
       "sort_order": 1433.04
     },
     {
@@ -790,7 +790,7 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
     },
     {
       "prospect_code": "EDUCDED",
@@ -801,8 +801,8 @@
       "occ_code": "25-9031",
       "occ_title": "Instructional Coordinators",
       "tot_emp": 210850,
-      "employment_change": 0.018,
-      "sort_order": 3795.3
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795.3000000000006
     },
     {
       "prospect_code": "EDUCDED",
@@ -849,8 +849,8 @@
       "occ_code": "11-9033",
       "occ_title": "Education Administrators, Postsecondary",
       "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116.18
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116.179999999999
     },
     {
       "prospect_code": "EDUCDED",
@@ -873,8 +873,8 @@
       "occ_code": "11-9033",
       "occ_title": "Education Administrators, Postsecondary",
       "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116.18
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116.179999999999
     },
     {
       "prospect_code": "EDLDR",
@@ -933,7 +933,7 @@
       "occ_code": "19-1031",
       "occ_title": "Conservation Scientists",
       "tot_emp": 25590,
-      "employment_change": 0.056,
+      "employment_change": 0.055999999999999994,
       "sort_order": 1433.04
     },
     {
@@ -945,7 +945,7 @@
       "occ_code": "13-1041",
       "occ_title": "Compliance Officers",
       "tot_emp": 397770,
-      "employment_change": 0.054,
+      "employment_change": 0.054000000000000006,
       "sort_order": 21479.58
     },
     {
@@ -958,7 +958,7 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
     },
     {
       "prospect_code": "ESPBSBS",
@@ -969,7 +969,7 @@
       "occ_code": "13-1041",
       "occ_title": "Compliance Officers",
       "tot_emp": 397770,
-      "employment_change": 0.054,
+      "employment_change": 0.054000000000000006,
       "sort_order": 21479.58
     },
     {
@@ -981,7 +981,7 @@
       "occ_code": "19-1031",
       "occ_title": "Conservation Scientists",
       "tot_emp": 25590,
-      "employment_change": 0.056,
+      "employment_change": 0.055999999999999994,
       "sort_order": 1433.04
     },
     {
@@ -994,7 +994,7 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
     },
     {
       "prospect_code": "ENGRDENG",
@@ -1054,7 +1054,7 @@
       "occ_title": "Financial Managers",
       "tot_emp": 818620,
       "employment_change": 0.165,
-      "sort_order": 135072.3
+      "sort_order": 135072.30000000002
     },
     {
       "prospect_code": "FINBS",
@@ -1078,7 +1078,7 @@
       "occ_title": "Financial and Investment Analysts",
       "tot_emp": 340580,
       "employment_change": 0.095,
-      "sort_order": 32355.1
+      "sort_order": 32355.100000000002
     },
     {
       "prospect_code": "FINAN",
@@ -1090,7 +1090,7 @@
       "occ_title": "Financial and Investment Analysts",
       "tot_emp": 340580,
       "employment_change": 0.095,
-      "sort_order": 32355.1
+      "sort_order": 32355.100000000002
     },
     {
       "prospect_code": "FINAN",
@@ -1114,7 +1114,7 @@
       "occ_title": "Financial Managers",
       "tot_emp": 818620,
       "employment_change": 0.165,
-      "sort_order": 135072.3
+      "sort_order": 135072.30000000002
     },
     {
       "prospect_code": "FDTANBS",
@@ -1137,7 +1137,7 @@
       "occ_code": "15-2041",
       "occ_title": "Statisticians",
       "tot_emp": 29800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 3516.4
     },
     {
@@ -1150,7 +1150,7 @@
       "occ_title": "Financial and investment analysts",
       "tot_emp": 340580,
       "employment_change": 0.095,
-      "sort_order": 32355.1
+      "sort_order": 32355.100000000002
     },
     {
       "prospect_code": "FDTANBS",
@@ -1198,7 +1198,7 @@
       "occ_title": "Market research analysts and marketing specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "FDTANBS",
@@ -1222,7 +1222,7 @@
       "occ_title": "Urban and Regional Planners",
       "tot_emp": 43040,
       "employment_change": 0.043,
-      "sort_order": 1850.72
+      "sort_order": 1850.7199999999998
     },
     {
       "prospect_code": "MPSGEO",
@@ -1257,8 +1257,8 @@
       "occ_code": "17-3031",
       "occ_title": "Surveying and Mapping Technicians",
       "tot_emp": 56720,
-      "employment_change": 0.056,
-      "sort_order": 3176.32
+      "employment_change": 0.055999999999999994,
+      "sort_order": 3176.3199999999997
     },
     {
       "prospect_code": "GIS",
@@ -1317,8 +1317,8 @@
       "occ_code": "11-9033",
       "occ_title": "Education Administrators, Postsecondary",
       "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116.18
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116.179999999999
     },
     {
       "prospect_code": "HISTBA",
@@ -1342,7 +1342,7 @@
       "occ_title": "Historians",
       "tot_emp": 3140,
       "employment_change": 0.057,
-      "sort_order": 178.98
+      "sort_order": 178.98000000000002
     },
     {
       "prospect_code": "HLSCTRTR",
@@ -1426,7 +1426,7 @@
       "occ_title": "Forensic Science Technicians",
       "tot_emp": 19450,
       "employment_change": 0.136,
-      "sort_order": 2645.2
+      "sort_order": 2645.2000000000003
     },
     {
       "prospect_code": "HLSIS",
@@ -1449,8 +1449,8 @@
       "occ_code": "15-1299",
       "occ_title": "Computer Occupations, All Other",
       "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453.04
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453.04000000001
     },
     {
       "prospect_code": "HLSGI",
@@ -1533,7 +1533,7 @@
       "occ_code": "25-2011",
       "occ_title": "Preschool Teachers, Except Special Education",
       "tot_emp": 445080,
-      "employment_change": 0.044,
+      "employment_change": 0.044000000000000004,
       "sort_order": 19583.52
     },
     {
@@ -1557,7 +1557,7 @@
       "occ_code": "25-2011",
       "occ_title": "Preschool Teachers, Except Special Education",
       "tot_emp": 445080,
-      "employment_change": 0.044,
+      "employment_change": 0.044000000000000004,
       "sort_order": 19583.52
     },
     {
@@ -1605,8 +1605,8 @@
       "occ_code": "11-3051",
       "occ_title": "Industrial Production Managers",
       "tot_emp": 234380,
-      "employment_change": 0.028,
-      "sort_order": 6562.64
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6562.639999999999
     },
     {
       "prospect_code": "INSCMS",
@@ -1641,8 +1641,8 @@
       "occ_code": "15-1244",
       "occ_title": "Network and Computer Systems Administrators",
       "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8282.82
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8282.820000000002
     },
     {
       "prospect_code": "2 IST",
@@ -1654,7 +1654,7 @@
       "occ_title": "Computer Network Support Specialists",
       "tot_emp": 146450,
       "employment_change": 0.073,
-      "sort_order": 10690.85
+      "sort_order": 10690.849999999999
     },
     {
       "prospect_code": "4 IST",
@@ -1665,8 +1665,8 @@
       "occ_code": "15-1242",
       "occ_title": "Database Administrators",
       "tot_emp": 73180,
-      "employment_change": 0.082,
-      "sort_order": 6000.76
+      "employment_change": 0.08199999999999999,
+      "sort_order": 6000.759999999999
     },
     {
       "prospect_code": "4 IST",
@@ -1689,8 +1689,8 @@
       "occ_code": "15-1244",
       "occ_title": "Network and Computer Systems Administrators",
       "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8282.82
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8282.820000000002
     },
     {
       "prospect_code": "4 IST",
@@ -1701,8 +1701,8 @@
       "occ_code": "15-1243",
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
     },
     {
       "prospect_code": "4 IST",
@@ -1810,7 +1810,7 @@
       "occ_title": "Human Resources Managers",
       "tot_emp": 215520,
       "employment_change": 0.065,
-      "sort_order": 14008.8
+      "sort_order": 14008.800000000001
     },
     {
       "prospect_code": "LHRBABA",
@@ -1858,7 +1858,7 @@
       "occ_title": "Human Resources Managers",
       "tot_emp": 215520,
       "employment_change": 0.065,
-      "sort_order": 14008.8
+      "sort_order": 14008.800000000001
     },
     {
       "prospect_code": "LHRBSBS",
@@ -1929,8 +1929,8 @@
       "occ_code": "25-4022",
       "occ_title": "Librarians and Media Collections Specialists",
       "tot_emp": 131830,
-      "employment_change": 0.029,
-      "sort_order": 3823.07
+      "employment_change": 0.028999999999999998,
+      "sort_order": 3823.0699999999997
     },
     {
       "prospect_code": "LDT",
@@ -1941,8 +1941,8 @@
       "occ_code": "25-9031",
       "occ_title": "Instructional Coordinators",
       "tot_emp": 210850,
-      "employment_change": 0.018,
-      "sort_order": 3795.3
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795.3000000000006
     },
     {
       "prospect_code": "LLAEDMED",
@@ -1977,7 +1977,7 @@
       "occ_code": "11-2011",
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -548.6
     },
     {
@@ -1990,7 +1990,7 @@
       "occ_title": "Market Research Analysts and Marketing Specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "MRKTBS",
@@ -2001,8 +2001,8 @@
       "occ_code": "11-2021",
       "occ_title": "Marketing Managers",
       "tot_emp": 384980,
-      "employment_change": 0.082,
-      "sort_order": 31568.36
+      "employment_change": 0.08199999999999999,
+      "sort_order": 31568.359999999997
     },
     {
       "prospect_code": "MMAIMMKT",
@@ -2013,8 +2013,8 @@
       "occ_code": "11-2021",
       "occ_title": "Marketing Managers",
       "tot_emp": 384980,
-      "employment_change": 0.082,
-      "sort_order": 31568.36
+      "employment_change": 0.08199999999999999,
+      "sort_order": 31568.359999999997
     },
     {
       "prospect_code": "MMAIMMKT",
@@ -2026,7 +2026,7 @@
       "occ_title": "Market Research Analysts and Marketing Specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "CSCMCS",
@@ -2085,8 +2085,8 @@
       "occ_code": "15-1243",
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
     },
     {
       "prospect_code": "CSCMCS",
@@ -2109,8 +2109,8 @@
       "occ_code": "15-1242",
       "occ_title": "Database Administrators",
       "tot_emp": 73180,
-      "employment_change": 0.082,
-      "sort_order": 6000.76
+      "employment_change": 0.08199999999999999,
+      "sort_order": 6000.759999999999
     },
     {
       "prospect_code": "CSCMCS",
@@ -2133,8 +2133,8 @@
       "occ_code": "15-1243",
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
     },
     {
       "prospect_code": "DAANBDSYS",
@@ -2169,8 +2169,8 @@
       "occ_code": "15-1242",
       "occ_title": "Database Administrators",
       "tot_emp": 73180,
-      "employment_change": 0.082,
-      "sort_order": 6000.76
+      "employment_change": 0.08199999999999999,
+      "sort_order": 6000.759999999999
     },
     {
       "prospect_code": "DAANBDSYS",
@@ -2289,8 +2289,8 @@
       "occ_code": "29-1171",
       "occ_title": "Nurse Practitioners",
       "tot_emp": 307390,
-      "employment_change": 0.463,
-      "sort_order": 142321.57
+      "employment_change": 0.46299999999999997,
+      "sort_order": 142321.56999999998
     },
     {
       "prospect_code": "NDNPLDR",
@@ -2337,8 +2337,8 @@
       "occ_code": "29-1171",
       "occ_title": "Nurse Practitioners",
       "tot_emp": 307390,
-      "employment_change": 0.463,
-      "sort_order": 142321.57
+      "employment_change": 0.46299999999999997,
+      "sort_order": 142321.56999999998
     },
     {
       "prospect_code": "NUTRMPS",
@@ -2349,8 +2349,8 @@
       "occ_code": "29-1031",
       "occ_title": "Dietitians and Nutritionists",
       "tot_emp": 76570,
-      "employment_change": 0.074,
-      "sort_order": 5666.18
+      "employment_change": 0.07400000000000001,
+      "sort_order": 5666.180000000001
     },
     {
       "prospect_code": "MPSODC",
@@ -2374,7 +2374,7 @@
       "occ_title": "Editors",
       "tot_emp": 95480,
       "employment_change": -0.02,
-      "sort_order": -1909.6
+      "sort_order": -1909.6000000000001
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2386,7 +2386,7 @@
       "occ_title": "Technical Writers",
       "tot_emp": 55530,
       "employment_change": 0.04,
-      "sort_order": 2221.2
+      "sort_order": 2221.2000000000003
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2398,7 +2398,7 @@
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
-      "sort_order": 17396.58
+      "sort_order": 17396.579999999998
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2410,7 +2410,7 @@
       "occ_title": "Writers and Authors",
       "tot_emp": 47800,
       "employment_change": 0.051,
-      "sort_order": 2437.8
+      "sort_order": 2437.7999999999997
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2421,8 +2421,8 @@
       "occ_code": "13-1131",
       "occ_title": "Fundraisers",
       "tot_emp": 105930,
-      "employment_change": 0.059,
-      "sort_order": 6249.87
+      "employment_change": 0.059000000000000004,
+      "sort_order": 6249.870000000001
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2433,8 +2433,8 @@
       "occ_code": "27-3023",
       "occ_title": "News Analysts, Reporters, and Journalists",
       "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1121.85
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1121.8500000000001
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2446,7 +2446,7 @@
       "occ_title": "Technical Writers",
       "tot_emp": 55530,
       "employment_change": 0.04,
-      "sort_order": 2221.2
+      "sort_order": 2221.2000000000003
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2457,8 +2457,8 @@
       "occ_code": "13-1131",
       "occ_title": "Fundraisers",
       "tot_emp": 105930,
-      "employment_change": 0.059,
-      "sort_order": 6249.87
+      "employment_change": 0.059000000000000004,
+      "sort_order": 6249.870000000001
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2470,7 +2470,7 @@
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
-      "sort_order": 17396.58
+      "sort_order": 17396.579999999998
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2482,7 +2482,7 @@
       "occ_title": "Editors",
       "tot_emp": 95480,
       "employment_change": -0.02,
-      "sort_order": -1909.6
+      "sort_order": -1909.6000000000001
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2493,8 +2493,8 @@
       "occ_code": "27-3023",
       "occ_title": "News Analysts, Reporters, and Journalists",
       "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1121.85
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1121.8500000000001
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2506,7 +2506,7 @@
       "occ_title": "Writers and Authors",
       "tot_emp": 47800,
       "employment_change": 0.051,
-      "sort_order": 2437.8
+      "sort_order": 2437.7999999999997
     },
     {
       "prospect_code": "OLEADBA",
@@ -2517,7 +2517,7 @@
       "occ_code": "11-2033",
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178.28
     },
     {
@@ -2529,7 +2529,7 @@
       "occ_code": "11-2022",
       "occ_title": "Sales Managers",
       "tot_emp": 603710,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 35618.89
     },
     {
@@ -2541,7 +2541,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -2553,7 +2553,7 @@
       "occ_code": "11-2033",
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178.28
     },
     {
@@ -2565,7 +2565,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -2577,7 +2577,7 @@
       "occ_code": "11-2022",
       "occ_title": "Sales Managers",
       "tot_emp": 603710,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 35618.89
     },
     {
@@ -2589,8 +2589,8 @@
       "occ_code": "19-3094",
       "occ_title": "Political Scientists",
       "tot_emp": 5950,
-      "employment_change": 0.026,
-      "sort_order": 154.7
+      "employment_change": 0.026000000000000002,
+      "sort_order": 154.70000000000002
     },
     {
       "prospect_code": "PL SC",
@@ -2613,8 +2613,8 @@
       "occ_code": "19-3094",
       "occ_title": "Political Scientists",
       "tot_emp": 5950,
-      "employment_change": 0.026,
-      "sort_order": 154.7
+      "employment_change": 0.026000000000000002,
+      "sort_order": 154.70000000000002
     },
     {
       "prospect_code": "PLSBS",
@@ -2637,8 +2637,8 @@
       "occ_code": "11-3051",
       "occ_title": "Industrial Production Managers",
       "tot_emp": 234380,
-      "employment_change": 0.028,
-      "sort_order": 6562.64
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6562.639999999999
     },
     {
       "prospect_code": "PSCMBS",
@@ -2649,7 +2649,7 @@
       "occ_code": "13-1082",
       "occ_title": "Project Management Specialists",
       "tot_emp": 1006160,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 72443.52
     },
     {
@@ -2662,7 +2662,7 @@
       "occ_title": "Logisticians",
       "tot_emp": 235640,
       "employment_change": 0.193,
-      "sort_order": 45478.52
+      "sort_order": 45478.520000000004
     },
     {
       "prospect_code": "PSCMBS",
@@ -2685,7 +2685,7 @@
       "occ_code": "13-1082",
       "occ_title": "Project Management Specialists",
       "tot_emp": 1006160,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 72443.52
     },
     {
@@ -2757,7 +2757,7 @@
       "occ_code": "11-2033",
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178.28
     },
     {
@@ -2769,8 +2769,8 @@
       "occ_code": "11-9151",
       "occ_title": "Social and Community Service Managers",
       "tot_emp": 195490,
-      "employment_change": 0.082,
-      "sort_order": 16030.18
+      "employment_change": 0.08199999999999999,
+      "sort_order": 16030.179999999998
     },
     {
       "prospect_code": "P ADM",
@@ -2781,7 +2781,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -2865,7 +2865,7 @@
       "occ_code": "19-1031",
       "occ_title": "Conservation Scientists",
       "tot_emp": 25590,
-      "employment_change": 0.056,
+      "employment_change": 0.055999999999999994,
       "sort_order": 1433.04
     },
     {
@@ -2878,7 +2878,7 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
     },
     {
       "prospect_code": "SRA",
@@ -2913,8 +2913,8 @@
       "occ_code": "15-1244",
       "occ_title": "Network and Computer Systems Administrators",
       "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8282.82
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8282.820000000002
     },
     {
       "prospect_code": "SEBCBS",
@@ -2925,7 +2925,7 @@
       "occ_code": "15-1253",
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576.4
     },
     {
@@ -2973,7 +2973,7 @@
       "occ_code": "15-1253",
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576.4
     },
     {
@@ -3009,8 +3009,8 @@
       "occ_code": "17-3031",
       "occ_title": "Surveying and Mapping Technicians",
       "tot_emp": 56720,
-      "employment_change": 0.056,
-      "sort_order": 3176.32
+      "employment_change": 0.055999999999999994,
+      "sort_order": 3176.3199999999997
     },
     {
       "prospect_code": "SDSMS",
@@ -3046,7 +3046,7 @@
       "occ_title": "Special Education Teachers, Secondary School",
       "tot_emp": 162780,
       "employment_change": -0.006,
-      "sort_order": -976.68
+      "sort_order": -976.6800000000001
     },
     {
       "prospect_code": "SPLEDMED",
@@ -3069,8 +3069,8 @@
       "occ_code": "25-2057",
       "occ_title": "Special Education Teachers, Middle School",
       "tot_emp": 95330,
-      "employment_change": -0.009,
-      "sort_order": -857.97
+      "employment_change": -0.009000000000000001,
+      "sort_order": -857.9700000000001
     },
     {
       "prospect_code": "SPLEDMED",
@@ -3081,8 +3081,8 @@
       "occ_code": "25-2052",
       "occ_title": "Special Education Teachers, Kindergarten and Elementary School",
       "tot_emp": 231570,
-      "employment_change": -0.007,
-      "sort_order": -1620.99
+      "employment_change": -0.006999999999999999,
+      "sort_order": -1620.9899999999998
     },
     {
       "prospect_code": "STRCMBA",
@@ -3093,7 +3093,7 @@
       "occ_code": "11-2011",
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -548.6
     },
     {
@@ -3106,7 +3106,7 @@
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
-      "sort_order": 17396.58
+      "sort_order": 17396.579999999998
     },
     {
       "prospect_code": "STRCMBA",
@@ -3129,7 +3129,7 @@
       "occ_code": "11-2011",
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -548.6
     },
     {
@@ -3165,7 +3165,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -3202,7 +3202,7 @@
       "occ_title": "Logisticians",
       "tot_emp": 235640,
       "employment_change": 0.193,
-      "sort_order": 45478.52
+      "sort_order": 45478.520000000004
     },
     {
       "prospect_code": "SYSEN",
@@ -3237,8 +3237,8 @@
       "occ_code": "15-1299",
       "occ_title": "Computer Occupations, All Other",
       "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453.04
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453.04000000001
     },
     {
       "prospect_code": "SYSEN",
@@ -3249,7 +3249,7 @@
       "occ_code": "15-1253",
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576.4
     },
     {
@@ -3261,8 +3261,8 @@
       "occ_code": "13-2011",
       "occ_title": "Accountants and Auditors",
       "tot_emp": 1448290,
-      "employment_change": 0.058,
-      "sort_order": 84000.82
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84000.81999999999
     },
     {
       "prospect_code": "TAXMACC",
@@ -3274,7 +3274,7 @@
       "occ_title": "Tax Examiners and Collectors, and Revenue Agents",
       "tot_emp": 53530,
       "employment_change": 0.019,
-      "sort_order": 1017.07
+      "sort_order": 1017.0699999999999
     },
     {
       "prospect_code": "MPSTM",
@@ -3297,8 +3297,8 @@
       "occ_code": "19-4012",
       "occ_title": "Agricultural Technicians",
       "tot_emp": 14340,
-      "employment_change": 0.059,
-      "sort_order": 846.06
+      "employment_change": 0.059000000000000004,
+      "sort_order": 846.0600000000001
     },
     {
       "prospect_code": "MPSTM",
@@ -3309,7 +3309,7 @@
       "occ_code": "19-1013",
       "occ_title": "Soil and Plant Scientists",
       "tot_emp": 16600,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 1195.2
     },
     {
@@ -3358,7 +3358,7 @@
       "occ_title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
       "tot_emp": 25200,
       "employment_change": 0.051,
-      "sort_order": 1285.2
+      "sort_order": 1285.1999999999998
     }
   ],
   "job_titles": [
@@ -5355,7 +5355,7 @@
       "deprecated": "",
       "program_id": 121,
       "program_name": "Learning, Design, and Technology (Master of Education)",
-      "job_titles": "Learning Development Specialist (Ooo! Fancy!)"
+      "job_titles": "Learning Development Specialist"
     },
     {
       "prospect_code": "LLAEDMED",
