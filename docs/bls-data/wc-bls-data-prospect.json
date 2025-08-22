@@ -15,7 +15,7 @@
     {
       "occ_title": "Accountants and Auditors",
       "tot_emp": 1448290,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 84001,
       "programs": [
         "ACCTBS",
@@ -104,7 +104,7 @@
     {
       "occ_title": "Statisticians",
       "tot_emp": 29800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 3516,
       "programs": [
         "ASTAT",
@@ -115,7 +115,7 @@
     },
     {
       "occ_title": "Data Scientists",
-      "tot_emp": 132,
+      "tot_emp": 233440,
       "employment_change": 0.36,
       "sort_order": 84038,
       "programs": [
@@ -163,8 +163,8 @@
     },
     {
       "occ_title": "General and Operations Managers",
-      "tot_emp": 2312,
-      "employment_change": 0.058,
+      "tot_emp": 3584420,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896,
       "programs": [
         "BSBIC",
@@ -179,7 +179,7 @@
     },
     {
       "occ_title": "Management Analysts",
-      "tot_emp": 3423,
+      "tot_emp": 893900,
       "employment_change": 0.106,
       "sort_order": 94753,
       "programs": [
@@ -191,7 +191,7 @@
     },
     {
       "occ_title": "Chief Executives",
-      "tot_emp": 122,
+      "tot_emp": 211850,
       "employment_change": 0.055,
       "sort_order": 11652,
       "programs": [
@@ -216,8 +216,8 @@
     },
     {
       "occ_title": "Industrial Production Managers",
-      "tot_emp": 2323,
-      "employment_change": 0.028,
+      "tot_emp": 234380,
+      "employment_change": 0.027999999999999997,
       "sort_order": 6563,
       "programs": [
         "2BACC",
@@ -228,8 +228,8 @@
     },
     {
       "occ_title": "Sales Managers",
-      "tot_emp": 222222,
-      "employment_change": 0.059,
+      "tot_emp": 603710,
+      "employment_change": 0.059000000000000004,
       "sort_order": 35619,
       "programs": [
         "2BACC",
@@ -241,7 +241,7 @@
     {
       "occ_title": "Social and Community Service Managers",
       "tot_emp": 195490,
-      "employment_change": 0.082,
+      "employment_change": 0.08199999999999999,
       "sort_order": 16030,
       "programs": [
         "MPCED",
@@ -251,7 +251,7 @@
     },
     {
       "occ_title": "Architectural and Engineering Managers",
-      "tot_emp": 1212,
+      "tot_emp": 210340,
       "employment_change": 0.055,
       "sort_order": 11569,
       "programs": [
@@ -267,7 +267,7 @@
     },
     {
       "occ_title": "Natural Sciences Managers",
-      "tot_emp": 22222222,
+      "tot_emp": 100870,
       "employment_change": 0.075,
       "sort_order": 7565,
       "programs": [
@@ -300,7 +300,7 @@
     },
     {
       "occ_title": "Private Detectives and Investigators",
-      "tot_emp": 4234334,
+      "tot_emp": 38700,
       "employment_change": 0.05,
       "sort_order": 1935,
       "programs": [
@@ -310,8 +310,8 @@
     },
     {
       "occ_title": "Bailiffs",
-      "tot_emp": 34234235,
-      "employment_change": -0.014,
+      "tot_emp": 16910,
+      "employment_change": -0.013999999999999999,
       "sort_order": -237,
       "programs": [
         "2CJCAAS"
@@ -320,7 +320,7 @@
     },
     {
       "occ_title": "Detectives and Criminal Investigators",
-      "tot_emp": 234234234,
+      "tot_emp": 110790,
       "employment_change": 0.023,
       "sort_order": 2548,
       "programs": [
@@ -336,7 +336,7 @@
     },
     {
       "occ_title": "Emergency Management Directors",
-      "tot_emp": 1233,
+      "tot_emp": 12570,
       "employment_change": 0.04,
       "sort_order": 503,
       "programs": [
@@ -350,7 +350,7 @@
     {
       "occ_title": "Probation Officers and Correctional Treatment Specialists",
       "tot_emp": 86820,
-      "employment_change": 0.036,
+      "employment_change": 0.036000000000000004,
       "sort_order": 3126,
       "programs": [
         "CJPAMPS"
@@ -359,8 +359,8 @@
     },
     {
       "occ_title": "Elementary School Teachers, Except Special Education",
-      "tot_emp": 234234,
-      "employment_change": -0.007,
+      "tot_emp": 1393310,
+      "employment_change": -0.006999999999999999,
       "sort_order": -9753,
       "programs": [
         "LLEDM"
@@ -369,8 +369,8 @@
     },
     {
       "occ_title": "Middle School Teachers, Except Special and Career/Technical Education",
-      "tot_emp": 456456,
-      "employment_change": -0.007,
+      "tot_emp": 620370,
+      "employment_change": -0.006999999999999999,
       "sort_order": -4343,
       "programs": [
         "LLEDM"
@@ -380,7 +380,7 @@
     {
       "occ_title": "Instructional Coordinators",
       "tot_emp": 210850,
-      "employment_change": 0.018,
+      "employment_change": 0.018000000000000002,
       "sort_order": 3795,
       "programs": [
         "LLEDM",
@@ -391,7 +391,7 @@
     },
     {
       "occ_title": "Secondary School Teachers, Except Special and Career/Technical Education",
-      "tot_emp": 234234,
+      "tot_emp": 1072540,
       "employment_change": -0.006,
       "sort_order": -6435,
       "programs": [
@@ -402,7 +402,7 @@
     {
       "occ_title": "Computer Occupations, All Other",
       "tot_emp": 439380,
-      "employment_change": 0.108,
+      "employment_change": 0.10800000000000001,
       "sort_order": 47453,
       "programs": [
         "CAOWCBS",
@@ -413,7 +413,7 @@
     },
     {
       "occ_title": "Information Security Analysts",
-      "tot_emp": 333333,
+      "tot_emp": 179430,
       "employment_change": 0.327,
       "sort_order": 58674,
       "programs": [
@@ -428,7 +428,7 @@
     },
     {
       "occ_title": "Computer and Information Systems Managers",
-      "tot_emp": 33333,
+      "tot_emp": 645970,
       "employment_change": 0.174,
       "sort_order": 112399,
       "programs": [
@@ -454,7 +454,7 @@
     {
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
+      "employment_change": 0.10800000000000001,
       "sort_order": 6995,
       "programs": [
         "DAANMDA",
@@ -489,7 +489,7 @@
     {
       "occ_title": "News Analysts, Reporters, and Journalists",
       "tot_emp": 41550,
-      "employment_change": -0.027,
+      "employment_change": -0.027000000000000003,
       "sort_order": -1122,
       "programs": [
         "DGJRMBA",
@@ -531,7 +531,7 @@
     {
       "occ_title": "Art Directors",
       "tot_emp": 50370,
-      "employment_change": 0.052,
+      "employment_change": 0.052000000000000005,
       "sort_order": 2619,
       "programs": [
         "DIGMDBDES"
@@ -566,7 +566,7 @@
     {
       "occ_title": "Conservation Scientists",
       "tot_emp": 25590,
-      "employment_change": 0.056,
+      "employment_change": 0.055999999999999994,
       "sort_order": 1433,
       "programs": [
         "EMGTMPS",
@@ -622,7 +622,7 @@
     {
       "occ_title": "Education Administrators, Postsecondary",
       "tot_emp": 176420,
-      "employment_change": 0.029,
+      "employment_change": 0.028999999999999998,
       "sort_order": 5116,
       "programs": [
         "EDUCDED",
@@ -665,7 +665,7 @@
     {
       "occ_title": "Compliance Officers",
       "tot_emp": 397770,
-      "employment_change": 0.054,
+      "employment_change": 0.054000000000000006,
       "sort_order": 21480,
       "programs": [
         "ESPBA",
@@ -740,7 +740,7 @@
     {
       "occ_title": "Surveying and Mapping Technicians",
       "tot_emp": 56720,
-      "employment_change": 0.056,
+      "employment_change": 0.055999999999999994,
       "sort_order": 3176,
       "programs": [
         "GIS",
@@ -851,7 +851,7 @@
     {
       "occ_title": "Preschool Teachers, Except Special Education",
       "tot_emp": 445080,
-      "employment_change": 0.044,
+      "employment_change": 0.044000000000000004,
       "sort_order": 19584,
       "programs": [
         "2EHFS",
@@ -886,7 +886,7 @@
     {
       "occ_title": "Network and Computer Systems Administrators",
       "tot_emp": 318570,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -8283,
       "programs": [
         "2 IST",
@@ -908,7 +908,7 @@
     {
       "occ_title": "Database Administrators",
       "tot_emp": 73180,
-      "employment_change": 0.082,
+      "employment_change": 0.08199999999999999,
       "sort_order": 6001,
       "programs": [
         "4 IST",
@@ -1038,7 +1038,7 @@
     {
       "occ_title": "Librarians and Media Collections Specialists",
       "tot_emp": 131830,
-      "employment_change": 0.029,
+      "employment_change": 0.028999999999999998,
       "sort_order": 3823,
       "programs": [
         "LDT"
@@ -1058,7 +1058,7 @@
     {
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -549,
       "programs": [
         "MRKTBS",
@@ -1070,7 +1070,7 @@
     {
       "occ_title": "Marketing Managers",
       "tot_emp": 384980,
-      "employment_change": 0.082,
+      "employment_change": 0.08199999999999999,
       "sort_order": 31568,
       "programs": [
         "MRKTBS",
@@ -1135,7 +1135,7 @@
     {
       "occ_title": "Nurse Practitioners",
       "tot_emp": 307390,
-      "employment_change": 0.463,
+      "employment_change": 0.46299999999999997,
       "sort_order": 142322,
       "programs": [
         "NDNPLDR",
@@ -1146,7 +1146,7 @@
     {
       "occ_title": "Dietitians and Nutritionists",
       "tot_emp": 76570,
-      "employment_change": 0.074,
+      "employment_change": 0.07400000000000001,
       "sort_order": 5666,
       "programs": [
         "NUTRMPS"
@@ -1200,7 +1200,7 @@
     {
       "occ_title": "Fundraisers",
       "tot_emp": 105930,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 6250,
       "programs": [
         "ORPCMBA",
@@ -1211,7 +1211,7 @@
     {
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178,
       "programs": [
         "OLEADBA",
@@ -1223,7 +1223,7 @@
     {
       "occ_title": "Political Scientists",
       "tot_emp": 5950,
-      "employment_change": 0.026,
+      "employment_change": 0.026000000000000002,
       "sort_order": 155,
       "programs": [
         "PL SC",
@@ -1247,7 +1247,7 @@
     {
       "occ_title": "Project Management Specialists",
       "tot_emp": 1006160,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 72444,
       "programs": [
         "PSCMBS",
@@ -1303,7 +1303,7 @@
     {
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576,
       "programs": [
         "SEBCBS",
@@ -1335,7 +1335,7 @@
     {
       "occ_title": "Special Education Teachers, Middle School",
       "tot_emp": 95330,
-      "employment_change": -0.009,
+      "employment_change": -0.009000000000000001,
       "sort_order": -858,
       "programs": [
         "SPLEDMED"
@@ -1345,7 +1345,7 @@
     {
       "occ_title": "Special Education Teachers, Kindergarten and Elementary School",
       "tot_emp": 231570,
-      "employment_change": -0.007,
+      "employment_change": -0.006999999999999999,
       "sort_order": -1621,
       "programs": [
         "SPLEDMED"
@@ -1375,7 +1375,7 @@
     {
       "occ_title": "Agricultural Technicians",
       "tot_emp": 14340,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 846,
       "programs": [
         "MPSTM"
@@ -1385,7 +1385,7 @@
     {
       "occ_title": "Soil and Plant Scientists",
       "tot_emp": 16600,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 1195,
       "programs": [
         "MPSTM"
