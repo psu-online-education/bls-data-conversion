@@ -93,6 +93,8 @@ function parseJsonFile(filepath) {
     console.log(`File access/read success`);
   } catch (err) {
     console.error(`File access/read error:\n${err.stack}`);
+    console.warn('Exiting process...');
+		process.exit(1);
   }
 
   // GitHub validation test: Valid JSON
@@ -102,5 +104,7 @@ function parseJsonFile(filepath) {
     return parsedData;
   } catch (parseError) {
     console.error(`File parse error:\n${parseError.stack}`);
+    console.warn('Exiting process...');
+		process.exit(1);
   }
 }
