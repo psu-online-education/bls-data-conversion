@@ -1,6 +1,6 @@
 {
-  "name": "@zri5004/bls-actions-prototype",
-  "version": "1.0.5",
+  "name": "@zri5004/bls-data-conversion",
+  "version": "1.1.0",
   "description": "Convert XLSX to JSON, validate JSON",
   "scripts": {
     "test": "exit 0",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zri5004/bls-actions-prototype.git"
+    "url": "git+https://github.com/zri5004/bls-data-conversion.git"
   },
   "author": "Zachary Ishler (https://github.com/zri5004)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zri5004/bls-actions-prototype/issues"
+    "url": "https://github.com/zri5004/bls-data-conversion/issues"
   },
-  "homepage": "https://github.com/zri5004/bls-actions-prototype#readme",
+  "homepage": "https://github.com/zri5004/bls-data-conversion#readme",
   "publishConfig": {
     "@zri5004:registry": "https://npm.pkg.github.com"
   },
