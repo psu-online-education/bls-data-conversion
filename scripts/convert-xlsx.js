@@ -6,6 +6,7 @@ const xlsxFilepath = 'docs/bls-data/World-Campus-BLS-Data-Latest.xlsx';
 
 // Parse raw format
 if (fileExists(xlsxFilepath)) {
+	console.log(`File \'${xlsxFilepath}\' exists`);
 	let workbook = readFileToWorkbook(xlsxFilepath);
 	if (typeof workbook !== 'undefined') {
 
@@ -25,8 +26,8 @@ if (fileExists(xlsxFilepath)) {
 			}
 		} catch (err) {
 			console.error(`Error during sheet conversion:\n${err.stack}`);
-			console.warn('Exiting function');
-			return;
+			console.warn('Exiting process...');
+			process.exit(1);
 		}
 
 		// Format for prospect use
@@ -113,15 +114,19 @@ if (fileExists(xlsxFilepath)) {
 		outputMap.forEach((filepath, json) => { outputJsonToFile(filepath, json) });
 	} else {
 		console.error('Workbook undefined');
+		console.warn('Exiting process...');
+		process.exit(1);
 	}
+} else {
+	console.error(`File \'${xlsxFilepath}\' does not exist or is inaccessible`);
+	console.warn('Exiting process...');
+	process.exit(1);
 }
 
 function fileExists(filepath) {
 	if (fs.existsSync(filepath)) {
-		console.log(`File \'${filepath}\' exists`);
 		return true;
 	} else {
-		console.error(`File \'${filepath}\' does not exist or is inaccessible`);
 		return false;
 	}
 }
@@ -138,6 +143,8 @@ function readFileToWorkbook(filepath) {
 		return workbook;
 	} catch (err) {
 		console.error(`File read error:\n${err}`);
+		console.warn('Exiting process...');
+		process.exit(1);
 	}
 }
 
@@ -152,5 +159,7 @@ function outputJsonToFile(jsonToOutput, filepathToWrite) {
 		console.log(`File write to \'${filepathToWrite}\' successful`);
 	} catch (err) {
 		console.error(`File write to \'${filepathToWrite}\' error:\n${err}`);
+		console.warn('Exiting process...');
+		process.exit(1);
 	}
 }
