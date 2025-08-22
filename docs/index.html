@@ -14,18 +14,17 @@
   <body>
     <div class="container-fluid">
       <p><h1>WC BLS Data Conversion</h1>
-        <a href="https://psu-ooe.github.io/bls-api-preview/" class="btn btn-primary">Prospect Preview <i class="fa fa-external-link" aria-hidden="true"></i></a></p>
+        <!-- <a href="https://psu-ooe.github.io/bls-api-preview/" class="btn btn-primary">Prospect Preview <i class="fa fa-external-link" aria-hidden="true"></i></a></p> -->
     </div>
     <div class="container-fluid">
       <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
           <div class="card">
-            <h4 class="card-header">Prospect JSON Format</h4>
+            <h4 class="card-header">Prospect Format JSON (PRODUCTION)</h4>
             <div class="card-body">
               <h5 class="card-title"><a href="bls-data/wc-bls-data-prospect.json" target="_blank" class>wc-bls-data-prospect.json <i class="fa fa-external-link" aria-hidden="true"></i></a></h5>
               <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Used by the WC Prospect Drupal integration.
               </p>
               <a href="bls-data/wc-bls-data-prospect.json" target="_blank" class="btn btn-primary" download>Download</a>
 
@@ -35,11 +34,25 @@
         </div>
         <div class="col">
           <div class="card">
-            <h4 class="card-header">Raw JSON</h4>
+            <h4 class="card-header">Prospect Format JSON (NON-PRODUCTION)</h4>
+            <div class="card-body">
+              <h5 class="card-title"><a href="https://github.com/psu-online-education/bls-data-conversion/raw/refs/heads/data/intake/docs/bls-data/wc-bls-data-prospect.json" target="_blank" class>wc-bls-data-prospect.json <i class="fa fa-external-link" aria-hidden="true"></i></a></h5>
+              <p class="card-text">
+                Used by the WC Prospect Drupal integration.
+              </p>
+              <a href="https://github.com/psu-online-education/bls-data-conversion/raw/refs/heads/data/intake/docs/bls-data/wc-bls-data-prospect.json" target="_blank" class="btn btn-primary" download>Download</a>
+
+            </div>
+            <div class="card-footer text-muted">Last updated: ____-__-__</div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <h4 class="card-header">Raw JSON (PRODUCTION)</h4>
             <div class="card-body">
               <h5 class="card-title"><a href="bls-data/wc-bls-data-raw.json" target="_blank">wc-bls-data-raw.json <i class="fa fa-external-link" aria-hidden="true"></i></a></h5>
               <p class="card-text">
-                Raw JSON file after conversions from Excel.
+                Raw JSON file without additional restructuring or formatting.
               </p>
               <a href="bls-data/wc-bls-data-raw.json" class="btn btn-primary" download>Download</a>
 
@@ -49,11 +62,37 @@
         </div>
         <div class="col">
           <div class="card">
-            <h4 class="card-header">MAMR Intake</h4>
+            <h4 class="card-header">Raw JSON (NON-PRODUCTION)</h4>
+            <div class="card-body">
+              <h5 class="card-title"><a href="https://github.com/psu-online-education/bls-data-conversion/raw/refs/heads/data/intake/docs/bls-data/wc-bls-data-raw.json" target="_blank">wc-bls-data-raw.json <i class="fa fa-external-link" aria-hidden="true"></i></a></h5>
+              <p class="card-text">
+                Raw JSON file without additional restructuring or formatting.
+              </p>
+              <a href="https://github.com/psu-online-education/bls-data-conversion/raw/refs/heads/data/intake/docs/bls-data/wc-bls-data-raw.json" class="btn btn-primary" download>Download</a>
+
+            </div>
+            <div class="card-footer text-muted">Last updated: ____-__-__</div>
+          </div>
+        </div>
+        
+        <div class="col">
+          <div class="card">
+            <h4 class="card-header">MAMR Intake Spreadsheet (PRODUCTION)</h4>
             <div class="card-body">
               <h5 class="card-title">World-Campus-BLS-Data-Latest.xlsx</h5>
               <p class="card-text">Raw intake Excel workbook from MAMR team.</p>
               <a href="bls-data/World-Campus-BLS-Data-Latest.xlsx" class="btn btn-primary" download>Download</a>
+            </div>
+            <div class="card-footer text-muted">Last updated: ____-__-__</div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <h4 class="card-header">MAMR Intake Spreadsheet (NON-PRODUCTION)</h4>
+            <div class="card-body">
+              <h5 class="card-title">World-Campus-BLS-Data-Latest.xlsx</h5>
+              <p class="card-text">Raw intake Excel workbook from MAMR team.</p>
+              <a href="https://github.com/psu-online-education/bls-data-conversion/raw/refs/heads/data/intake/docs/bls-data/World-Campus-BLS-Data-Latest.xlsx" class="btn btn-primary" download>Download</a>
             </div>
             <div class="card-footer text-muted">Last updated: ____-__-__</div>
           </div>
