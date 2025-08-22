@@ -38,6 +38,10 @@ jobs:
         npm run build --if-present
     - name: Convert XLSX to JSON
       run: npm run-script convert-xlsx
+    - name: Validate prospect JSON
+      run: npm run-script validate-json-prospect
+    - name: Validate raw JSON
+      run: npm run-script validate-json-raw
     - name: Commit converted files
       run: |
         git config user.name 'github-actions[bot]'
@@ -46,43 +50,9 @@ jobs:
         git add docs/bls-data/wc-bls-data-prospect.json
         git commit -m "Update BLS JSON files ${{ env.TIMESTAMP }}"
         git push
-  validate_json_raw:
-    name: Validate raw JSON
-    needs: intake_conversion
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout branch
-      uses: actions/checkout@v4
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
-    - name: Clean install dependencies and build
-      run: |
-        npm ci
-        npm run build --if-present
-    - name: Run validation script
-      run: npm run-script validate-json-raw
-  validate_json_prospect:
-    name: Validate prospect JSON
-    needs: intake_conversion
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout branch
-      uses: actions/checkout@v4
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: 20
-    - name: Clean install dependencies and build
-      run: |
-        npm ci
-        npm run build --if-present
-    - name: Run validation script
-      run: npm run-script validate-json-prospect
   create_pr:
     name: Create pull request
-    needs: [generate_timestamp, validate_json_raw, validate_json_prospect]
+    needs: [generate_timestamp, intake_conversion]
     runs-on: ubuntu-latest
     env:
       TIMESTAMP: ${{  needs.generate_timestamp.outputs.timestamp  }}
