@@ -1,21 +1,9 @@
 {
   "job_outlooks": [
     {
-      "occ_title": "Credit Analysts",
-      "tot_emp": 67370,
-      "employment_change": -0.039,
-      "sort_order": -2627,
-      "programs": [
-        "ACCTBS",
-        "FINBS",
-        "FDTANBS"
-      ],
-      "uid": "13-2041"
-    },
-    {
       "occ_title": "Accountants and Auditors",
       "tot_emp": 1448290,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 84001,
       "programs": [
         "ACCTBS",
@@ -36,6 +24,18 @@
         "FDTANBS"
       ],
       "uid": "13-2031"
+    },
+    {
+      "occ_title": "Credit Analysts",
+      "tot_emp": 67370,
+      "employment_change": -0.039,
+      "sort_order": -2627,
+      "programs": [
+        "ACCTBS",
+        "FINBS",
+        "FDTANBS"
+      ],
+      "uid": "13-2041"
     },
     {
       "occ_title": "Financial Examiners",
@@ -72,16 +72,6 @@
       "uid": "17-2112"
     },
     {
-      "occ_title": "Farm and Home Management Educators",
-      "tot_emp": 10260,
-      "employment_change": -0.017,
-      "sort_order": -174,
-      "programs": [
-        "AGBM"
-      ],
-      "uid": "25-9021"
-    },
-    {
       "occ_title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
       "tot_emp": 29530,
       "employment_change": 0.031,
@@ -102,16 +92,14 @@
       "uid": "11-9013"
     },
     {
-      "occ_title": "Statisticians",
-      "tot_emp": 29800,
-      "employment_change": 0.118,
-      "sort_order": 3516,
+      "occ_title": "Farm and Home Management Educators",
+      "tot_emp": 10260,
+      "employment_change": -0.017,
+      "sort_order": -174,
       "programs": [
-        "ASTAT",
-        "DAANMDA",
-        "FDTANBS"
+        "AGBM"
       ],
-      "uid": "15-2041"
+      "uid": "25-9021"
     },
     {
       "occ_title": "Data Scientists",
@@ -130,15 +118,16 @@
       "uid": "15-2051"
     },
     {
-      "occ_title": "Health Education Specialists",
-      "tot_emp": 65150,
-      "employment_change": 0.07,
-      "sort_order": 4561,
+      "occ_title": "Statisticians",
+      "tot_emp": 29800,
+      "employment_change": 0.11800000000000001,
+      "sort_order": 3516,
       "programs": [
-        "BBHBS",
-        "PHMPH"
+        "ASTAT",
+        "DAANMDA",
+        "FDTANBS"
       ],
-      "uid": "21-1091"
+      "uid": "15-2041"
     },
     {
       "occ_title": "Community Health Workers",
@@ -152,19 +141,20 @@
       "uid": "21-1094"
     },
     {
-      "occ_title": "Administrative Services Managers",
-      "tot_emp": 254140,
-      "employment_change": 0.062,
-      "sort_order": 15757,
+      "occ_title": "Health Education Specialists",
+      "tot_emp": 65150,
+      "employment_change": 0.07,
+      "sort_order": 4561,
       "programs": [
-        "BSBIC"
+        "BBHBS",
+        "PHMPH"
       ],
-      "uid": "11-3012"
+      "uid": "21-1091"
     },
     {
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896,
       "programs": [
         "BSBIC",
@@ -176,6 +166,16 @@
         "SMEXLMMGT"
       ],
       "uid": "11-1021"
+    },
+    {
+      "occ_title": "Administrative Services Managers",
+      "tot_emp": 254140,
+      "employment_change": 0.062,
+      "sort_order": 15757,
+      "programs": [
+        "BSBIC"
+      ],
+      "uid": "11-3012"
     },
     {
       "occ_title": "Management Analysts",
@@ -203,8 +203,20 @@
       "uid": "11-1011"
     },
     {
+      "occ_title": "Sales Managers",
+      "tot_emp": 603710,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 35619,
+      "programs": [
+        "2BACC",
+        "OLEADBA",
+        "OLEAD"
+      ],
+      "uid": "11-2022"
+    },
+    {
       "occ_title": "Transportation, Storage, and Distribution Managers",
-      "tot_emp": 222,
+      "tot_emp": 213000,
       "employment_change": 0.09,
       "sort_order": 19170,
       "programs": [
@@ -217,7 +229,7 @@
     {
       "occ_title": "Industrial Production Managers",
       "tot_emp": 234380,
-      "employment_change": 0.028,
+      "employment_change": 0.027999999999999997,
       "sort_order": 6563,
       "programs": [
         "2BACC",
@@ -227,21 +239,9 @@
       "uid": "11-3051"
     },
     {
-      "occ_title": "Sales Managers",
-      "tot_emp": 603710,
-      "employment_change": 0.059,
-      "sort_order": 35619,
-      "programs": [
-        "2BACC",
-        "OLEADBA",
-        "OLEAD"
-      ],
-      "uid": "11-2022"
-    },
-    {
       "occ_title": "Social and Community Service Managers",
       "tot_emp": 195490,
-      "employment_change": 0.082,
+      "employment_change": 0.08199999999999999,
       "sort_order": 16030,
       "programs": [
         "MPCED",
@@ -288,17 +288,6 @@
       "uid": "33-3051"
     },
     {
-      "occ_title": "First-Line Supervisors of Correctional Officers",
-      "tot_emp": 53390,
-      "employment_change": -0.016,
-      "sort_order": -854,
-      "programs": [
-        "2CJCAAS",
-        "4CRMJ"
-      ],
-      "uid": "33-1011"
-    },
-    {
       "occ_title": "Private Detectives and Investigators",
       "tot_emp": 38700,
       "employment_change": 0.05,
@@ -310,13 +299,24 @@
     },
     {
       "occ_title": "Bailiffs",
-      "tot_emp": 222,
-      "employment_change": -0.014,
+      "tot_emp": 16910,
+      "employment_change": -0.013999999999999999,
       "sort_order": -237,
       "programs": [
         "2CJCAAS"
       ],
       "uid": "33-3011"
+    },
+    {
+      "occ_title": "First-Line Supervisors of Correctional Officers",
+      "tot_emp": 53390,
+      "employment_change": -0.016,
+      "sort_order": -854,
+      "programs": [
+        "2CJCAAS",
+        "4CRMJ"
+      ],
+      "uid": "33-1011"
     },
     {
       "occ_title": "Detectives and Criminal Investigators",
@@ -335,6 +335,16 @@
       "uid": "33-3021"
     },
     {
+      "occ_title": "Probation Officers and Correctional Treatment Specialists",
+      "tot_emp": 86820,
+      "employment_change": 0.036000000000000004,
+      "sort_order": 3126,
+      "programs": [
+        "CJPAMPS"
+      ],
+      "uid": "21-1092"
+    },
+    {
       "occ_title": "Emergency Management Directors",
       "tot_emp": 12570,
       "employment_change": 0.04,
@@ -348,39 +358,9 @@
       "uid": "11-9161"
     },
     {
-      "occ_title": "Probation Officers and Correctional Treatment Specialists",
-      "tot_emp": 2222,
-      "employment_change": 0.036,
-      "sort_order": 3126,
-      "programs": [
-        "CJPAMPS"
-      ],
-      "uid": "21-1092"
-    },
-    {
-      "occ_title": "Elementary School Teachers, Except Special Education",
-      "tot_emp": 1393310,
-      "employment_change": -0.007,
-      "sort_order": -9753,
-      "programs": [
-        "LLEDM"
-      ],
-      "uid": "25-2021"
-    },
-    {
-      "occ_title": "Middle School Teachers, Except Special and Career/Technical Education",
-      "tot_emp": 620370,
-      "employment_change": -0.007,
-      "sort_order": -4343,
-      "programs": [
-        "LLEDM"
-      ],
-      "uid": "25-2022"
-    },
-    {
       "occ_title": "Instructional Coordinators",
-      "tot_emp": 2222,
-      "employment_change": 0.018,
+      "tot_emp": 210850,
+      "employment_change": 0.018000000000000002,
       "sort_order": 3795,
       "programs": [
         "LLEDM",
@@ -388,6 +368,16 @@
         "LDT"
       ],
       "uid": "25-9031"
+    },
+    {
+      "occ_title": "Middle School Teachers, Except Special and Career/Technical Education",
+      "tot_emp": 620370,
+      "employment_change": -0.006999999999999999,
+      "sort_order": -4343,
+      "programs": [
+        "LLEDM"
+      ],
+      "uid": "25-2022"
     },
     {
       "occ_title": "Secondary School Teachers, Except Special and Career/Technical Education",
@@ -400,16 +390,14 @@
       "uid": "25-2031"
     },
     {
-      "occ_title": "Computer Occupations, All Other",
-      "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453,
+      "occ_title": "Elementary School Teachers, Except Special Education",
+      "tot_emp": 1393310,
+      "employment_change": -0.006999999999999999,
+      "sort_order": -9753,
       "programs": [
-        "CAOWCBS",
-        "HLSGI",
-        "SYSEN"
+        "LLEDM"
       ],
-      "uid": "15-1299"
+      "uid": "25-2021"
     },
     {
       "occ_title": "Information Security Analysts",
@@ -425,6 +413,18 @@
         "SRA"
       ],
       "uid": "15-1212"
+    },
+    {
+      "occ_title": "Computer Occupations, All Other",
+      "tot_emp": 439380,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453,
+      "programs": [
+        "CAOWCBS",
+        "HLSGI",
+        "SYSEN"
+      ],
+      "uid": "15-1299"
     },
     {
       "occ_title": "Computer and Information Systems Managers",
@@ -454,7 +454,7 @@
     {
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
+      "employment_change": 0.10800000000000001,
       "sort_order": 6995,
       "programs": [
         "DAANMDA",
@@ -475,6 +475,18 @@
       "uid": "27-2012"
     },
     {
+      "occ_title": "News Analysts, Reporters, and Journalists",
+      "tot_emp": 41550,
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1122,
+      "programs": [
+        "DGJRMBA",
+        "ORPCMBA",
+        "ORPCMBS"
+      ],
+      "uid": "27-3023"
+    },
+    {
       "occ_title": "Editors",
       "tot_emp": 95480,
       "employment_change": -0.02,
@@ -487,18 +499,6 @@
       "uid": "27-3041"
     },
     {
-      "occ_title": "News Analysts, Reporters, and Journalists",
-      "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1122,
-      "programs": [
-        "DGJRMBA",
-        "ORPCMBA",
-        "ORPCMBS"
-      ],
-      "uid": "27-3023"
-    },
-    {
       "occ_title": "Web and Digital Interface Designers",
       "tot_emp": 111400,
       "employment_change": 0.079,
@@ -507,16 +507,6 @@
         "DIGMDBDES"
       ],
       "uid": "15-1255"
-    },
-    {
-      "occ_title": "Special Effects Artists and Animators",
-      "tot_emp": 21280,
-      "employment_change": 0.043,
-      "sort_order": 915,
-      "programs": [
-        "DIGMDBDES"
-      ],
-      "uid": "27-1014"
     },
     {
       "occ_title": "Graphic Designers",
@@ -531,12 +521,22 @@
     {
       "occ_title": "Art Directors",
       "tot_emp": 50370,
-      "employment_change": 0.052,
+      "employment_change": 0.052000000000000005,
       "sort_order": 2619,
       "programs": [
         "DIGMDBDES"
       ],
       "uid": "27-1011"
+    },
+    {
+      "occ_title": "Special Effects Artists and Animators",
+      "tot_emp": 21280,
+      "employment_change": 0.043,
+      "sort_order": 915,
+      "programs": [
+        "DIGMDBDES"
+      ],
+      "uid": "27-1014"
     },
     {
       "occ_title": "Market Research Analysts and Marketing Specialists",
@@ -564,19 +564,6 @@
       "uid": "19-3011"
     },
     {
-      "occ_title": "Conservation Scientists",
-      "tot_emp": 25590,
-      "employment_change": 0.056,
-      "sort_order": 1433,
-      "programs": [
-        "EMGTMPS",
-        "ESPBA",
-        "ESPBSBS",
-        "RESS"
-      ],
-      "uid": "19-1031"
-    },
-    {
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
@@ -590,14 +577,17 @@
       "uid": "19-2041"
     },
     {
-      "occ_title": "Education Teachers, Postsecondary",
-      "tot_emp": 59090,
-      "employment_change": 0.033,
-      "sort_order": 1950,
+      "occ_title": "Conservation Scientists",
+      "tot_emp": 25590,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 1433,
       "programs": [
-        "EDUCDED"
+        "EMGTMPS",
+        "ESPBA",
+        "ESPBSBS",
+        "RESS"
       ],
-      "uid": "25-1081"
+      "uid": "19-1031"
     },
     {
       "occ_title": "Educational, Guidance, and Career Counselors and Advisors",
@@ -610,6 +600,28 @@
       "uid": "21-1012"
     },
     {
+      "occ_title": "Education Administrators, Postsecondary",
+      "tot_emp": 176420,
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116,
+      "programs": [
+        "EDUCDED",
+        "EDLDR",
+        "HIGHED"
+      ],
+      "uid": "11-9033"
+    },
+    {
+      "occ_title": "Education Teachers, Postsecondary",
+      "tot_emp": 59090,
+      "employment_change": 0.033,
+      "sort_order": 1950,
+      "programs": [
+        "EDUCDED"
+      ],
+      "uid": "25-1081"
+    },
+    {
       "occ_title": "Education Administrators, All Other",
       "tot_emp": 53330,
       "employment_change": 0.025,
@@ -618,18 +630,6 @@
         "EDUCDED"
       ],
       "uid": "11-9039"
-    },
-    {
-      "occ_title": "Education Administrators, Postsecondary",
-      "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116,
-      "programs": [
-        "EDUCDED",
-        "EDLDR",
-        "HIGHED"
-      ],
-      "uid": "11-9033"
     },
     {
       "occ_title": "Education Administrators, Kindergarten through Secondary",
@@ -665,7 +665,7 @@
     {
       "occ_title": "Compliance Officers",
       "tot_emp": 397770,
-      "employment_change": 0.054,
+      "employment_change": 0.054000000000000006,
       "sort_order": 21480,
       "programs": [
         "ESPBA",
@@ -707,6 +707,16 @@
       "uid": "43-9111"
     },
     {
+      "occ_title": "Architects, Except Landscape and Naval",
+      "tot_emp": 111140,
+      "employment_change": 0.078,
+      "sort_order": 8669,
+      "programs": [
+        "MPSGEO"
+      ],
+      "uid": "17-1011"
+    },
+    {
       "occ_title": "Urban and Regional Planners",
       "tot_emp": 43040,
       "employment_change": 0.043,
@@ -717,14 +727,15 @@
       "uid": "19-3051"
     },
     {
-      "occ_title": "Architects, Except Landscape and Naval",
-      "tot_emp": 111140,
-      "employment_change": 0.078,
-      "sort_order": 8669,
+      "occ_title": "Surveying and Mapping Technicians",
+      "tot_emp": 56720,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 3176,
       "programs": [
-        "MPSGEO"
+        "GIS",
+        "SDSMS"
       ],
-      "uid": "17-1011"
+      "uid": "17-3031"
     },
     {
       "occ_title": "Cartographers and Photogrammetrists",
@@ -736,17 +747,6 @@
         "SDSMS"
       ],
       "uid": "17-1021"
-    },
-    {
-      "occ_title": "Surveying and Mapping Technicians",
-      "tot_emp": 56720,
-      "employment_change": 0.056,
-      "sort_order": 3176,
-      "programs": [
-        "GIS",
-        "SDSMS"
-      ],
-      "uid": "17-3031"
     },
     {
       "occ_title": "Physical Scientists, All Other",
@@ -828,16 +828,6 @@
       "uid": "19-4092"
     },
     {
-      "occ_title": "Teaching Assistants, Except Postsecondary",
-      "tot_emp": 1375300,
-      "employment_change": -0.006,
-      "sort_order": -8252,
-      "programs": [
-        "2EHFS"
-      ],
-      "uid": "25-9045"
-    },
-    {
       "occ_title": "Social and Human Service Assistants",
       "tot_emp": 424220,
       "employment_change": 0.079,
@@ -851,13 +841,23 @@
     {
       "occ_title": "Preschool Teachers, Except Special Education",
       "tot_emp": 445080,
-      "employment_change": 0.044,
+      "employment_change": 0.044000000000000004,
       "sort_order": 19584,
       "programs": [
         "2EHFS",
         "HDFS"
       ],
       "uid": "25-2011"
+    },
+    {
+      "occ_title": "Teaching Assistants, Except Postsecondary",
+      "tot_emp": 1375300,
+      "employment_change": -0.006,
+      "sort_order": -8252,
+      "programs": [
+        "2EHFS"
+      ],
+      "uid": "25-9045"
     },
     {
       "occ_title": "Child, Family, and School Social Workers",
@@ -884,18 +884,6 @@
       "uid": "15-1211"
     },
     {
-      "occ_title": "Network and Computer Systems Administrators",
-      "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8283,
-      "programs": [
-        "2 IST",
-        "4 IST",
-        "SRA"
-      ],
-      "uid": "15-1244"
-    },
-    {
       "occ_title": "Computer Network Support Specialists",
       "tot_emp": 146450,
       "employment_change": 0.073,
@@ -906,9 +894,31 @@
       "uid": "15-1231"
     },
     {
+      "occ_title": "Network and Computer Systems Administrators",
+      "tot_emp": 318570,
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8283,
+      "programs": [
+        "2 IST",
+        "4 IST",
+        "SRA"
+      ],
+      "uid": "15-1244"
+    },
+    {
+      "occ_title": "Web Developers",
+      "tot_emp": 78860,
+      "employment_change": 0.09,
+      "sort_order": 7097,
+      "programs": [
+        "4 IST"
+      ],
+      "uid": "15-1254"
+    },
+    {
       "occ_title": "Database Administrators",
       "tot_emp": 73180,
-      "employment_change": 0.082,
+      "employment_change": 0.08199999999999999,
       "sort_order": 6001,
       "programs": [
         "4 IST",
@@ -928,14 +938,16 @@
       "uid": "15-1251"
     },
     {
-      "occ_title": "Web Developers",
-      "tot_emp": 78860,
-      "employment_change": 0.09,
-      "sort_order": 7097,
+      "occ_title": "Human Resources Specialists",
+      "tot_emp": 917460,
+      "employment_change": 0.079,
+      "sort_order": 72479,
       "programs": [
-        "4 IST"
+        "2LHRAS",
+        "LHRBABA",
+        "LHRBSBS"
       ],
-      "uid": "15-1254"
+      "uid": "13-1071"
     },
     {
       "occ_title": "Labor Relations Specialists",
@@ -960,16 +972,15 @@
       "uid": "43-4161"
     },
     {
-      "occ_title": "Human Resources Specialists",
-      "tot_emp": 917460,
-      "employment_change": 0.079,
-      "sort_order": 72479,
+      "occ_title": "Human Resources Managers",
+      "tot_emp": 215520,
+      "employment_change": 0.065,
+      "sort_order": 14009,
       "programs": [
-        "2LHRAS",
         "LHRBABA",
         "LHRBSBS"
       ],
-      "uid": "13-1071"
+      "uid": "11-3121"
     },
     {
       "occ_title": "Arbitrators, Mediators, and Conciliators",
@@ -983,17 +994,6 @@
       "uid": "23-1022"
     },
     {
-      "occ_title": "Human Resources Managers",
-      "tot_emp": 215520,
-      "employment_change": 0.065,
-      "sort_order": 14009,
-      "programs": [
-        "LHRBABA",
-        "LHRBSBS"
-      ],
-      "uid": "11-3121"
-    },
-    {
       "occ_title": "Compensation and Benefits Managers",
       "tot_emp": 20070,
       "employment_change": 0.021,
@@ -1005,16 +1005,6 @@
       "uid": "11-3111"
     },
     {
-      "occ_title": "Legal Support Workers, All Other",
-      "tot_emp": 47380,
-      "employment_change": 0.01,
-      "sort_order": 474,
-      "programs": [
-        "LAWSC"
-      ],
-      "uid": "23-2099"
-    },
-    {
       "occ_title": "Paralegals and Legal Assistants",
       "tot_emp": 367220,
       "employment_change": 0.012,
@@ -1023,6 +1013,16 @@
         "LAWSC"
       ],
       "uid": "23-2011"
+    },
+    {
+      "occ_title": "Legal Support Workers, All Other",
+      "tot_emp": 47380,
+      "employment_change": 0.01,
+      "sort_order": 474,
+      "programs": [
+        "LAWSC"
+      ],
+      "uid": "23-2099"
     },
     {
       "occ_title": "Training and Development Specialists",
@@ -1038,7 +1038,7 @@
     {
       "occ_title": "Librarians and Media Collections Specialists",
       "tot_emp": 131830,
-      "employment_change": 0.029,
+      "employment_change": 0.028999999999999998,
       "sort_order": 3823,
       "programs": [
         "LDT"
@@ -1056,9 +1056,20 @@
       "uid": "25-3011"
     },
     {
+      "occ_title": "Marketing Managers",
+      "tot_emp": 384980,
+      "employment_change": 0.08199999999999999,
+      "sort_order": 31568,
+      "programs": [
+        "MRKTBS",
+        "MMAIMMKT"
+      ],
+      "uid": "11-2021"
+    },
+    {
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -549,
       "programs": [
         "MRKTBS",
@@ -1066,17 +1077,6 @@
         "STCOMMPS"
       ],
       "uid": "11-2011"
-    },
-    {
-      "occ_title": "Marketing Managers",
-      "tot_emp": 384980,
-      "employment_change": 0.082,
-      "sort_order": 31568,
-      "programs": [
-        "MRKTBS",
-        "MMAIMMKT"
-      ],
-      "uid": "11-2021"
     },
     {
       "occ_title": "Software Developers",
@@ -1135,7 +1135,7 @@
     {
       "occ_title": "Nurse Practitioners",
       "tot_emp": 307390,
-      "employment_change": 0.463,
+      "employment_change": 0.46299999999999997,
       "sort_order": 142322,
       "programs": [
         "NDNPLDR",
@@ -1146,7 +1146,7 @@
     {
       "occ_title": "Dietitians and Nutritionists",
       "tot_emp": 76570,
-      "employment_change": 0.074,
+      "employment_change": 0.07400000000000001,
       "sort_order": 5666,
       "programs": [
         "NUTRMPS"
@@ -1164,17 +1164,6 @@
       "uid": "11-3131"
     },
     {
-      "occ_title": "Technical Writers",
-      "tot_emp": 55530,
-      "employment_change": 0.04,
-      "sort_order": 2221,
-      "programs": [
-        "ORPCMBA",
-        "ORPCMBS"
-      ],
-      "uid": "27-3042"
-    },
-    {
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
@@ -1185,6 +1174,17 @@
         "STRCMBA"
       ],
       "uid": "27-3031"
+    },
+    {
+      "occ_title": "Fundraisers",
+      "tot_emp": 105930,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 6250,
+      "programs": [
+        "ORPCMBA",
+        "ORPCMBS"
+      ],
+      "uid": "13-1131"
     },
     {
       "occ_title": "Writers and Authors",
@@ -1198,20 +1198,20 @@
       "uid": "27-3043"
     },
     {
-      "occ_title": "Fundraisers",
-      "tot_emp": 105930,
-      "employment_change": 0.059,
-      "sort_order": 6250,
+      "occ_title": "Technical Writers",
+      "tot_emp": 55530,
+      "employment_change": 0.04,
+      "sort_order": 2221,
       "programs": [
         "ORPCMBA",
         "ORPCMBS"
       ],
-      "uid": "13-1131"
+      "uid": "27-3042"
     },
     {
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178,
       "programs": [
         "OLEADBA",
@@ -1219,17 +1219,6 @@
         "P ADM"
       ],
       "uid": "11-2033"
-    },
-    {
-      "occ_title": "Political Scientists",
-      "tot_emp": 5950,
-      "employment_change": 0.026,
-      "sort_order": 155,
-      "programs": [
-        "PL SC",
-        "PLSBS"
-      ],
-      "uid": "19-3094"
     },
     {
       "occ_title": "Social Science Research Assistants",
@@ -1245,9 +1234,20 @@
       "uid": "19-4061"
     },
     {
+      "occ_title": "Political Scientists",
+      "tot_emp": 5950,
+      "employment_change": 0.026000000000000002,
+      "sort_order": 155,
+      "programs": [
+        "PL SC",
+        "PLSBS"
+      ],
+      "uid": "19-3094"
+    },
+    {
       "occ_title": "Project Management Specialists",
       "tot_emp": 1006160,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 72444,
       "programs": [
         "PSCMBS",
@@ -1303,7 +1303,7 @@
     {
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576,
       "programs": [
         "SEBCBS",
@@ -1311,16 +1311,6 @@
         "SYSEN"
       ],
       "uid": "15-1253"
-    },
-    {
-      "occ_title": "Special Education Teachers, Secondary School",
-      "tot_emp": 162780,
-      "employment_change": -0.006,
-      "sort_order": -977,
-      "programs": [
-        "SPLEDMED"
-      ],
-      "uid": "25-2058"
     },
     {
       "occ_title": "Special Education Teachers, Preschool",
@@ -1335,7 +1325,7 @@
     {
       "occ_title": "Special Education Teachers, Middle School",
       "tot_emp": 95330,
-      "employment_change": -0.009,
+      "employment_change": -0.009000000000000001,
       "sort_order": -858,
       "programs": [
         "SPLEDMED"
@@ -1343,9 +1333,19 @@
       "uid": "25-2057"
     },
     {
+      "occ_title": "Special Education Teachers, Secondary School",
+      "tot_emp": 162780,
+      "employment_change": -0.006,
+      "sort_order": -977,
+      "programs": [
+        "SPLEDMED"
+      ],
+      "uid": "25-2058"
+    },
+    {
       "occ_title": "Special Education Teachers, Kindergarten and Elementary School",
       "tot_emp": 231570,
-      "employment_change": -0.007,
+      "employment_change": -0.006999999999999999,
       "sort_order": -1621,
       "programs": [
         "SPLEDMED"
@@ -1363,6 +1363,26 @@
       "uid": "13-2081"
     },
     {
+      "occ_title": "Soil and Plant Scientists",
+      "tot_emp": 16600,
+      "employment_change": 0.07200000000000001,
+      "sort_order": 1195,
+      "programs": [
+        "MPSTM"
+      ],
+      "uid": "19-1013"
+    },
+    {
+      "occ_title": "Agricultural Technicians",
+      "tot_emp": 14340,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 846,
+      "programs": [
+        "MPSTM"
+      ],
+      "uid": "19-4012"
+    },
+    {
       "occ_title": "Agricultural Inspectors",
       "tot_emp": 12090,
       "employment_change": 0.039,
@@ -1371,26 +1391,6 @@
         "MPSTM"
       ],
       "uid": "45-2011"
-    },
-    {
-      "occ_title": "Agricultural Technicians",
-      "tot_emp": 14340,
-      "employment_change": 0.059,
-      "sort_order": 846,
-      "programs": [
-        "MPSTM"
-      ],
-      "uid": "19-4012"
-    },
-    {
-      "occ_title": "Soil and Plant Scientists",
-      "tot_emp": 16600,
-      "employment_change": 0.072,
-      "sort_order": 1195,
-      "programs": [
-        "MPSTM"
-      ],
-      "uid": "19-1013"
     },
     {
       "occ_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",

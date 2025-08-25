@@ -6,6 +6,30 @@
       "program_id": 658,
       "program_name": "Accounting (Bachelor of Science)",
       "area_title": "U.S.",
+      "occ_code": "13-2011",
+      "occ_title": "Accountants and Auditors",
+      "tot_emp": 1448290,
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84000.81999999999
+    },
+    {
+      "prospect_code": "ACCTBS",
+      "deprecated": "",
+      "program_id": 658,
+      "program_name": "Accounting (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "13-2031",
+      "occ_title": "Budget Analysts",
+      "tot_emp": 47170,
+      "employment_change": 0.039,
+      "sort_order": 1839.63
+    },
+    {
+      "prospect_code": "ACCTBS",
+      "deprecated": "",
+      "program_id": 658,
+      "program_name": "Accounting (Bachelor of Science)",
+      "area_title": "U.S.",
       "occ_code": "13-2041",
       "occ_title": "Credit Analysts",
       "tot_emp": 67370,
@@ -13,40 +37,16 @@
       "sort_order": -2627.43
     },
     {
-      "prospect_code": "ACCTBS",
-      "deprecated": "",
-      "program_id": 658,
-      "program_name": "Accounting (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "13-2011",
-      "occ_title": "Accountants and Auditors",
-      "tot_emp": 1448290,
-      "employment_change": 0.058,
-      "sort_order": 84000.82
-    },
-    {
-      "prospect_code": "ACCTBS",
-      "deprecated": "",
-      "program_id": 658,
-      "program_name": "Accounting (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "13-2031",
-      "occ_title": "Budget Analysts",
-      "tot_emp": 47170,
-      "employment_change": 0.039,
-      "sort_order": 1839.63
-    },
-    {
       "prospect_code": "ACCTMS",
       "deprecated": "",
       "program_id": 2158,
       "program_name": "Accounting (Master of Professional Accounting)",
       "area_title": "U.S.",
-      "occ_code": "13-2031",
-      "occ_title": "Budget Analysts",
-      "tot_emp": 47170,
-      "employment_change": 0.039,
-      "sort_order": 1839.63
+      "occ_code": "13-2011",
+      "occ_title": "Accountants and Auditors",
+      "tot_emp": 1448290,
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84000.81999999999
     },
     {
       "prospect_code": "ACCTMS",
@@ -66,11 +66,11 @@
       "program_id": 2158,
       "program_name": "Accounting (Master of Professional Accounting)",
       "area_title": "U.S.",
-      "occ_code": "13-2011",
-      "occ_title": "Accountants and Auditors",
-      "tot_emp": 1448290,
-      "employment_change": 0.058,
-      "sort_order": 84000.82
+      "occ_code": "13-2031",
+      "occ_title": "Budget Analysts",
+      "tot_emp": 47170,
+      "employment_change": 0.039,
+      "sort_order": 1839.63
     },
     {
       "prospect_code": "ACS",
@@ -114,18 +114,6 @@
       "program_id": 145,
       "program_name": "Agribusiness Management (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "25-9021",
-      "occ_title": "Farm and Home Management Educators",
-      "tot_emp": 10260,
-      "employment_change": -0.017,
-      "sort_order": -174.42
-    },
-    {
-      "prospect_code": "AGBM",
-      "deprecated": "",
-      "program_id": 145,
-      "program_name": "Agribusiness Management (Bachelor of Science)",
-      "area_title": "U.S.",
       "occ_code": "45-1011",
       "occ_title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
       "tot_emp": 29530,
@@ -145,16 +133,16 @@
       "sort_order": -94.56
     },
     {
-      "prospect_code": "ASTAT",
+      "prospect_code": "AGBM",
       "deprecated": "",
-      "program_id": 56,
-      "program_name": "Applied Statistics (Master's Degree)",
+      "program_id": 145,
+      "program_name": "Agribusiness Management (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "15-2041",
-      "occ_title": "Statisticians",
-      "tot_emp": 29800,
-      "employment_change": 0.118,
-      "sort_order": 3516.4
+      "occ_code": "25-9021",
+      "occ_title": "Farm and Home Management Educators",
+      "tot_emp": 10260,
+      "employment_change": -0.017,
+      "sort_order": -174.42000000000002
     },
     {
       "prospect_code": "ASTAT",
@@ -169,16 +157,16 @@
       "sort_order": 84038.4
     },
     {
-      "prospect_code": "BBHBS",
+      "prospect_code": "ASTAT",
       "deprecated": "",
-      "program_id": 801,
-      "program_name": "Biobehavioral Health (Bachelor of Science)",
+      "program_id": 56,
+      "program_name": "Applied Statistics (Master's Degree)",
       "area_title": "U.S.",
-      "occ_code": "21-1091",
-      "occ_title": "Health Education Specialists",
-      "tot_emp": 65150,
-      "employment_change": 0.07,
-      "sort_order": 4560.5
+      "occ_code": "15-2041",
+      "occ_title": "Statisticians",
+      "tot_emp": 29800,
+      "employment_change": 0.11800000000000001,
+      "sort_order": 3516.4
     },
     {
       "prospect_code": "BBHBS",
@@ -193,6 +181,30 @@
       "sort_order": 7955.63
     },
     {
+      "prospect_code": "BBHBS",
+      "deprecated": "",
+      "program_id": 801,
+      "program_name": "Biobehavioral Health (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "21-1091",
+      "occ_title": "Health Education Specialists",
+      "tot_emp": 65150,
+      "employment_change": 0.07,
+      "sort_order": 4560.5
+    },
+    {
+      "prospect_code": "BSBIC",
+      "deprecated": "",
+      "program_id": 33,
+      "program_name": "Business (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "11-1021",
+      "occ_title": "General and Operations Managers",
+      "tot_emp": 3584420,
+      "employment_change": 0.057999999999999996,
+      "sort_order": 207896.36
+    },
+    {
       "prospect_code": "BSBIC",
       "deprecated": "",
       "program_id": 33,
@@ -205,15 +217,15 @@
       "sort_order": 15756.68
     },
     {
-      "prospect_code": "BSBIC",
+      "prospect_code": "MBADMMBA",
       "deprecated": "",
-      "program_id": 33,
-      "program_name": "Business (Bachelor of Science)",
+      "program_id": 2316,
+      "program_name": "Business Administration - MBA (Master's Degree)",
       "area_title": "U.S.",
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -241,16 +253,28 @@
       "sort_order": 11651.75
     },
     {
-      "prospect_code": "MBADMMBA",
+      "prospect_code": "2BACC",
       "deprecated": "",
-      "program_id": 2316,
-      "program_name": "Business Administration - MBA (Master's Degree)",
+      "program_id": 24,
+      "program_name": "Business Administration (Associate in Science)",
       "area_title": "U.S.",
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
+    },
+    {
+      "prospect_code": "2BACC",
+      "deprecated": "",
+      "program_id": 24,
+      "program_name": "Business Administration (Associate in Science)",
+      "area_title": "U.S.",
+      "occ_code": "11-2022",
+      "occ_title": "Sales Managers",
+      "tot_emp": 603710,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 35618.89
     },
     {
       "prospect_code": "2BACC",
@@ -260,7 +284,7 @@
       "area_title": "U.S.",
       "occ_code": "11-3071",
       "occ_title": "Transportation, Storage, and Distribution Managers",
-      "tot_emp": 222,
+      "tot_emp": 213000,
       "employment_change": 0.09,
       "sort_order": 19170
     },
@@ -273,32 +297,8 @@
       "occ_code": "11-3051",
       "occ_title": "Industrial Production Managers",
       "tot_emp": 234380,
-      "employment_change": 0.028,
-      "sort_order": 6562.64
-    },
-    {
-      "prospect_code": "2BACC",
-      "deprecated": "",
-      "program_id": 24,
-      "program_name": "Business Administration (Associate in Science)",
-      "area_title": "U.S.",
-      "occ_code": "11-2022",
-      "occ_title": "Sales Managers",
-      "tot_emp": 603710,
-      "employment_change": 0.059,
-      "sort_order": 35618.89
-    },
-    {
-      "prospect_code": "2BACC",
-      "deprecated": "",
-      "program_id": 24,
-      "program_name": "Business Administration (Associate in Science)",
-      "area_title": "U.S.",
-      "occ_code": "11-1021",
-      "occ_title": "General and Operations Managers",
-      "tot_emp": 222,
-      "employment_change": 0.058,
-      "sort_order": 207896.36
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6562.639999999999
     },
     {
       "prospect_code": "MPCED",
@@ -309,8 +309,20 @@
       "occ_code": "11-9151",
       "occ_title": "Social and Community Service Managers",
       "tot_emp": 195490,
-      "employment_change": 0.082,
-      "sort_order": 16030.18
+      "employment_change": 0.08199999999999999,
+      "sort_order": 16030.179999999998
+    },
+    {
+      "prospect_code": "CIENTMMGT",
+      "deprecated": "",
+      "program_id": 2645,
+      "program_name": "Corporate Innovation and Entrepreneurship (Master's Degree)",
+      "area_title": "U.S.",
+      "occ_code": "11-1011",
+      "occ_title": "Chief Executives",
+      "tot_emp": 211850,
+      "employment_change": 0.055,
+      "sort_order": 11651.75
     },
     {
       "prospect_code": "CIENTMMGT",
@@ -337,18 +349,6 @@
       "sort_order": 7565.25
     },
     {
-      "prospect_code": "CIENTMMGT",
-      "deprecated": "",
-      "program_id": 2645,
-      "program_name": "Corporate Innovation and Entrepreneurship (Master's Degree)",
-      "area_title": "U.S.",
-      "occ_code": "11-1011",
-      "occ_title": "Chief Executives",
-      "tot_emp": 2222,
-      "employment_change": 0.055,
-      "sort_order": 11651.75
-    },
-    {
       "prospect_code": "2CJCAAS",
       "deprecated": "",
       "program_id": 2571,
@@ -359,18 +359,6 @@
       "tot_emp": 666990,
       "employment_change": 0.039,
       "sort_order": 26012.61
-    },
-    {
-      "prospect_code": "2CJCAAS",
-      "deprecated": "",
-      "program_id": 2571,
-      "program_name": "Criminal Justice (Associate in Science)",
-      "area_title": "U.S.",
-      "occ_code": "33-1011",
-      "occ_title": "First-Line Supervisors of Correctional Officers",
-      "tot_emp": 53390,
-      "employment_change": -0.016,
-      "sort_order": -854.24
     },
     {
       "prospect_code": "2CJCAAS",
@@ -392,9 +380,21 @@
       "area_title": "U.S.",
       "occ_code": "33-3011",
       "occ_title": "Bailiffs",
-      "tot_emp": 222,
-      "employment_change": -0.014,
-      "sort_order": -236.74
+      "tot_emp": 16910,
+      "employment_change": -0.013999999999999999,
+      "sort_order": -236.73999999999998
+    },
+    {
+      "prospect_code": "2CJCAAS",
+      "deprecated": "",
+      "program_id": 2571,
+      "program_name": "Criminal Justice (Associate in Science)",
+      "area_title": "U.S.",
+      "occ_code": "33-1011",
+      "occ_title": "First-Line Supervisors of Correctional Officers",
+      "tot_emp": 53390,
+      "employment_change": -0.016,
+      "sort_order": -854.24
     },
     {
       "prospect_code": "4CRMJ",
@@ -414,6 +414,18 @@
       "program_id": 34,
       "program_name": "Criminal Justice (Bachelor of Science)",
       "area_title": "U.S.",
+      "occ_code": "33-3021",
+      "occ_title": "Detectives and Criminal Investigators",
+      "tot_emp": 110790,
+      "employment_change": 0.023,
+      "sort_order": 2548.17
+    },
+    {
+      "prospect_code": "4CRMJ",
+      "deprecated": "",
+      "program_id": 34,
+      "program_name": "Criminal Justice (Bachelor of Science)",
+      "area_title": "U.S.",
       "occ_code": "33-1011",
       "occ_title": "First-Line Supervisors of Correctional Officers",
       "tot_emp": 53390,
@@ -421,10 +433,22 @@
       "sort_order": -854.24
     },
     {
-      "prospect_code": "4CRMJ",
+      "prospect_code": "CJPAMPS",
       "deprecated": "",
-      "program_id": 34,
-      "program_name": "Criminal Justice (Bachelor of Science)",
+      "program_id": 2506,
+      "program_name": "Criminal Justice Policy and Administration (Master of Professional Studies)",
+      "area_title": "U.S.",
+      "occ_code": "21-1092",
+      "occ_title": "Probation Officers and Correctional Treatment Specialists",
+      "tot_emp": 86820,
+      "employment_change": 0.036000000000000004,
+      "sort_order": 3125.5200000000004
+    },
+    {
+      "prospect_code": "CJPAMPS",
+      "deprecated": "",
+      "program_id": 2506,
+      "program_name": "Criminal Justice Policy and Administration (Master of Professional Studies)",
       "area_title": "U.S.",
       "occ_code": "33-3021",
       "occ_title": "Detectives and Criminal Investigators",
@@ -445,40 +469,16 @@
       "sort_order": 502.8
     },
     {
-      "prospect_code": "CJPAMPS",
-      "deprecated": "",
-      "program_id": 2506,
-      "program_name": "Criminal Justice Policy and Administration (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "21-1092",
-      "occ_title": "Probation Officers and Correctional Treatment Specialists",
-      "tot_emp": 2222,
-      "employment_change": 0.036,
-      "sort_order": 3125.52
-    },
-    {
-      "prospect_code": "CJPAMPS",
-      "deprecated": "",
-      "program_id": 2506,
-      "program_name": "Criminal Justice Policy and Administration (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "33-3021",
-      "occ_title": "Detectives and Criminal Investigators",
-      "tot_emp": 110790,
-      "employment_change": 0.023,
-      "sort_order": 2548.17
-    },
-    {
       "prospect_code": "LLEDM",
       "deprecated": "",
       "program_id": 57,
       "program_name": "Curriculum and Instruction (Master of Education)",
       "area_title": "U.S.",
-      "occ_code": "25-2021",
-      "occ_title": "Elementary School Teachers, Except Special Education",
-      "tot_emp": 1393310,
-      "employment_change": -0.007,
-      "sort_order": -9753.17
+      "occ_code": "25-9031",
+      "occ_title": "Instructional Coordinators",
+      "tot_emp": 210850,
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795.3000000000006
     },
     {
       "prospect_code": "LLEDM",
@@ -489,20 +489,8 @@
       "occ_code": "25-2022",
       "occ_title": "Middle School Teachers, Except Special and Career/Technical Education",
       "tot_emp": 620370,
-      "employment_change": -0.007,
-      "sort_order": -4342.59
-    },
-    {
-      "prospect_code": "LLEDM",
-      "deprecated": "",
-      "program_id": 57,
-      "program_name": "Curriculum and Instruction (Master of Education)",
-      "area_title": "U.S.",
-      "occ_code": "25-9031",
-      "occ_title": "Instructional Coordinators",
-      "tot_emp": 2222,
-      "employment_change": 0.018,
-      "sort_order": 3795.3
+      "employment_change": -0.006999999999999999,
+      "sort_order": -4342.589999999999
     },
     {
       "prospect_code": "LLEDM",
@@ -517,16 +505,16 @@
       "sort_order": -6435.24
     },
     {
-      "prospect_code": "CAOWCBS",
+      "prospect_code": "LLEDM",
       "deprecated": "",
-      "program_id": 2684,
-      "program_name": "Cybersecurity Analytics and Operations (Bachelor of Science)",
+      "program_id": 57,
+      "program_name": "Curriculum and Instruction (Master of Education)",
       "area_title": "U.S.",
-      "occ_code": "15-1299",
-      "occ_title": "Computer Occupations, All Other",
-      "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453.04
+      "occ_code": "25-2021",
+      "occ_title": "Elementary School Teachers, Except Special Education",
+      "tot_emp": 1393310,
+      "employment_change": -0.006999999999999999,
+      "sort_order": -9753.169999999998
     },
     {
       "prospect_code": "CAOWCBS",
@@ -539,6 +527,30 @@
       "tot_emp": 179430,
       "employment_change": 0.327,
       "sort_order": 58673.61
+    },
+    {
+      "prospect_code": "CAOWCBS",
+      "deprecated": "",
+      "program_id": 2684,
+      "program_name": "Cybersecurity Analytics and Operations (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "15-1299",
+      "occ_title": "Computer Occupations, All Other",
+      "tot_emp": 439380,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453.04000000001
+    },
+    {
+      "prospect_code": "CYMPSMPS",
+      "deprecated": "",
+      "program_id": 2671,
+      "program_name": "Cybersecurity Analytics and Operations (Master of Professional Studies)",
+      "area_title": "U.S.",
+      "occ_code": "11-3021",
+      "occ_title": "Computer and Information Systems Managers",
+      "tot_emp": 645970,
+      "employment_change": 0.174,
+      "sort_order": 112398.78
     },
     {
       "prospect_code": "CYMPSMPS",
@@ -563,18 +575,6 @@
       "tot_emp": 110790,
       "employment_change": 0.023,
       "sort_order": 2548.17
-    },
-    {
-      "prospect_code": "CYMPSMPS",
-      "deprecated": "",
-      "program_id": 2671,
-      "program_name": "Cybersecurity Analytics and Operations (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "11-3021",
-      "occ_title": "Computer and Information Systems Managers",
-      "tot_emp": 645970,
-      "employment_change": 0.174,
-      "sort_order": 112398.78
     },
     {
       "prospect_code": "DAANBUSAN",
@@ -621,8 +621,8 @@
       "occ_code": "15-1243",
       "occ_title": "Database Architects",
       "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
     },
     {
       "prospect_code": "DAANMDA",
@@ -633,7 +633,7 @@
       "occ_code": "15-2041",
       "occ_title": "Statisticians",
       "tot_emp": 29800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 3516.4
     },
     {
@@ -654,11 +654,11 @@
       "program_id": 2475,
       "program_name": "Digital Journalism and Media (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "27-3041",
-      "occ_title": "Editors",
-      "tot_emp": 95480,
-      "employment_change": -0.02,
-      "sort_order": -1909.6
+      "occ_code": "27-3023",
+      "occ_title": "News Analysts, Reporters, and Journalists",
+      "tot_emp": 41550,
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1121.8500000000001
     },
     {
       "prospect_code": "DGJRMBA",
@@ -666,11 +666,11 @@
       "program_id": 2475,
       "program_name": "Digital Journalism and Media (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "27-3023",
-      "occ_title": "News Analysts, Reporters, and Journalists",
-      "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1121.85
+      "occ_code": "27-3041",
+      "occ_title": "Editors",
+      "tot_emp": 95480,
+      "employment_change": -0.02,
+      "sort_order": -1909.6000000000001
     },
     {
       "prospect_code": "DIGMDBDES",
@@ -683,18 +683,6 @@
       "tot_emp": 111400,
       "employment_change": 0.079,
       "sort_order": 8800.6
-    },
-    {
-      "prospect_code": "DIGMDBDES",
-      "deprecated": "",
-      "program_id": 2364,
-      "program_name": "Digital Multimedia Design (Bachelor of Design)",
-      "area_title": "U.S.",
-      "occ_code": "27-1014",
-      "occ_title": "Special Effects Artists and Animators",
-      "tot_emp": 21280,
-      "employment_change": 0.043,
-      "sort_order": 915.04
     },
     {
       "prospect_code": "DIGMDBDES",
@@ -717,8 +705,20 @@
       "occ_code": "27-1011",
       "occ_title": "Art Directors",
       "tot_emp": 50370,
-      "employment_change": 0.052,
-      "sort_order": 2619.24
+      "employment_change": 0.052000000000000005,
+      "sort_order": 2619.2400000000002
+    },
+    {
+      "prospect_code": "DIGMDBDES",
+      "deprecated": "",
+      "program_id": 2364,
+      "program_name": "Digital Multimedia Design (Bachelor of Design)",
+      "area_title": "U.S.",
+      "occ_code": "27-1014",
+      "occ_title": "Special Effects Artists and Animators",
+      "tot_emp": 21280,
+      "employment_change": 0.043,
+      "sort_order": 915.04
     },
     {
       "prospect_code": "ECLBA",
@@ -730,7 +730,7 @@
       "occ_title": "Market Research Analysts and Marketing Specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "ECLBA",
@@ -750,11 +750,11 @@
       "program_id": 115,
       "program_name": "Economics (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "19-3011",
-      "occ_title": "Economists",
-      "tot_emp": 15880,
-      "employment_change": 0.051,
-      "sort_order": 809.88
+      "occ_code": "13-1161",
+      "occ_title": "Market Research Analysts and Marketing Specialists",
+      "tot_emp": 861140,
+      "employment_change": 0.083,
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "ECLBS",
@@ -762,23 +762,11 @@
       "program_id": 115,
       "program_name": "Economics (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "13-1161",
-      "occ_title": "Market Research Analysts and Marketing Specialists",
-      "tot_emp": 861140,
-      "employment_change": 0.083,
-      "sort_order": 71474.62
-    },
-    {
-      "prospect_code": "EMGTMPS",
-      "deprecated": "",
-      "program_id": 2597,
-      "program_name": "Ecosystem Management and Administration (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "19-1031",
-      "occ_title": "Conservation Scientists",
-      "tot_emp": 25590,
-      "employment_change": 0.056,
-      "sort_order": 1433.04
+      "occ_code": "19-3011",
+      "occ_title": "Economists",
+      "tot_emp": 15880,
+      "employment_change": 0.051,
+      "sort_order": 809.88
     },
     {
       "prospect_code": "EMGTMPS",
@@ -790,31 +778,19 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
     },
     {
-      "prospect_code": "EDUCDED",
+      "prospect_code": "EMGTMPS",
       "deprecated": "",
-      "program_id": "",
-      "program_name": "Education (Doctoral Degree)",
+      "program_id": 2597,
+      "program_name": "Ecosystem Management and Administration (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "25-9031",
-      "occ_title": "Instructional Coordinators",
-      "tot_emp": 210850,
-      "employment_change": 0.018,
-      "sort_order": 3795.3
-    },
-    {
-      "prospect_code": "EDUCDED",
-      "deprecated": "",
-      "program_id": "",
-      "program_name": "Education (Doctoral Degree)",
-      "area_title": "U.S.",
-      "occ_code": "25-1081",
-      "occ_title": "Education Teachers, Postsecondary",
-      "tot_emp": 59090,
-      "employment_change": 0.033,
-      "sort_order": 1949.97
+      "occ_code": "19-1031",
+      "occ_title": "Conservation Scientists",
+      "tot_emp": 25590,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 1433.04
     },
     {
       "prospect_code": "EDUCDED",
@@ -834,11 +810,11 @@
       "program_id": "",
       "program_name": "Education (Doctoral Degree)",
       "area_title": "U.S.",
-      "occ_code": "11-9039",
-      "occ_title": "Education Administrators, All Other",
-      "tot_emp": 53330,
-      "employment_change": 0.025,
-      "sort_order": 1333.25
+      "occ_code": "11-9033",
+      "occ_title": "Education Administrators, Postsecondary",
+      "tot_emp": 176420,
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116.179999999999
     },
     {
       "prospect_code": "EDUCDED",
@@ -846,11 +822,35 @@
       "program_id": "",
       "program_name": "Education (Doctoral Degree)",
       "area_title": "U.S.",
-      "occ_code": "11-9033",
-      "occ_title": "Education Administrators, Postsecondary",
-      "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116.18
+      "occ_code": "25-9031",
+      "occ_title": "Instructional Coordinators",
+      "tot_emp": 210850,
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795.3000000000006
+    },
+    {
+      "prospect_code": "EDUCDED",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Education (Doctoral Degree)",
+      "area_title": "U.S.",
+      "occ_code": "25-1081",
+      "occ_title": "Education Teachers, Postsecondary",
+      "tot_emp": 59090,
+      "employment_change": 0.033,
+      "sort_order": 1949.97
+    },
+    {
+      "prospect_code": "EDUCDED",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Education (Doctoral Degree)",
+      "area_title": "U.S.",
+      "occ_code": "11-9039",
+      "occ_title": "Education Administrators, All Other",
+      "tot_emp": 53330,
+      "employment_change": 0.025,
+      "sort_order": 1333.25
     },
     {
       "prospect_code": "EDUCDED",
@@ -873,8 +873,8 @@
       "occ_code": "11-9033",
       "occ_title": "Education Administrators, Postsecondary",
       "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116.18
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116.179999999999
     },
     {
       "prospect_code": "EDLDR",
@@ -930,22 +930,10 @@
       "program_id": 28,
       "program_name": "Energy and Sustainability Policy (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "19-1031",
-      "occ_title": "Conservation Scientists",
-      "tot_emp": 25590,
-      "employment_change": 0.056,
-      "sort_order": 1433.04
-    },
-    {
-      "prospect_code": "ESPBA",
-      "deprecated": "",
-      "program_id": 28,
-      "program_name": "Energy and Sustainability Policy (Bachelor of Arts)",
-      "area_title": "U.S.",
       "occ_code": "13-1041",
       "occ_title": "Compliance Officers",
       "tot_emp": 397770,
-      "employment_change": 0.054,
+      "employment_change": 0.054000000000000006,
       "sort_order": 21479.58
     },
     {
@@ -958,7 +946,19 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
+    },
+    {
+      "prospect_code": "ESPBA",
+      "deprecated": "",
+      "program_id": 28,
+      "program_name": "Energy and Sustainability Policy (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "19-1031",
+      "occ_title": "Conservation Scientists",
+      "tot_emp": 25590,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 1433.04
     },
     {
       "prospect_code": "ESPBSBS",
@@ -969,20 +969,8 @@
       "occ_code": "13-1041",
       "occ_title": "Compliance Officers",
       "tot_emp": 397770,
-      "employment_change": 0.054,
+      "employment_change": 0.054000000000000006,
       "sort_order": 21479.58
-    },
-    {
-      "prospect_code": "ESPBSBS",
-      "deprecated": "",
-      "program_id": 2361,
-      "program_name": "Energy and Sustainability Policy (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "19-1031",
-      "occ_title": "Conservation Scientists",
-      "tot_emp": 25590,
-      "employment_change": 0.056,
-      "sort_order": 1433.04
     },
     {
       "prospect_code": "ESPBSBS",
@@ -994,7 +982,19 @@
       "occ_title": "Environmental Scientists and Specialists, Including Health",
       "tot_emp": 84930,
       "employment_change": 0.073,
-      "sort_order": 6199.89
+      "sort_order": 6199.889999999999
+    },
+    {
+      "prospect_code": "ESPBSBS",
+      "deprecated": "",
+      "program_id": 2361,
+      "program_name": "Energy and Sustainability Policy (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "19-1031",
+      "occ_title": "Conservation Scientists",
+      "tot_emp": 25590,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 1433.04
     },
     {
       "prospect_code": "ENGRDENG",
@@ -1038,11 +1038,11 @@
       "program_id": 146,
       "program_name": "Finance (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "13-2031",
-      "occ_title": "Budget Analysts",
-      "tot_emp": 47170,
-      "employment_change": 0.039,
-      "sort_order": 1839.63
+      "occ_code": "11-3031",
+      "occ_title": "Financial Managers",
+      "tot_emp": 818620,
+      "employment_change": 0.165,
+      "sort_order": 135072.30000000002
     },
     {
       "prospect_code": "FINBS",
@@ -1050,11 +1050,23 @@
       "program_id": 146,
       "program_name": "Finance (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "11-3031",
-      "occ_title": "Financial Managers",
-      "tot_emp": 818620,
-      "employment_change": 0.165,
-      "sort_order": 135072.3
+      "occ_code": "13-2051",
+      "occ_title": "Financial and Investment Analysts",
+      "tot_emp": 340580,
+      "employment_change": 0.095,
+      "sort_order": 32355.100000000002
+    },
+    {
+      "prospect_code": "FINBS",
+      "deprecated": "",
+      "program_id": 146,
+      "program_name": "Finance (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "13-2031",
+      "occ_title": "Budget Analysts",
+      "tot_emp": 47170,
+      "employment_change": 0.039,
+      "sort_order": 1839.63
     },
     {
       "prospect_code": "FINBS",
@@ -1069,16 +1081,16 @@
       "sort_order": -2627.43
     },
     {
-      "prospect_code": "FINBS",
+      "prospect_code": "FINAN",
       "deprecated": "",
-      "program_id": 146,
-      "program_name": "Finance (Bachelor of Science)",
+      "program_id": 104,
+      "program_name": "Finance (Master of Finance)",
       "area_title": "U.S.",
-      "occ_code": "13-2051",
-      "occ_title": "Financial and Investment Analysts",
-      "tot_emp": 340580,
-      "employment_change": 0.095,
-      "sort_order": 32355.1
+      "occ_code": "11-3031",
+      "occ_title": "Financial Managers",
+      "tot_emp": 818620,
+      "employment_change": 0.165,
+      "sort_order": 135072.30000000002
     },
     {
       "prospect_code": "FINAN",
@@ -1090,7 +1102,7 @@
       "occ_title": "Financial and Investment Analysts",
       "tot_emp": 340580,
       "employment_change": 0.095,
-      "sort_order": 32355.1
+      "sort_order": 32355.100000000002
     },
     {
       "prospect_code": "FINAN",
@@ -1103,54 +1115,6 @@
       "tot_emp": 211850,
       "employment_change": 0.055,
       "sort_order": 11651.75
-    },
-    {
-      "prospect_code": "FINAN",
-      "deprecated": "",
-      "program_id": 104,
-      "program_name": "Finance (Master of Finance)",
-      "area_title": "U.S.",
-      "occ_code": "11-3031",
-      "occ_title": "Financial Managers",
-      "tot_emp": 818620,
-      "employment_change": 0.165,
-      "sort_order": 135072.3
-    },
-    {
-      "prospect_code": "FDTANBS",
-      "deprecated": "",
-      "program_id": 2891,
-      "program_name": "Functional Data Analytics (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "43-9111",
-      "occ_title": "Statistical assistants",
-      "tot_emp": 5900,
-      "employment_change": 0.002,
-      "sort_order": 11.8
-    },
-    {
-      "prospect_code": "FDTANBS",
-      "deprecated": "",
-      "program_id": 2891,
-      "program_name": "Functional Data Analytics (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "15-2041",
-      "occ_title": "Statisticians",
-      "tot_emp": 29800,
-      "employment_change": 0.118,
-      "sort_order": 3516.4
-    },
-    {
-      "prospect_code": "FDTANBS",
-      "deprecated": "",
-      "program_id": 2891,
-      "program_name": "Functional Data Analytics (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "13-2051",
-      "occ_title": "Financial and investment analysts",
-      "tot_emp": 340580,
-      "employment_change": 0.095,
-      "sort_order": 32355.1
     },
     {
       "prospect_code": "FDTANBS",
@@ -1170,11 +1134,47 @@
       "program_id": 2891,
       "program_name": "Functional Data Analytics (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "13-2041",
-      "occ_title": "Credit analysts",
-      "tot_emp": 67370,
-      "employment_change": -0.039,
-      "sort_order": -2627.43
+      "occ_code": "15-2051",
+      "occ_title": "Data scientists",
+      "tot_emp": 233440,
+      "employment_change": 0.36,
+      "sort_order": 84038.4
+    },
+    {
+      "prospect_code": "FDTANBS",
+      "deprecated": "",
+      "program_id": 2891,
+      "program_name": "Functional Data Analytics (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "13-1161",
+      "occ_title": "Market research analysts and marketing specialists",
+      "tot_emp": 861140,
+      "employment_change": 0.083,
+      "sort_order": 71474.62000000001
+    },
+    {
+      "prospect_code": "FDTANBS",
+      "deprecated": "",
+      "program_id": 2891,
+      "program_name": "Functional Data Analytics (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "13-2051",
+      "occ_title": "Financial and investment analysts",
+      "tot_emp": 340580,
+      "employment_change": 0.095,
+      "sort_order": 32355.100000000002
+    },
+    {
+      "prospect_code": "FDTANBS",
+      "deprecated": "",
+      "program_id": 2891,
+      "program_name": "Functional Data Analytics (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "15-2041",
+      "occ_title": "Statisticians",
+      "tot_emp": 29800,
+      "employment_change": 0.11800000000000001,
+      "sort_order": 3516.4
     },
     {
       "prospect_code": "FDTANBS",
@@ -1194,11 +1194,11 @@
       "program_id": 2891,
       "program_name": "Functional Data Analytics (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "13-1161",
-      "occ_title": "Market research analysts and marketing specialists",
-      "tot_emp": 861140,
-      "employment_change": 0.083,
-      "sort_order": 71474.62
+      "occ_code": "43-9111",
+      "occ_title": "Statistical assistants",
+      "tot_emp": 5900,
+      "employment_change": 0.002,
+      "sort_order": 11.8
     },
     {
       "prospect_code": "FDTANBS",
@@ -1206,23 +1206,11 @@
       "program_id": 2891,
       "program_name": "Functional Data Analytics (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "15-2051",
-      "occ_title": "Data scientists",
-      "tot_emp": 233440,
-      "employment_change": 0.36,
-      "sort_order": 84038.4
-    },
-    {
-      "prospect_code": "MPSGEO",
-      "deprecated": "",
-      "program_id": 2091,
-      "program_name": "Geodesign (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "19-3051",
-      "occ_title": "Urban and Regional Planners",
-      "tot_emp": 43040,
-      "employment_change": 0.043,
-      "sort_order": 1850.72
+      "occ_code": "13-2041",
+      "occ_title": "Credit analysts",
+      "tot_emp": 67370,
+      "employment_change": -0.039,
+      "sort_order": -2627.43
     },
     {
       "prospect_code": "MPSGEO",
@@ -1237,16 +1225,16 @@
       "sort_order": 8668.92
     },
     {
-      "prospect_code": "GIS",
+      "prospect_code": "MPSGEO",
       "deprecated": "",
-      "program_id": 1358,
-      "program_name": "Geographic Information Systems - GIS (Master's Degree)",
+      "program_id": 2091,
+      "program_name": "Geodesign (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "17-1021",
-      "occ_title": "Cartographers and Photogrammetrists",
-      "tot_emp": 12790,
-      "employment_change": 0.063,
-      "sort_order": 805.77
+      "occ_code": "19-3051",
+      "occ_title": "Urban and Regional Planners",
+      "tot_emp": 43040,
+      "employment_change": 0.043,
+      "sort_order": 1850.7199999999998
     },
     {
       "prospect_code": "GIS",
@@ -1257,8 +1245,20 @@
       "occ_code": "17-3031",
       "occ_title": "Surveying and Mapping Technicians",
       "tot_emp": 56720,
-      "employment_change": 0.056,
-      "sort_order": 3176.32
+      "employment_change": 0.055999999999999994,
+      "sort_order": 3176.3199999999997
+    },
+    {
+      "prospect_code": "GIS",
+      "deprecated": "",
+      "program_id": 1358,
+      "program_name": "Geographic Information Systems - GIS (Master's Degree)",
+      "area_title": "U.S.",
+      "occ_code": "17-1021",
+      "occ_title": "Cartographers and Photogrammetrists",
+      "tot_emp": 12790,
+      "employment_change": 0.063,
+      "sort_order": 805.77
     },
     {
       "prospect_code": "GIS",
@@ -1317,8 +1317,8 @@
       "occ_code": "11-9033",
       "occ_title": "Education Administrators, Postsecondary",
       "tot_emp": 176420,
-      "employment_change": 0.029,
-      "sort_order": 5116.18
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116.179999999999
     },
     {
       "prospect_code": "HISTBA",
@@ -1342,7 +1342,19 @@
       "occ_title": "Historians",
       "tot_emp": 3140,
       "employment_change": 0.057,
-      "sort_order": 178.98
+      "sort_order": 178.98000000000002
+    },
+    {
+      "prospect_code": "HLSCTRTR",
+      "deprecated": "",
+      "program_id": 2515,
+      "program_name": "Homeland Security – Counterterrorism Option (Master of Professional Studies)",
+      "area_title": "U.S.",
+      "occ_code": "33-3021",
+      "occ_title": "Detectives and Criminal Investigators",
+      "tot_emp": 110790,
+      "employment_change": 0.023,
+      "sort_order": 2548.17
     },
     {
       "prospect_code": "HLSCTRTR",
@@ -1357,28 +1369,16 @@
       "sort_order": 502.8
     },
     {
-      "prospect_code": "HLSCTRTR",
-      "deprecated": "",
-      "program_id": 2515,
-      "program_name": "Homeland Security – Counterterrorism Option (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "33-3021",
-      "occ_title": "Detectives and Criminal Investigators",
-      "tot_emp": 110790,
-      "employment_change": 0.023,
-      "sort_order": 2548.17
-    },
-    {
       "prospect_code": "HLSCTAP",
       "deprecated": "",
       "program_id": 2514,
       "program_name": "Homeland Security – Cyber Threat Analytics and Prevention Option (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "33-3021",
-      "occ_title": "Detectives and Criminal Investigators",
-      "tot_emp": 110790,
-      "employment_change": 0.023,
-      "sort_order": 2548.17
+      "occ_code": "15-1212",
+      "occ_title": "Information Security Analysts",
+      "tot_emp": 179430,
+      "employment_change": 0.327,
+      "sort_order": 58673.61
     },
     {
       "prospect_code": "HLSCTAP",
@@ -1398,11 +1398,11 @@
       "program_id": 2514,
       "program_name": "Homeland Security – Cyber Threat Analytics and Prevention Option (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "15-1212",
-      "occ_title": "Information Security Analysts",
-      "tot_emp": 179430,
-      "employment_change": 0.327,
-      "sort_order": 58673.61
+      "occ_code": "33-3021",
+      "occ_title": "Detectives and Criminal Investigators",
+      "tot_emp": 110790,
+      "employment_change": 0.023,
+      "sort_order": 2548.17
     },
     {
       "prospect_code": "HLSIS",
@@ -1410,11 +1410,11 @@
       "program_id": 64,
       "program_name": "Homeland Security – Information Security and Forensics Option (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "33-3021",
-      "occ_title": "Detectives and Criminal Investigators",
-      "tot_emp": 110790,
-      "employment_change": 0.023,
-      "sort_order": 2548.17
+      "occ_code": "15-1212",
+      "occ_title": "Information Security Analysts",
+      "tot_emp": 179430,
+      "employment_change": 0.327,
+      "sort_order": 58673.61
     },
     {
       "prospect_code": "HLSIS",
@@ -1426,7 +1426,7 @@
       "occ_title": "Forensic Science Technicians",
       "tot_emp": 19450,
       "employment_change": 0.136,
-      "sort_order": 2645.2
+      "sort_order": 2645.2000000000003
     },
     {
       "prospect_code": "HLSIS",
@@ -1434,11 +1434,11 @@
       "program_id": 64,
       "program_name": "Homeland Security – Information Security and Forensics Option (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "15-1212",
-      "occ_title": "Information Security Analysts",
-      "tot_emp": 179430,
-      "employment_change": 0.327,
-      "sort_order": 58673.61
+      "occ_code": "33-3021",
+      "occ_title": "Detectives and Criminal Investigators",
+      "tot_emp": 110790,
+      "employment_change": 0.023,
+      "sort_order": 2548.17
     },
     {
       "prospect_code": "HLSGI",
@@ -1449,8 +1449,8 @@
       "occ_code": "15-1299",
       "occ_title": "Computer Occupations, All Other",
       "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453.04
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453.04000000001
     },
     {
       "prospect_code": "HLSGI",
@@ -1463,18 +1463,6 @@
       "tot_emp": 110790,
       "employment_change": 0.023,
       "sort_order": 2548.17
-    },
-    {
-      "prospect_code": "HLSPH",
-      "deprecated": "",
-      "program_id": 62,
-      "program_name": "Homeland Security – Public Health Preparedness Option (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "11-9161",
-      "occ_title": "Emergency Management Directors",
-      "tot_emp": 12570,
-      "employment_change": 0.04,
-      "sort_order": 502.8
     },
     {
       "prospect_code": "HLSPH",
@@ -1487,6 +1475,18 @@
       "tot_emp": 565840,
       "employment_change": 0.285,
       "sort_order": 161264.4
+    },
+    {
+      "prospect_code": "HLSPH",
+      "deprecated": "",
+      "program_id": 62,
+      "program_name": "Homeland Security – Public Health Preparedness Option (Master of Professional Studies)",
+      "area_title": "U.S.",
+      "occ_code": "11-9161",
+      "occ_title": "Emergency Management Directors",
+      "tot_emp": 12570,
+      "employment_change": 0.04,
+      "sort_order": 502.8
     },
     {
       "prospect_code": "HLSB",
@@ -1506,18 +1506,6 @@
       "program_id": 25,
       "program_name": "Human Development and Family Studies (Associate in Science)",
       "area_title": "U.S.",
-      "occ_code": "25-9045",
-      "occ_title": "Teaching Assistants, Except Postsecondary",
-      "tot_emp": 1375300,
-      "employment_change": -0.006,
-      "sort_order": -8251.8
-    },
-    {
-      "prospect_code": "2EHFS",
-      "deprecated": "",
-      "program_id": 25,
-      "program_name": "Human Development and Family Studies (Associate in Science)",
-      "area_title": "U.S.",
       "occ_code": "21-1093",
       "occ_title": "Social and Human Service Assistants",
       "tot_emp": 424220,
@@ -1533,7 +1521,43 @@
       "occ_code": "25-2011",
       "occ_title": "Preschool Teachers, Except Special Education",
       "tot_emp": 445080,
-      "employment_change": 0.044,
+      "employment_change": 0.044000000000000004,
+      "sort_order": 19583.52
+    },
+    {
+      "prospect_code": "2EHFS",
+      "deprecated": "",
+      "program_id": 25,
+      "program_name": "Human Development and Family Studies (Associate in Science)",
+      "area_title": "U.S.",
+      "occ_code": "25-9045",
+      "occ_title": "Teaching Assistants, Except Postsecondary",
+      "tot_emp": 1375300,
+      "employment_change": -0.006,
+      "sort_order": -8251.8
+    },
+    {
+      "prospect_code": "HDFS",
+      "deprecated": "",
+      "program_id": 118,
+      "program_name": "Human Development and Family Studies (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "21-1093",
+      "occ_title": "Social and Human Service Assistants",
+      "tot_emp": 424220,
+      "employment_change": 0.079,
+      "sort_order": 33513.38
+    },
+    {
+      "prospect_code": "HDFS",
+      "deprecated": "",
+      "program_id": 118,
+      "program_name": "Human Development and Family Studies (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "25-2011",
+      "occ_title": "Preschool Teachers, Except Special Education",
+      "tot_emp": 445080,
+      "employment_change": 0.044000000000000004,
       "sort_order": 19583.52
     },
     {
@@ -1547,30 +1571,6 @@
       "tot_emp": 382960,
       "employment_change": 0.049,
       "sort_order": 18765.04
-    },
-    {
-      "prospect_code": "HDFS",
-      "deprecated": "",
-      "program_id": 118,
-      "program_name": "Human Development and Family Studies (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "25-2011",
-      "occ_title": "Preschool Teachers, Except Special Education",
-      "tot_emp": 445080,
-      "employment_change": 0.044,
-      "sort_order": 19583.52
-    },
-    {
-      "prospect_code": "HDFS",
-      "deprecated": "",
-      "program_id": 118,
-      "program_name": "Human Development and Family Studies (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "21-1093",
-      "occ_title": "Social and Human Service Assistants",
-      "tot_emp": 424220,
-      "employment_change": 0.079,
-      "sort_order": 33513.38
     },
     {
       "prospect_code": "IEMENG",
@@ -1605,8 +1605,8 @@
       "occ_code": "11-3051",
       "occ_title": "Industrial Production Managers",
       "tot_emp": 234380,
-      "employment_change": 0.028,
-      "sort_order": 6562.64
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6562.639999999999
     },
     {
       "prospect_code": "INSCMS",
@@ -1638,11 +1638,11 @@
       "program_id": 26,
       "program_name": "Information Sciences and Technology (Associate in Science)",
       "area_title": "U.S.",
-      "occ_code": "15-1244",
-      "occ_title": "Network and Computer Systems Administrators",
-      "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8282.82
+      "occ_code": "15-1231",
+      "occ_title": "Computer Network Support Specialists",
+      "tot_emp": 146450,
+      "employment_change": 0.073,
+      "sort_order": 10690.849999999999
     },
     {
       "prospect_code": "2 IST",
@@ -1650,47 +1650,11 @@
       "program_id": 26,
       "program_name": "Information Sciences and Technology (Associate in Science)",
       "area_title": "U.S.",
-      "occ_code": "15-1231",
-      "occ_title": "Computer Network Support Specialists",
-      "tot_emp": 146450,
-      "employment_change": 0.073,
-      "sort_order": 10690.85
-    },
-    {
-      "prospect_code": "4 IST",
-      "deprecated": "",
-      "program_id": 40,
-      "program_name": "Information Sciences and Technology (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "15-1242",
-      "occ_title": "Database Administrators",
-      "tot_emp": 73180,
-      "employment_change": 0.082,
-      "sort_order": 6000.76
-    },
-    {
-      "prospect_code": "4 IST",
-      "deprecated": "",
-      "program_id": 40,
-      "program_name": "Information Sciences and Technology (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "15-1251",
-      "occ_title": "Computer Programmers",
-      "tot_emp": 109870,
-      "employment_change": -0.096,
-      "sort_order": -10547.52
-    },
-    {
-      "prospect_code": "4 IST",
-      "deprecated": "",
-      "program_id": 40,
-      "program_name": "Information Sciences and Technology (Bachelor of Science)",
-      "area_title": "U.S.",
       "occ_code": "15-1244",
       "occ_title": "Network and Computer Systems Administrators",
       "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8282.82
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8282.820000000002
     },
     {
       "prospect_code": "4 IST",
@@ -1698,11 +1662,11 @@
       "program_id": 40,
       "program_name": "Information Sciences and Technology (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "15-1243",
-      "occ_title": "Database Architects",
-      "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "occ_code": "11-3021",
+      "occ_title": "Computer and Information Systems Managers",
+      "tot_emp": 645970,
+      "employment_change": 0.174,
+      "sort_order": 112398.78
     },
     {
       "prospect_code": "4 IST",
@@ -1722,11 +1686,59 @@
       "program_id": 40,
       "program_name": "Information Sciences and Technology (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "11-3021",
-      "occ_title": "Computer and Information Systems Managers",
-      "tot_emp": 645970,
-      "employment_change": 0.174,
-      "sort_order": 112398.78
+      "occ_code": "15-1243",
+      "occ_title": "Database Architects",
+      "tot_emp": 64770,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
+    },
+    {
+      "prospect_code": "4 IST",
+      "deprecated": "",
+      "program_id": 40,
+      "program_name": "Information Sciences and Technology (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "15-1242",
+      "occ_title": "Database Administrators",
+      "tot_emp": 73180,
+      "employment_change": 0.08199999999999999,
+      "sort_order": 6000.759999999999
+    },
+    {
+      "prospect_code": "4 IST",
+      "deprecated": "",
+      "program_id": 40,
+      "program_name": "Information Sciences and Technology (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "15-1244",
+      "occ_title": "Network and Computer Systems Administrators",
+      "tot_emp": 318570,
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8282.820000000002
+    },
+    {
+      "prospect_code": "4 IST",
+      "deprecated": "",
+      "program_id": 40,
+      "program_name": "Information Sciences and Technology (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "15-1251",
+      "occ_title": "Computer Programmers",
+      "tot_emp": 109870,
+      "employment_change": -0.096,
+      "sort_order": -10547.52
+    },
+    {
+      "prospect_code": "2LHRAS",
+      "deprecated": "",
+      "program_id": 2650,
+      "program_name": "Labor and Human Resources (Associate in Science)",
+      "area_title": "U.S.",
+      "occ_code": "13-1071",
+      "occ_title": "Human Resources Specialists",
+      "tot_emp": 917460,
+      "employment_change": 0.079,
+      "sort_order": 72479.34
     },
     {
       "prospect_code": "2LHRAS",
@@ -1753,42 +1765,6 @@
       "sort_order": -4443.84
     },
     {
-      "prospect_code": "2LHRAS",
-      "deprecated": "",
-      "program_id": 2650,
-      "program_name": "Labor and Human Resources (Associate in Science)",
-      "area_title": "U.S.",
-      "occ_code": "13-1071",
-      "occ_title": "Human Resources Specialists",
-      "tot_emp": 917460,
-      "employment_change": 0.079,
-      "sort_order": 72479.34
-    },
-    {
-      "prospect_code": "LHRBABA",
-      "deprecated": "",
-      "program_id": 2648,
-      "program_name": "Labor and Human Resources (Bachelor of Arts)",
-      "area_title": "U.S.",
-      "occ_code": "13-1075",
-      "occ_title": "Labor Relations Specialists",
-      "tot_emp": 64590,
-      "employment_change": -0.003,
-      "sort_order": -193.77
-    },
-    {
-      "prospect_code": "LHRBABA",
-      "deprecated": "",
-      "program_id": 2651,
-      "program_name": "Labor and Human Resources (Bachelor of Arts)",
-      "area_title": "U.S.",
-      "occ_code": "23-1022",
-      "occ_title": "Arbitrators, Mediators, and Conciliators",
-      "tot_emp": 7860,
-      "employment_change": 0.061,
-      "sort_order": 479.46
-    },
-    {
       "prospect_code": "LHRBABA",
       "deprecated": "",
       "program_id": 2648,
@@ -1810,7 +1786,19 @@
       "occ_title": "Human Resources Managers",
       "tot_emp": 215520,
       "employment_change": 0.065,
-      "sort_order": 14008.8
+      "sort_order": 14008.800000000001
+    },
+    {
+      "prospect_code": "LHRBABA",
+      "deprecated": "",
+      "program_id": 2651,
+      "program_name": "Labor and Human Resources (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "23-1022",
+      "occ_title": "Arbitrators, Mediators, and Conciliators",
+      "tot_emp": 7860,
+      "employment_change": 0.061,
+      "sort_order": 479.46
     },
     {
       "prospect_code": "LHRBABA",
@@ -1825,40 +1813,16 @@
       "sort_order": 421.47
     },
     {
-      "prospect_code": "LHRBSBS",
+      "prospect_code": "LHRBABA",
       "deprecated": "",
-      "program_id": 2651,
-      "program_name": "Labor and Human Resources (Bachelor of Science)",
+      "program_id": 2648,
+      "program_name": "Labor and Human Resources (Bachelor of Arts)",
       "area_title": "U.S.",
       "occ_code": "13-1075",
       "occ_title": "Labor Relations Specialists",
       "tot_emp": 64590,
       "employment_change": -0.003,
       "sort_order": -193.77
-    },
-    {
-      "prospect_code": "LHRBSBS",
-      "deprecated": "",
-      "program_id": 2651,
-      "program_name": "Labor and Human Resources (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "11-3111",
-      "occ_title": "Compensation and Benefits Managers",
-      "tot_emp": 20070,
-      "employment_change": 0.021,
-      "sort_order": 421.47
-    },
-    {
-      "prospect_code": "LHRBSBS",
-      "deprecated": "",
-      "program_id": 2651,
-      "program_name": "Labor and Human Resources (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "11-3121",
-      "occ_title": "Human Resources Managers",
-      "tot_emp": 215520,
-      "employment_change": 0.065,
-      "sort_order": 14008.8
     },
     {
       "prospect_code": "LHRBSBS",
@@ -1878,6 +1842,18 @@
       "program_id": 2651,
       "program_name": "Labor and Human Resources (Bachelor of Science)",
       "area_title": "U.S.",
+      "occ_code": "11-3121",
+      "occ_title": "Human Resources Managers",
+      "tot_emp": 215520,
+      "employment_change": 0.065,
+      "sort_order": 14008.800000000001
+    },
+    {
+      "prospect_code": "LHRBSBS",
+      "deprecated": "",
+      "program_id": 2651,
+      "program_name": "Labor and Human Resources (Bachelor of Science)",
+      "area_title": "U.S.",
       "occ_code": "23-1022",
       "occ_title": "Arbitrators, Mediators, and Conciliators",
       "tot_emp": 7860,
@@ -1885,16 +1861,28 @@
       "sort_order": 479.46
     },
     {
-      "prospect_code": "LAWSC",
+      "prospect_code": "LHRBSBS",
       "deprecated": "",
-      "program_id": 35,
-      "program_name": "Law and Society (Bachelor of Arts)",
+      "program_id": 2651,
+      "program_name": "Labor and Human Resources (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "23-2099",
-      "occ_title": "Legal Support Workers, All Other",
-      "tot_emp": 47380,
-      "employment_change": 0.01,
-      "sort_order": 473.8
+      "occ_code": "11-3111",
+      "occ_title": "Compensation and Benefits Managers",
+      "tot_emp": 20070,
+      "employment_change": 0.021,
+      "sort_order": 421.47
+    },
+    {
+      "prospect_code": "LHRBSBS",
+      "deprecated": "",
+      "program_id": 2651,
+      "program_name": "Labor and Human Resources (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "13-1075",
+      "occ_title": "Labor Relations Specialists",
+      "tot_emp": 64590,
+      "employment_change": -0.003,
+      "sort_order": -193.77
     },
     {
       "prospect_code": "LAWSC",
@@ -1907,6 +1895,18 @@
       "tot_emp": 367220,
       "employment_change": 0.012,
       "sort_order": 4406.64
+    },
+    {
+      "prospect_code": "LAWSC",
+      "deprecated": "",
+      "program_id": 35,
+      "program_name": "Law and Society (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "23-2099",
+      "occ_title": "Legal Support Workers, All Other",
+      "tot_emp": 47380,
+      "employment_change": 0.01,
+      "sort_order": 473.8
     },
     {
       "prospect_code": "LDT",
@@ -1929,8 +1929,8 @@
       "occ_code": "25-4022",
       "occ_title": "Librarians and Media Collections Specialists",
       "tot_emp": 131830,
-      "employment_change": 0.029,
-      "sort_order": 3823.07
+      "employment_change": 0.028999999999999998,
+      "sort_order": 3823.0699999999997
     },
     {
       "prospect_code": "LDT",
@@ -1941,8 +1941,8 @@
       "occ_code": "25-9031",
       "occ_title": "Instructional Coordinators",
       "tot_emp": 210850,
-      "employment_change": 0.018,
-      "sort_order": 3795.3
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795.3000000000006
     },
     {
       "prospect_code": "LLAEDMED",
@@ -1974,35 +1974,47 @@
       "program_id": 1667,
       "program_name": "Marketing (Bachelor of Science)",
       "area_title": "U.S.",
+      "occ_code": "13-1161",
+      "occ_title": "Market Research Analysts and Marketing Specialists",
+      "tot_emp": 861140,
+      "employment_change": 0.083,
+      "sort_order": 71474.62000000001
+    },
+    {
+      "prospect_code": "MRKTBS",
+      "deprecated": "",
+      "program_id": 1667,
+      "program_name": "Marketing (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "11-2021",
+      "occ_title": "Marketing Managers",
+      "tot_emp": 384980,
+      "employment_change": 0.08199999999999999,
+      "sort_order": 31568.359999999997
+    },
+    {
+      "prospect_code": "MRKTBS",
+      "deprecated": "",
+      "program_id": 1667,
+      "program_name": "Marketing (Bachelor of Science)",
+      "area_title": "U.S.",
       "occ_code": "11-2011",
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -548.6
     },
     {
-      "prospect_code": "MRKTBS",
+      "prospect_code": "MMAIMMKT",
       "deprecated": "",
-      "program_id": 1667,
-      "program_name": "Marketing (Bachelor of Science)",
+      "program_id": 2632,
+      "program_name": "Marketing Analytics and Insights (Master’s Degree)",
       "area_title": "U.S.",
       "occ_code": "13-1161",
       "occ_title": "Market Research Analysts and Marketing Specialists",
       "tot_emp": 861140,
       "employment_change": 0.083,
-      "sort_order": 71474.62
-    },
-    {
-      "prospect_code": "MRKTBS",
-      "deprecated": "",
-      "program_id": 1667,
-      "program_name": "Marketing (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "11-2021",
-      "occ_title": "Marketing Managers",
-      "tot_emp": 384980,
-      "employment_change": 0.082,
-      "sort_order": 31568.36
+      "sort_order": 71474.62000000001
     },
     {
       "prospect_code": "MMAIMMKT",
@@ -2013,80 +2025,8 @@
       "occ_code": "11-2021",
       "occ_title": "Marketing Managers",
       "tot_emp": 384980,
-      "employment_change": 0.082,
-      "sort_order": 31568.36
-    },
-    {
-      "prospect_code": "MMAIMMKT",
-      "deprecated": "",
-      "program_id": 2632,
-      "program_name": "Marketing Analytics and Insights (Master’s Degree)",
-      "area_title": "U.S.",
-      "occ_code": "13-1161",
-      "occ_title": "Market Research Analysts and Marketing Specialists",
-      "tot_emp": 861140,
-      "employment_change": 0.083,
-      "sort_order": 71474.62
-    },
-    {
-      "prospect_code": "CSCMCS",
-      "deprecated": "",
-      "program_id": "",
-      "program_name": "Master of Computer Science",
-      "area_title": "U.S.",
-      "occ_code": "15-1211",
-      "occ_title": "Computer Systems Analysts",
-      "tot_emp": 497800,
-      "employment_change": 0.107,
-      "sort_order": 53264.6
-    },
-    {
-      "prospect_code": "CSCMCS",
-      "deprecated": "",
-      "program_id": "",
-      "program_name": "Master of Computer Science",
-      "area_title": "U.S.",
-      "occ_code": "15-2051",
-      "occ_title": "Data Scientists",
-      "tot_emp": 233440,
-      "employment_change": 0.36,
-      "sort_order": 84038.4
-    },
-    {
-      "prospect_code": "CSCMCS",
-      "deprecated": "",
-      "program_id": "",
-      "program_name": "Master of Computer Science",
-      "area_title": "U.S.",
-      "occ_code": "15-1241",
-      "occ_title": "Computer Network Architects",
-      "tot_emp": 177010,
-      "employment_change": 0.134,
-      "sort_order": 23719.34
-    },
-    {
-      "prospect_code": "CSCMCS",
-      "deprecated": "",
-      "program_id": "",
-      "program_name": "Master of Computer Science",
-      "area_title": "U.S.",
-      "occ_code": "15-1212",
-      "occ_title": "Information Security Analysts",
-      "tot_emp": 179430,
-      "employment_change": 0.327,
-      "sort_order": 58673.61
-    },
-    {
-      "prospect_code": "CSCMCS",
-      "deprecated": "",
-      "program_id": "",
-      "program_name": "Master of Computer Science",
-      "area_title": "U.S.",
-      "occ_code": "15-1243",
-      "occ_title": "Database Architects",
-      "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "employment_change": 0.08199999999999999,
+      "sort_order": 31568.359999999997
     },
     {
       "prospect_code": "CSCMCS",
@@ -2106,17 +2046,89 @@
       "program_id": "",
       "program_name": "Master of Computer Science",
       "area_title": "U.S.",
-      "occ_code": "15-1242",
-      "occ_title": "Database Administrators",
-      "tot_emp": 73180,
-      "employment_change": 0.082,
-      "sort_order": 6000.76
+      "occ_code": "11-3021",
+      "occ_title": "Computer and Information Systems Managers",
+      "tot_emp": 645970,
+      "employment_change": 0.174,
+      "sort_order": 112398.78
     },
     {
       "prospect_code": "CSCMCS",
       "deprecated": "",
       "program_id": "",
       "program_name": "Master of Computer Science",
+      "area_title": "U.S.",
+      "occ_code": "15-2051",
+      "occ_title": "Data Scientists",
+      "tot_emp": 233440,
+      "employment_change": 0.36,
+      "sort_order": 84038.4
+    },
+    {
+      "prospect_code": "CSCMCS",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Master of Computer Science",
+      "area_title": "U.S.",
+      "occ_code": "15-1212",
+      "occ_title": "Information Security Analysts",
+      "tot_emp": 179430,
+      "employment_change": 0.327,
+      "sort_order": 58673.61
+    },
+    {
+      "prospect_code": "CSCMCS",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Master of Computer Science",
+      "area_title": "U.S.",
+      "occ_code": "15-1211",
+      "occ_title": "Computer Systems Analysts",
+      "tot_emp": 497800,
+      "employment_change": 0.107,
+      "sort_order": 53264.6
+    },
+    {
+      "prospect_code": "CSCMCS",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Master of Computer Science",
+      "area_title": "U.S.",
+      "occ_code": "15-1241",
+      "occ_title": "Computer Network Architects",
+      "tot_emp": 177010,
+      "employment_change": 0.134,
+      "sort_order": 23719.34
+    },
+    {
+      "prospect_code": "CSCMCS",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Master of Computer Science",
+      "area_title": "U.S.",
+      "occ_code": "15-1243",
+      "occ_title": "Database Architects",
+      "tot_emp": 64770,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
+    },
+    {
+      "prospect_code": "CSCMCS",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Master of Computer Science",
+      "area_title": "U.S.",
+      "occ_code": "15-1242",
+      "occ_title": "Database Administrators",
+      "tot_emp": 73180,
+      "employment_change": 0.08199999999999999,
+      "sort_order": 6000.759999999999
+    },
+    {
+      "prospect_code": "DAANBDSYS",
+      "deprecated": " ",
+      "program_id": "",
+      "program_name": "Master of Data Analytics - Big Data Systems",
       "area_title": "U.S.",
       "occ_code": "11-3021",
       "occ_title": "Computer and Information Systems Managers",
@@ -2130,11 +2142,11 @@
       "program_id": "",
       "program_name": "Master of Data Analytics - Big Data Systems",
       "area_title": "U.S.",
-      "occ_code": "15-1243",
-      "occ_title": "Database Architects",
-      "tot_emp": 64770,
-      "employment_change": 0.108,
-      "sort_order": 6995.16
+      "occ_code": "15-2051",
+      "occ_title": "Data Scientists",
+      "tot_emp": 233440,
+      "employment_change": 0.36,
+      "sort_order": 84038.4
     },
     {
       "prospect_code": "DAANBDSYS",
@@ -2154,11 +2166,11 @@
       "program_id": "",
       "program_name": "Master of Data Analytics - Big Data Systems",
       "area_title": "U.S.",
-      "occ_code": "11-3021",
-      "occ_title": "Computer and Information Systems Managers",
-      "tot_emp": 645970,
-      "employment_change": 0.174,
-      "sort_order": 112398.78
+      "occ_code": "15-1243",
+      "occ_title": "Database Architects",
+      "tot_emp": 64770,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995.160000000001
     },
     {
       "prospect_code": "DAANBDSYS",
@@ -2169,20 +2181,8 @@
       "occ_code": "15-1242",
       "occ_title": "Database Administrators",
       "tot_emp": 73180,
-      "employment_change": 0.082,
-      "sort_order": 6000.76
-    },
-    {
-      "prospect_code": "DAANBDSYS",
-      "deprecated": " ",
-      "program_id": "",
-      "program_name": "Master of Data Analytics - Big Data Systems",
-      "area_title": "U.S.",
-      "occ_code": "15-2051",
-      "occ_title": "Data Scientists",
-      "tot_emp": 233440,
-      "employment_change": 0.36,
-      "sort_order": 84038.4
+      "employment_change": 0.08199999999999999,
+      "sort_order": 6000.759999999999
     },
     {
       "prospect_code": "MSME",
@@ -2250,11 +2250,11 @@
       "program_id": 1740,
       "program_name": "Nursing (Master of Science in Nursing)",
       "area_title": "U.S.",
-      "occ_code": "25-1072",
-      "occ_title": "Nursing Instructors and Teachers, Postsecondary",
-      "tot_emp": 74250,
-      "employment_change": 0.179,
-      "sort_order": 13290.75
+      "occ_code": "11-9111",
+      "occ_title": "Medical and Health Services Managers",
+      "tot_emp": 565840,
+      "employment_change": 0.285,
+      "sort_order": 161264.4
     },
     {
       "prospect_code": "M S N",
@@ -2262,11 +2262,11 @@
       "program_id": 1740,
       "program_name": "Nursing (Master of Science in Nursing)",
       "area_title": "U.S.",
-      "occ_code": "11-9111",
-      "occ_title": "Medical and Health Services Managers",
-      "tot_emp": 565840,
-      "employment_change": 0.285,
-      "sort_order": 161264.4
+      "occ_code": "25-1072",
+      "occ_title": "Nursing Instructors and Teachers, Postsecondary",
+      "tot_emp": 74250,
+      "employment_change": 0.179,
+      "sort_order": 13290.75
     },
     {
       "prospect_code": "NURSBSNRN",
@@ -2286,11 +2286,23 @@
       "program_id": 2757,
       "program_name": "Nursing Practice - Leadership (Doctor of Nursing Practice)",
       "area_title": "U.S.",
+      "occ_code": "11-9111",
+      "occ_title": "Medical and Health Services Managers",
+      "tot_emp": 565840,
+      "employment_change": 0.285,
+      "sort_order": 161264.4
+    },
+    {
+      "prospect_code": "NDNPLDR",
+      "deprecated": "",
+      "program_id": 2757,
+      "program_name": "Nursing Practice - Leadership (Doctor of Nursing Practice)",
+      "area_title": "U.S.",
       "occ_code": "29-1171",
       "occ_title": "Nurse Practitioners",
       "tot_emp": 307390,
-      "employment_change": 0.463,
-      "sort_order": 142321.57
+      "employment_change": 0.46299999999999997,
+      "sort_order": 142321.56999999998
     },
     {
       "prospect_code": "NDNPLDR",
@@ -2305,18 +2317,6 @@
       "sort_order": 13290.75
     },
     {
-      "prospect_code": "NDNPLDR",
-      "deprecated": "",
-      "program_id": 2757,
-      "program_name": "Nursing Practice - Leadership (Doctor of Nursing Practice)",
-      "area_title": "U.S.",
-      "occ_code": "11-9111",
-      "occ_title": "Medical and Health Services Managers",
-      "tot_emp": 565840,
-      "employment_change": 0.285,
-      "sort_order": 161264.4
-    },
-    {
       "prospect_code": "NDNPORT",
       "deprecated": "",
       "program_id": 2768,
@@ -2337,8 +2337,8 @@
       "occ_code": "29-1171",
       "occ_title": "Nurse Practitioners",
       "tot_emp": 307390,
-      "employment_change": 0.463,
-      "sort_order": 142321.57
+      "employment_change": 0.46299999999999997,
+      "sort_order": 142321.56999999998
     },
     {
       "prospect_code": "NUTRMPS",
@@ -2349,8 +2349,8 @@
       "occ_code": "29-1031",
       "occ_title": "Dietitians and Nutritionists",
       "tot_emp": 76570,
-      "employment_change": 0.074,
-      "sort_order": 5666.18
+      "employment_change": 0.07400000000000001,
+      "sort_order": 5666.180000000001
     },
     {
       "prospect_code": "MPSODC",
@@ -2370,35 +2370,23 @@
       "program_id": 2487,
       "program_name": "Organizational and Professional Communication (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "27-3041",
-      "occ_title": "Editors",
-      "tot_emp": 95480,
-      "employment_change": -0.02,
-      "sort_order": -1909.6
-    },
-    {
-      "prospect_code": "ORPCMBA",
-      "deprecated": "",
-      "program_id": 2487,
-      "program_name": "Organizational and Professional Communication (Bachelor of Arts)",
-      "area_title": "U.S.",
-      "occ_code": "27-3042",
-      "occ_title": "Technical Writers",
-      "tot_emp": 55530,
-      "employment_change": 0.04,
-      "sort_order": 2221.2
-    },
-    {
-      "prospect_code": "ORPCMBA",
-      "deprecated": "",
-      "program_id": 2487,
-      "program_name": "Organizational and Professional Communication (Bachelor of Arts)",
-      "area_title": "U.S.",
       "occ_code": "27-3031",
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
-      "sort_order": 17396.58
+      "sort_order": 17396.579999999998
+    },
+    {
+      "prospect_code": "ORPCMBA",
+      "deprecated": "",
+      "program_id": 2487,
+      "program_name": "Organizational and Professional Communication (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "13-1131",
+      "occ_title": "Fundraisers",
+      "tot_emp": 105930,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 6249.870000000001
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2410,7 +2398,7 @@
       "occ_title": "Writers and Authors",
       "tot_emp": 47800,
       "employment_change": 0.051,
-      "sort_order": 2437.8
+      "sort_order": 2437.7999999999997
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2418,11 +2406,11 @@
       "program_id": 2487,
       "program_name": "Organizational and Professional Communication (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "13-1131",
-      "occ_title": "Fundraisers",
-      "tot_emp": 105930,
-      "employment_change": 0.059,
-      "sort_order": 6249.87
+      "occ_code": "27-3042",
+      "occ_title": "Technical Writers",
+      "tot_emp": 55530,
+      "employment_change": 0.04,
+      "sort_order": 2221.2000000000003
     },
     {
       "prospect_code": "ORPCMBA",
@@ -2433,32 +2421,20 @@
       "occ_code": "27-3023",
       "occ_title": "News Analysts, Reporters, and Journalists",
       "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1121.85
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1121.8500000000001
     },
     {
-      "prospect_code": "ORPCMBS",
+      "prospect_code": "ORPCMBA",
       "deprecated": "",
-      "program_id": 2488,
-      "program_name": "Organizational and Professional Communication (Bachelor of Science)",
+      "program_id": 2487,
+      "program_name": "Organizational and Professional Communication (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "27-3042",
-      "occ_title": "Technical Writers",
-      "tot_emp": 55530,
-      "employment_change": 0.04,
-      "sort_order": 2221.2
-    },
-    {
-      "prospect_code": "ORPCMBS",
-      "deprecated": "",
-      "program_id": 2488,
-      "program_name": "Organizational and Professional Communication (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "13-1131",
-      "occ_title": "Fundraisers",
-      "tot_emp": 105930,
-      "employment_change": 0.059,
-      "sort_order": 6249.87
+      "occ_code": "27-3041",
+      "occ_title": "Editors",
+      "tot_emp": 95480,
+      "employment_change": -0.02,
+      "sort_order": -1909.6000000000001
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2470,7 +2446,7 @@
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
-      "sort_order": 17396.58
+      "sort_order": 17396.579999999998
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2478,23 +2454,11 @@
       "program_id": 2488,
       "program_name": "Organizational and Professional Communication (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "27-3041",
-      "occ_title": "Editors",
-      "tot_emp": 95480,
-      "employment_change": -0.02,
-      "sort_order": -1909.6
-    },
-    {
-      "prospect_code": "ORPCMBS",
-      "deprecated": "",
-      "program_id": 2488,
-      "program_name": "Organizational and Professional Communication (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "27-3023",
-      "occ_title": "News Analysts, Reporters, and Journalists",
-      "tot_emp": 41550,
-      "employment_change": -0.027,
-      "sort_order": -1121.85
+      "occ_code": "13-1131",
+      "occ_title": "Fundraisers",
+      "tot_emp": 105930,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 6249.870000000001
     },
     {
       "prospect_code": "ORPCMBS",
@@ -2506,31 +2470,43 @@
       "occ_title": "Writers and Authors",
       "tot_emp": 47800,
       "employment_change": 0.051,
-      "sort_order": 2437.8
+      "sort_order": 2437.7999999999997
     },
     {
-      "prospect_code": "OLEADBA",
+      "prospect_code": "ORPCMBS",
       "deprecated": "",
-      "program_id": 129,
-      "program_name": "Organizational Leadership (Bachelor of Arts)",
+      "program_id": 2488,
+      "program_name": "Organizational and Professional Communication (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "11-2033",
-      "occ_title": "Fundraising Managers",
-      "tot_emp": 36920,
-      "employment_change": 0.059,
-      "sort_order": 2178.28
+      "occ_code": "27-3042",
+      "occ_title": "Technical Writers",
+      "tot_emp": 55530,
+      "employment_change": 0.04,
+      "sort_order": 2221.2000000000003
     },
     {
-      "prospect_code": "OLEADBA",
+      "prospect_code": "ORPCMBS",
       "deprecated": "",
-      "program_id": 129,
-      "program_name": "Organizational Leadership (Bachelor of Arts)",
+      "program_id": 2488,
+      "program_name": "Organizational and Professional Communication (Bachelor of Science)",
       "area_title": "U.S.",
-      "occ_code": "11-2022",
-      "occ_title": "Sales Managers",
-      "tot_emp": 603710,
-      "employment_change": 0.059,
-      "sort_order": 35618.89
+      "occ_code": "27-3023",
+      "occ_title": "News Analysts, Reporters, and Journalists",
+      "tot_emp": 41550,
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1121.8500000000001
+    },
+    {
+      "prospect_code": "ORPCMBS",
+      "deprecated": "",
+      "program_id": 2488,
+      "program_name": "Organizational and Professional Communication (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "27-3041",
+      "occ_title": "Editors",
+      "tot_emp": 95480,
+      "employment_change": -0.02,
+      "sort_order": -1909.6000000000001
     },
     {
       "prospect_code": "OLEADBA",
@@ -2541,19 +2517,31 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
-      "prospect_code": "OLEAD",
+      "prospect_code": "OLEADBA",
       "deprecated": "",
-      "program_id": 148,
-      "program_name": "Organizational Leadership (Bachelor of Science)",
+      "program_id": 129,
+      "program_name": "Organizational Leadership (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "11-2022",
+      "occ_title": "Sales Managers",
+      "tot_emp": 603710,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 35618.89
+    },
+    {
+      "prospect_code": "OLEADBA",
+      "deprecated": "",
+      "program_id": 129,
+      "program_name": "Organizational Leadership (Bachelor of Arts)",
       "area_title": "U.S.",
       "occ_code": "11-2033",
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178.28
     },
     {
@@ -2565,7 +2553,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -2577,8 +2565,32 @@
       "occ_code": "11-2022",
       "occ_title": "Sales Managers",
       "tot_emp": 603710,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 35618.89
+    },
+    {
+      "prospect_code": "OLEAD",
+      "deprecated": "",
+      "program_id": 148,
+      "program_name": "Organizational Leadership (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "11-2033",
+      "occ_title": "Fundraising Managers",
+      "tot_emp": 36920,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 2178.28
+    },
+    {
+      "prospect_code": "PL SC",
+      "deprecated": "",
+      "program_id": 100,
+      "program_name": "Political Science (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "19-4061",
+      "occ_title": "Social Science Research Assistants",
+      "tot_emp": 32940,
+      "employment_change": 0.063,
+      "sort_order": 2075.22
     },
     {
       "prospect_code": "PL SC",
@@ -2589,14 +2601,14 @@
       "occ_code": "19-3094",
       "occ_title": "Political Scientists",
       "tot_emp": 5950,
-      "employment_change": 0.026,
-      "sort_order": 154.7
+      "employment_change": 0.026000000000000002,
+      "sort_order": 154.70000000000002
     },
     {
-      "prospect_code": "PL SC",
+      "prospect_code": "PLSBS",
       "deprecated": "",
-      "program_id": 100,
-      "program_name": "Political Science (Bachelor of Arts)",
+      "program_id": 2221,
+      "program_name": "Political Science (Bachelor of Science)",
       "area_title": "U.S.",
       "occ_code": "19-4061",
       "occ_title": "Social Science Research Assistants",
@@ -2613,32 +2625,8 @@
       "occ_code": "19-3094",
       "occ_title": "Political Scientists",
       "tot_emp": 5950,
-      "employment_change": 0.026,
-      "sort_order": 154.7
-    },
-    {
-      "prospect_code": "PLSBS",
-      "deprecated": "",
-      "program_id": 2221,
-      "program_name": "Political Science (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "19-4061",
-      "occ_title": "Social Science Research Assistants",
-      "tot_emp": 32940,
-      "employment_change": 0.063,
-      "sort_order": 2075.22
-    },
-    {
-      "prospect_code": "PSCMBS",
-      "deprecated": "",
-      "program_id": 1862,
-      "program_name": "Project and Supply Chain Management (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "11-3051",
-      "occ_title": "Industrial Production Managers",
-      "tot_emp": 234380,
-      "employment_change": 0.028,
-      "sort_order": 6562.64
+      "employment_change": 0.026000000000000002,
+      "sort_order": 154.70000000000002
     },
     {
       "prospect_code": "PSCMBS",
@@ -2649,7 +2637,7 @@
       "occ_code": "13-1082",
       "occ_title": "Project Management Specialists",
       "tot_emp": 1006160,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 72443.52
     },
     {
@@ -2662,7 +2650,7 @@
       "occ_title": "Logisticians",
       "tot_emp": 235640,
       "employment_change": 0.193,
-      "sort_order": 45478.52
+      "sort_order": 45478.520000000004
     },
     {
       "prospect_code": "PSCMBS",
@@ -2677,6 +2665,18 @@
       "sort_order": 19170
     },
     {
+      "prospect_code": "PSCMBS",
+      "deprecated": "",
+      "program_id": 1862,
+      "program_name": "Project and Supply Chain Management (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "11-3051",
+      "occ_title": "Industrial Production Managers",
+      "tot_emp": 234380,
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6562.639999999999
+    },
+    {
       "prospect_code": "PMPO",
       "deprecated": "",
       "program_id": 72,
@@ -2685,7 +2685,7 @@
       "occ_code": "13-1082",
       "occ_title": "Project Management Specialists",
       "tot_emp": 1006160,
-      "employment_change": 0.072,
+      "employment_change": 0.07200000000000001,
       "sort_order": 72443.52
     },
     {
@@ -2694,11 +2694,11 @@
       "program_id": 31,
       "program_name": "Psychology (Bachelor of Arts)",
       "area_title": "U.S.",
-      "occ_code": "19-3022",
-      "occ_title": "Survey Researchers",
-      "tot_emp": 7720,
-      "employment_change": -0.002,
-      "sort_order": -15.44
+      "occ_code": "19-4061",
+      "occ_title": "Social Science Research Assistants",
+      "tot_emp": 32940,
+      "employment_change": 0.063,
+      "sort_order": 2075.22
     },
     {
       "prospect_code": "PSYBA",
@@ -2706,6 +2706,18 @@
       "program_id": 31,
       "program_name": "Psychology (Bachelor of Arts)",
       "area_title": "U.S.",
+      "occ_code": "19-3022",
+      "occ_title": "Survey Researchers",
+      "tot_emp": 7720,
+      "employment_change": -0.002,
+      "sort_order": -15.44
+    },
+    {
+      "prospect_code": "PSYBS",
+      "deprecated": "",
+      "program_id": 32,
+      "program_name": "Psychology (Bachelor of Science)",
+      "area_title": "U.S.",
       "occ_code": "19-4061",
       "occ_title": "Social Science Research Assistants",
       "tot_emp": 32940,
@@ -2725,16 +2737,28 @@
       "sort_order": -15.44
     },
     {
-      "prospect_code": "PSYBS",
+      "prospect_code": "P ADM",
       "deprecated": "",
-      "program_id": 32,
-      "program_name": "Psychology (Bachelor of Science)",
+      "program_id": 71,
+      "program_name": "Public Administration (Master of Public Administration)",
       "area_title": "U.S.",
-      "occ_code": "19-4061",
-      "occ_title": "Social Science Research Assistants",
-      "tot_emp": 32940,
-      "employment_change": 0.063,
-      "sort_order": 2075.22
+      "occ_code": "11-1021",
+      "occ_title": "General and Operations Managers",
+      "tot_emp": 3584420,
+      "employment_change": 0.057999999999999996,
+      "sort_order": 207896.36
+    },
+    {
+      "prospect_code": "P ADM",
+      "deprecated": "",
+      "program_id": 71,
+      "program_name": "Public Administration (Master of Public Administration)",
+      "area_title": "U.S.",
+      "occ_code": "11-9151",
+      "occ_title": "Social and Community Service Managers",
+      "tot_emp": 195490,
+      "employment_change": 0.08199999999999999,
+      "sort_order": 16030.179999999998
     },
     {
       "prospect_code": "P ADM",
@@ -2757,32 +2781,8 @@
       "occ_code": "11-2033",
       "occ_title": "Fundraising Managers",
       "tot_emp": 36920,
-      "employment_change": 0.059,
+      "employment_change": 0.059000000000000004,
       "sort_order": 2178.28
-    },
-    {
-      "prospect_code": "P ADM",
-      "deprecated": "",
-      "program_id": 71,
-      "program_name": "Public Administration (Master of Public Administration)",
-      "area_title": "U.S.",
-      "occ_code": "11-9151",
-      "occ_title": "Social and Community Service Managers",
-      "tot_emp": 195490,
-      "employment_change": 0.082,
-      "sort_order": 16030.18
-    },
-    {
-      "prospect_code": "P ADM",
-      "deprecated": "",
-      "program_id": 71,
-      "program_name": "Public Administration (Master of Public Administration)",
-      "area_title": "U.S.",
-      "occ_code": "11-1021",
-      "occ_title": "General and Operations Managers",
-      "tot_emp": 3584420,
-      "employment_change": 0.058,
-      "sort_order": 207896.36
     },
     {
       "prospect_code": "PHMPH",
@@ -2802,11 +2802,11 @@
       "program_id": 1785,
       "program_name": "Public Health (Master of Public Health)",
       "area_title": "U.S.",
-      "occ_code": "21-1091",
-      "occ_title": "Health Education Specialists",
-      "tot_emp": 65150,
-      "employment_change": 0.07,
-      "sort_order": 4560.5
+      "occ_code": "21-1094",
+      "occ_title": "Community Health Workers",
+      "tot_emp": 60730,
+      "employment_change": 0.131,
+      "sort_order": 7955.63
     },
     {
       "prospect_code": "PHMPH",
@@ -2814,11 +2814,11 @@
       "program_id": 1785,
       "program_name": "Public Health (Master of Public Health)",
       "area_title": "U.S.",
-      "occ_code": "21-1094",
-      "occ_title": "Community Health Workers",
-      "tot_emp": 60730,
-      "employment_change": 0.131,
-      "sort_order": 7955.63
+      "occ_code": "21-1091",
+      "occ_title": "Health Education Specialists",
+      "tot_emp": 65150,
+      "employment_change": 0.07,
+      "sort_order": 4560.5
     },
     {
       "prospect_code": "RPTMCRTM",
@@ -2862,11 +2862,11 @@
       "program_id": 130,
       "program_name": "Renewable Energy and Sustainability Systems (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "19-1031",
-      "occ_title": "Conservation Scientists",
-      "tot_emp": 25590,
-      "employment_change": 0.056,
-      "sort_order": 1433.04
+      "occ_code": "19-2041",
+      "occ_title": "Environmental Scientists and Specialists, Including Health",
+      "tot_emp": 84930,
+      "employment_change": 0.073,
+      "sort_order": 6199.889999999999
     },
     {
       "prospect_code": "RESS",
@@ -2874,23 +2874,11 @@
       "program_id": 130,
       "program_name": "Renewable Energy and Sustainability Systems (Master of Professional Studies)",
       "area_title": "U.S.",
-      "occ_code": "19-2041",
-      "occ_title": "Environmental Scientists and Specialists, Including Health",
-      "tot_emp": 84930,
-      "employment_change": 0.073,
-      "sort_order": 6199.89
-    },
-    {
-      "prospect_code": "SRA",
-      "deprecated": "",
-      "program_id": 114,
-      "program_name": "Security and Risk Analysis (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "15-1211",
-      "occ_title": "Computer Systems Analysts",
-      "tot_emp": 497800,
-      "employment_change": 0.107,
-      "sort_order": 53264.6
+      "occ_code": "19-1031",
+      "occ_title": "Conservation Scientists",
+      "tot_emp": 25590,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 1433.04
     },
     {
       "prospect_code": "SRA",
@@ -2910,11 +2898,35 @@
       "program_id": 114,
       "program_name": "Security and Risk Analysis (Bachelor of Science)",
       "area_title": "U.S.",
+      "occ_code": "15-1211",
+      "occ_title": "Computer Systems Analysts",
+      "tot_emp": 497800,
+      "employment_change": 0.107,
+      "sort_order": 53264.6
+    },
+    {
+      "prospect_code": "SRA",
+      "deprecated": "",
+      "program_id": 114,
+      "program_name": "Security and Risk Analysis (Bachelor of Science)",
+      "area_title": "U.S.",
       "occ_code": "15-1244",
       "occ_title": "Network and Computer Systems Administrators",
       "tot_emp": 318570,
-      "employment_change": -0.026,
-      "sort_order": -8282.82
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8282.820000000002
+    },
+    {
+      "prospect_code": "SEBCBS",
+      "deprecated": "",
+      "program_id": 1955,
+      "program_name": "Software Engineering (Bachelor of Science)",
+      "area_title": "U.S.",
+      "occ_code": "15-1252",
+      "occ_title": "Software Developers",
+      "tot_emp": 1654440,
+      "employment_change": 0.179,
+      "sort_order": 296144.76
     },
     {
       "prospect_code": "SEBCBS",
@@ -2925,14 +2937,14 @@
       "occ_code": "15-1253",
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576.4
     },
     {
-      "prospect_code": "SEBCBS",
+      "prospect_code": "SWENG",
       "deprecated": "",
-      "program_id": 1955,
-      "program_name": "Software Engineering (Bachelor of Science)",
+      "program_id": 74,
+      "program_name": "Software Engineering (Master's Degree)",
       "area_title": "U.S.",
       "occ_code": "15-1252",
       "occ_title": "Software Developers",
@@ -2958,59 +2970,11 @@
       "program_id": 74,
       "program_name": "Software Engineering (Master's Degree)",
       "area_title": "U.S.",
-      "occ_code": "15-1252",
-      "occ_title": "Software Developers",
-      "tot_emp": 1654440,
-      "employment_change": 0.179,
-      "sort_order": 296144.76
-    },
-    {
-      "prospect_code": "SWENG",
-      "deprecated": "",
-      "program_id": 74,
-      "program_name": "Software Engineering (Master's Degree)",
-      "area_title": "U.S.",
       "occ_code": "15-1253",
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576.4
-    },
-    {
-      "prospect_code": "SDSMS",
-      "deprecated": "",
-      "program_id": 2709,
-      "program_name": "Spatial Data Science (Master of Science)",
-      "area_title": "U.S.",
-      "occ_code": "17-1021",
-      "occ_title": "Cartographers and Photogrammetrists",
-      "tot_emp": 12790,
-      "employment_change": 0.063,
-      "sort_order": 805.77
-    },
-    {
-      "prospect_code": "SDSMS",
-      "deprecated": "",
-      "program_id": 2709,
-      "program_name": "Spatial Data Science (Master of Science)",
-      "area_title": "U.S.",
-      "occ_code": "19-3092",
-      "occ_title": "Geographers",
-      "tot_emp": 1380,
-      "employment_change": 0.025,
-      "sort_order": 34.5
-    },
-    {
-      "prospect_code": "SDSMS",
-      "deprecated": "",
-      "program_id": 2709,
-      "program_name": "Spatial Data Science (Master of Science)",
-      "area_title": "U.S.",
-      "occ_code": "17-3031",
-      "occ_title": "Surveying and Mapping Technicians",
-      "tot_emp": 56720,
-      "employment_change": 0.056,
-      "sort_order": 3176.32
     },
     {
       "prospect_code": "SDSMS",
@@ -3030,6 +2994,30 @@
       "program_id": 2709,
       "program_name": "Spatial Data Science (Master of Science)",
       "area_title": "U.S.",
+      "occ_code": "17-3031",
+      "occ_title": "Surveying and Mapping Technicians",
+      "tot_emp": 56720,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 3176.3199999999997
+    },
+    {
+      "prospect_code": "SDSMS",
+      "deprecated": "",
+      "program_id": 2709,
+      "program_name": "Spatial Data Science (Master of Science)",
+      "area_title": "U.S.",
+      "occ_code": "17-1021",
+      "occ_title": "Cartographers and Photogrammetrists",
+      "tot_emp": 12790,
+      "employment_change": 0.063,
+      "sort_order": 805.77
+    },
+    {
+      "prospect_code": "SDSMS",
+      "deprecated": "",
+      "program_id": 2709,
+      "program_name": "Spatial Data Science (Master of Science)",
+      "area_title": "U.S.",
       "occ_code": "19-2099",
       "occ_title": "Physical Scientists, All Other",
       "tot_emp": 22580,
@@ -3037,16 +3025,16 @@
       "sort_order": 519.34
     },
     {
-      "prospect_code": "SPLEDMED",
+      "prospect_code": "SDSMS",
       "deprecated": "",
-      "program_id": 1986,
-      "program_name": "Special Education (Master of Education)",
+      "program_id": 2709,
+      "program_name": "Spatial Data Science (Master of Science)",
       "area_title": "U.S.",
-      "occ_code": "25-2058",
-      "occ_title": "Special Education Teachers, Secondary School",
-      "tot_emp": 162780,
-      "employment_change": -0.006,
-      "sort_order": -976.68
+      "occ_code": "19-3092",
+      "occ_title": "Geographers",
+      "tot_emp": 1380,
+      "employment_change": 0.025,
+      "sort_order": 34.5
     },
     {
       "prospect_code": "SPLEDMED",
@@ -3069,8 +3057,20 @@
       "occ_code": "25-2057",
       "occ_title": "Special Education Teachers, Middle School",
       "tot_emp": 95330,
-      "employment_change": -0.009,
-      "sort_order": -857.97
+      "employment_change": -0.009000000000000001,
+      "sort_order": -857.9700000000001
+    },
+    {
+      "prospect_code": "SPLEDMED",
+      "deprecated": "",
+      "program_id": 1986,
+      "program_name": "Special Education (Master of Education)",
+      "area_title": "U.S.",
+      "occ_code": "25-2058",
+      "occ_title": "Special Education Teachers, Secondary School",
+      "tot_emp": 162780,
+      "employment_change": -0.006,
+      "sort_order": -976.6800000000001
     },
     {
       "prospect_code": "SPLEDMED",
@@ -3081,20 +3081,8 @@
       "occ_code": "25-2052",
       "occ_title": "Special Education Teachers, Kindergarten and Elementary School",
       "tot_emp": 231570,
-      "employment_change": -0.007,
-      "sort_order": -1620.99
-    },
-    {
-      "prospect_code": "STRCMBA",
-      "deprecated": "",
-      "program_id": 2531,
-      "program_name": "Strategic Communications (Bachelor of Arts)",
-      "area_title": "U.S.",
-      "occ_code": "11-2011",
-      "occ_title": "Advertising and Promotions Managers",
-      "tot_emp": 21100,
-      "employment_change": -0.026,
-      "sort_order": -548.6
+      "employment_change": -0.006999999999999999,
+      "sort_order": -1620.9899999999998
     },
     {
       "prospect_code": "STRCMBA",
@@ -3106,13 +3094,37 @@
       "occ_title": "Public Relations Specialists",
       "tot_emp": 280590,
       "employment_change": 0.062,
-      "sort_order": 17396.58
+      "sort_order": 17396.579999999998
     },
     {
       "prospect_code": "STRCMBA",
       "deprecated": "",
       "program_id": 2531,
       "program_name": "Strategic Communications (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "11-2032",
+      "occ_title": "Public Relations Managers",
+      "tot_emp": 76060,
+      "employment_change": 0.069,
+      "sort_order": 5248.14
+    },
+    {
+      "prospect_code": "STRCMBA",
+      "deprecated": "",
+      "program_id": 2531,
+      "program_name": "Strategic Communications (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "11-2011",
+      "occ_title": "Advertising and Promotions Managers",
+      "tot_emp": 21100,
+      "employment_change": -0.026000000000000002,
+      "sort_order": -548.6
+    },
+    {
+      "prospect_code": "STCOMMPS",
+      "deprecated": "",
+      "program_id": 2509,
+      "program_name": "Strategic Communications (Master of Professional Studies)",
       "area_title": "U.S.",
       "occ_code": "11-2032",
       "occ_title": "Public Relations Managers",
@@ -3129,32 +3141,8 @@
       "occ_code": "11-2011",
       "occ_title": "Advertising and Promotions Managers",
       "tot_emp": 21100,
-      "employment_change": -0.026,
+      "employment_change": -0.026000000000000002,
       "sort_order": -548.6
-    },
-    {
-      "prospect_code": "STCOMMPS",
-      "deprecated": "",
-      "program_id": 2509,
-      "program_name": "Strategic Communications (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "11-2032",
-      "occ_title": "Public Relations Managers",
-      "tot_emp": 76060,
-      "employment_change": 0.069,
-      "sort_order": 5248.14
-    },
-    {
-      "prospect_code": "SMEXLMMGT",
-      "deprecated": "",
-      "program_id": 2620,
-      "program_name": "Strategic Management and Executive Leadership (Master’s Degree)",
-      "area_title": "U.S.",
-      "occ_code": "11-1011",
-      "occ_title": "Chief Executives",
-      "tot_emp": 211850,
-      "employment_change": 0.055,
-      "sort_order": 11651.75
     },
     {
       "prospect_code": "SMEXLMMGT",
@@ -3165,7 +3153,7 @@
       "occ_code": "11-1021",
       "occ_title": "General and Operations Managers",
       "tot_emp": 3584420,
-      "employment_change": 0.058,
+      "employment_change": 0.057999999999999996,
       "sort_order": 207896.36
     },
     {
@@ -3181,16 +3169,16 @@
       "sort_order": 94753.4
     },
     {
-      "prospect_code": "SCMMSCM",
+      "prospect_code": "SMEXLMMGT",
       "deprecated": "",
-      "program_id": 2673,
-      "program_name": "Supply Chain Management (Master's Degree)",
+      "program_id": 2620,
+      "program_name": "Strategic Management and Executive Leadership (Master’s Degree)",
       "area_title": "U.S.",
-      "occ_code": "11-3071",
-      "occ_title": "Transportation, Storage, and Distribution Managers",
-      "tot_emp": 213000,
-      "employment_change": 0.09,
-      "sort_order": 19170
+      "occ_code": "11-1011",
+      "occ_title": "Chief Executives",
+      "tot_emp": 211850,
+      "employment_change": 0.055,
+      "sort_order": 11651.75
     },
     {
       "prospect_code": "SCMMSCM",
@@ -3202,19 +3190,19 @@
       "occ_title": "Logisticians",
       "tot_emp": 235640,
       "employment_change": 0.193,
-      "sort_order": 45478.52
+      "sort_order": 45478.520000000004
     },
     {
-      "prospect_code": "SYSEN",
+      "prospect_code": "SCMMSCM",
       "deprecated": "",
-      "program_id": 75,
-      "program_name": "Systems Engineering (Master of Engineering)",
+      "program_id": 2673,
+      "program_name": "Supply Chain Management (Master's Degree)",
       "area_title": "U.S.",
-      "occ_code": "17-2112",
-      "occ_title": "Industrial Engineers",
-      "tot_emp": 350230,
-      "employment_change": 0.122,
-      "sort_order": 42728.06
+      "occ_code": "11-3071",
+      "occ_title": "Transportation, Storage, and Distribution Managers",
+      "tot_emp": 213000,
+      "employment_change": 0.09,
+      "sort_order": 19170
     },
     {
       "prospect_code": "SYSEN",
@@ -3237,8 +3225,20 @@
       "occ_code": "15-1299",
       "occ_title": "Computer Occupations, All Other",
       "tot_emp": 439380,
-      "employment_change": 0.108,
-      "sort_order": 47453.04
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453.04000000001
+    },
+    {
+      "prospect_code": "SYSEN",
+      "deprecated": "",
+      "program_id": 75,
+      "program_name": "Systems Engineering (Master of Engineering)",
+      "area_title": "U.S.",
+      "occ_code": "17-2112",
+      "occ_title": "Industrial Engineers",
+      "tot_emp": 350230,
+      "employment_change": 0.122,
+      "sort_order": 42728.06
     },
     {
       "prospect_code": "SYSEN",
@@ -3249,7 +3249,7 @@
       "occ_code": "15-1253",
       "occ_title": "Software Quality Assurance Analysts and Testers",
       "tot_emp": 199800,
-      "employment_change": 0.118,
+      "employment_change": 0.11800000000000001,
       "sort_order": 23576.4
     },
     {
@@ -3261,8 +3261,8 @@
       "occ_code": "13-2011",
       "occ_title": "Accountants and Auditors",
       "tot_emp": 1448290,
-      "employment_change": 0.058,
-      "sort_order": 84000.82
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84000.81999999999
     },
     {
       "prospect_code": "TAXMACC",
@@ -3274,7 +3274,31 @@
       "occ_title": "Tax Examiners and Collectors, and Revenue Agents",
       "tot_emp": 53530,
       "employment_change": 0.019,
-      "sort_order": 1017.07
+      "sort_order": 1017.0699999999999
+    },
+    {
+      "prospect_code": "MPSTM",
+      "deprecated": "",
+      "program_id": 70,
+      "program_name": "Turfgrass Management (Master of Professional Studies)",
+      "area_title": "U.S.",
+      "occ_code": "19-1013",
+      "occ_title": "Soil and Plant Scientists",
+      "tot_emp": 16600,
+      "employment_change": 0.07200000000000001,
+      "sort_order": 1195.2
+    },
+    {
+      "prospect_code": "MPSTM",
+      "deprecated": "",
+      "program_id": 70,
+      "program_name": "Turfgrass Management (Master of Professional Studies)",
+      "area_title": "U.S.",
+      "occ_code": "19-4012",
+      "occ_title": "Agricultural Technicians",
+      "tot_emp": 14340,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 846.0600000000001
     },
     {
       "prospect_code": "MPSTM",
@@ -3289,46 +3313,10 @@
       "sort_order": 471.51
     },
     {
-      "prospect_code": "MPSTM",
-      "deprecated": "",
-      "program_id": 70,
-      "program_name": "Turfgrass Management (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "19-4012",
-      "occ_title": "Agricultural Technicians",
-      "tot_emp": 14340,
-      "employment_change": 0.059,
-      "sort_order": 846.06
-    },
-    {
-      "prospect_code": "MPSTM",
-      "deprecated": "",
-      "program_id": 70,
-      "program_name": "Turfgrass Management (Master of Professional Studies)",
-      "area_title": "U.S.",
-      "occ_code": "19-1013",
-      "occ_title": "Soil and Plant Scientists",
-      "tot_emp": 16600,
-      "employment_change": 0.072,
-      "sort_order": 1195.2
-    },
-    {
       "prospect_code": "TURF3",
       "deprecated": "",
       "program_id": 39,
       "program_name": "Turfgrass Science (Bachelor of Science)",
-      "area_title": "U.S.",
-      "occ_code": "37-1012",
-      "occ_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
-      "tot_emp": 124130,
-      "employment_change": 0.035,
-      "sort_order": 4344.55
-    },
-    {
-      "prospect_code": "2 TSM",
-      "deprecated": "",
-      "program_id": 23,
-      "program_name": "Turfgrass Science and Management (Associate in Science)",
       "area_title": "U.S.",
       "occ_code": "37-1012",
       "occ_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
@@ -3354,11 +3342,23 @@
       "program_id": 23,
       "program_name": "Turfgrass Science and Management (Associate in Science)",
       "area_title": "U.S.",
+      "occ_code": "37-1012",
+      "occ_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "tot_emp": 124130,
+      "employment_change": 0.035,
+      "sort_order": 4344.55
+    },
+    {
+      "prospect_code": "2 TSM",
+      "deprecated": "",
+      "program_id": 23,
+      "program_name": "Turfgrass Science and Management (Associate in Science)",
+      "area_title": "U.S.",
       "occ_code": "37-3012",
       "occ_title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
       "tot_emp": 25200,
       "employment_change": 0.051,
-      "sort_order": 1285.2
+      "sort_order": 1285.1999999999998
     }
   ],
   "job_titles": [
