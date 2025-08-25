@@ -28,6 +28,8 @@ jobs:
     steps:
     - name: Checkout branch
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
@@ -59,6 +61,8 @@ jobs:
     steps:
     - name: Checkout branch
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
     - name: Create pull request through GitHub CLI
       run: gh pr create --title "Update BLS data ${{ env.TIMESTAMP }}" --body "Update BLS data JSON files from new XLSX file" --base main --assignee zri5004 --reviewer zri5004 --label data-intake
       env:
