@@ -2,9 +2,9 @@
   "job_outlooks": [
     {
       "occ_title": "Accountants and Auditors",
-      "tot_emp": 1402420,
-      "employment_change": 0.044000000000000004,
-      "sort_order": 61706,
+      "tot_emp": 1448290,
+      "employment_change": 0.057999999999999996,
+      "sort_order": 84001,
       "programs": [
         "ACCTBS",
         "ACCTMS",
@@ -14,9 +14,9 @@
     },
     {
       "occ_title": "Budget Analysts",
-      "tot_emp": 48430,
-      "employment_change": 0.033,
-      "sort_order": 1598,
+      "tot_emp": 47170,
+      "employment_change": 0.039,
+      "sort_order": 1840,
       "programs": [
         "ACCTBS",
         "ACCTMS",
@@ -27,9 +27,9 @@
     },
     {
       "occ_title": "Credit Analysts",
-      "tot_emp": 71960,
-      "employment_change": -0.043,
-      "sort_order": -3094,
+      "tot_emp": 67370,
+      "employment_change": -0.039,
+      "sort_order": -2627,
       "programs": [
         "ACCTBS",
         "FINBS",
@@ -39,9 +39,9 @@
     },
     {
       "occ_title": "Financial Examiners",
-      "tot_emp": 63370,
-      "employment_change": 0.195,
-      "sort_order": 12357,
+      "tot_emp": 62830,
+      "employment_change": 0.21,
+      "sort_order": 13194,
       "programs": [
         "ACCTMS"
       ],
@@ -49,9 +49,9 @@
     },
     {
       "occ_title": "Engineers, All Other",
-      "tot_emp": 150420,
-      "employment_change": 0.033,
-      "sort_order": 4964,
+      "tot_emp": 150750,
+      "employment_change": 0.05,
+      "sort_order": 7538,
       "programs": [
         "ACS",
         "AMDMENG",
@@ -61,9 +61,9 @@
     },
     {
       "occ_title": "Industrial Engineers",
-      "tot_emp": 321400,
-      "employment_change": 0.11699999999999999,
-      "sort_order": 37604,
+      "tot_emp": 350230,
+      "employment_change": 0.122,
+      "sort_order": 42728,
       "programs": [
         "AMDMENG",
         "IEMENG",
@@ -73,125 +73,93 @@
     },
     {
       "occ_title": "Farmers, Ranchers, and Other Agricultural Managers",
-      "tot_emp": 6250,
-      "employment_change": -0.046,
-      "sort_order": -287,
+      "tot_emp": 5910,
+      "employment_change": -0.016,
+      "sort_order": -95,
       "programs": [
         "AGBM"
       ],
       "uid": "11-9013"
     },
     {
-      "occ_title": "Farm and Home Management Educators",
-      "tot_emp": 8220,
-      "employment_change": -0.02,
-      "sort_order": -164,
-      "programs": [
-        "AGBM"
-      ],
-      "uid": "25-9021"
-    },
-    {
       "occ_title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
-      "tot_emp": 27670,
-      "employment_change": 0.027000000000000003,
-      "sort_order": 747,
+      "tot_emp": 29530,
+      "employment_change": 0.031,
+      "sort_order": 915,
       "programs": [
         "AGBM"
       ],
       "uid": "45-1011"
     },
     {
-      "occ_title": "Sociologists",
-      "tot_emp": 2980,
-      "employment_change": 0.045,
-      "sort_order": 134,
+      "occ_title": "Farm and Home Management Educators",
+      "tot_emp": 10260,
+      "employment_change": -0.017,
+      "sort_order": -174,
       "programs": [
-        "APDEMMPS"
+        "AGBM"
       ],
-      "uid": "19-3041"
-    },
-    {
-      "occ_title": "Social Scientists and Related Workers, All Other",
-      "tot_emp": 33210,
-      "employment_change": 0.017,
-      "sort_order": 565,
-      "programs": [
-        "APDEMMPS"
-      ],
-      "uid": "19-3099"
-    },
-    {
-      "occ_title": "Statisticians",
-      "tot_emp": 30780,
-      "employment_change": 0.316,
-      "sort_order": 9726,
-      "programs": [
-        "ASTAT",
-        "FDTANBS",
-        "DAANMDA"
-      ],
-      "uid": "15-2041"
+      "uid": "25-9021"
     },
     {
       "occ_title": "Data Scientists",
-      "tot_emp": 159630,
-      "employment_change": 0.35200000000000004,
-      "sort_order": 56190,
+      "tot_emp": 233440,
+      "employment_change": 0.36,
+      "sort_order": 84038,
       "programs": [
         "ASTAT",
         "AIMAI",
-        "AIMPS",
+        "DAANBUSAN",
         "DAANMRKAN",
-        "FDTANBS",
-        "SDSMS",
-        "DAANBDSYS",
         "DAANMDA",
-        "DAANBUSAN"
+        "FDTANBS",
+        "CSCMCS",
+        "DAANBDSYS",
+        "SDSMS"
       ],
       "uid": "15-2051"
     },
     {
-      "occ_title": "Computer Programmers",
-      "tot_emp": 132740,
-      "employment_change": -0.11199999999999999,
-      "sort_order": -14867,
+      "occ_title": "Statisticians",
+      "tot_emp": 29800,
+      "employment_change": 0.11800000000000001,
+      "sort_order": 3516,
       "programs": [
-        "AIMAI",
-        "AIMPS",
-        "4 IST"
+        "ASTAT",
+        "DAANMDA",
+        "FDTANBS"
       ],
-      "uid": "15-1251"
+      "uid": "15-2041"
     },
     {
       "occ_title": "Software Developers",
-      "tot_emp": 1534790,
-      "employment_change": 0.257,
+      "tot_emp": 1654440,
+      "employment_change": 0.179,
       "sort_order": 394441,
       "programs": [
         "AIMAI",
-        "AIMPS",
+        "CSCMCS",
         "SEBCBS",
         "SWENG"
       ],
       "uid": "15-1252"
     },
     {
-      "occ_title": "Health Education Specialists",
-      "tot_emp": 56190,
-      "employment_change": 0.07200000000000001,
-      "sort_order": 4046,
+      "occ_title": "Computer Programmers",
+      "tot_emp": 109870,
+      "employment_change": -0.096,
+      "sort_order": -14867,
       "programs": [
-        "BBHBS",
-        "PHMPH"
+        "AIMAI",
+        "4 IST"
       ],
-      "uid": "21-1091"
+      "uid": "15-1251"
     },
     {
       "occ_title": "Community Health Workers",
-      "tot_emp": 61300,
-      "employment_change": 0.141,
-      "sort_order": 8643,
+      "tot_emp": 60730,
+      "employment_change": 0.131,
+      "sort_order": 7956,
       "programs": [
         "BBHBS",
         "PHMPH"
@@ -199,10 +167,31 @@
       "uid": "21-1094"
     },
     {
+      "occ_title": "Health Education Specialists",
+      "tot_emp": 65150,
+      "employment_change": 0.07,
+      "sort_order": 4561,
+      "programs": [
+        "BBHBS",
+        "PHMPH"
+      ],
+      "uid": "21-1091"
+    },
+    {
+      "occ_title": "Administrative Services Managers",
+      "tot_emp": 254140,
+      "employment_change": 0.062,
+      "sort_order": 15757,
+      "programs": [
+        "BSBIC"
+      ],
+      "uid": "11-3012"
+    },
+    {
       "occ_title": "General and Operations Managers",
-      "tot_emp": 3376680,
-      "employment_change": 0.042,
-      "sort_order": 141821,
+      "tot_emp": 3584420,
+      "employment_change": 0.057999999999999996,
+      "sort_order": 207896,
       "programs": [
         "BSBIC",
         "MBADMMBA",
@@ -215,20 +204,10 @@
       "uid": "11-1021"
     },
     {
-      "occ_title": "Administrative Services Managers",
-      "tot_emp": 236570,
-      "employment_change": 0.055999999999999994,
-      "sort_order": 13248,
-      "programs": [
-        "BSBIC"
-      ],
-      "uid": "11-3012"
-    },
-    {
       "occ_title": "Chief Executives",
-      "tot_emp": 199240,
-      "employment_change": -0.08199999999999999,
-      "sort_order": -16338,
+      "tot_emp": 211850,
+      "employment_change": 0.055,
+      "sort_order": 11652,
       "programs": [
         "MBADMMBA",
         "CIENTMMGT",
@@ -239,9 +218,9 @@
     },
     {
       "occ_title": "Management Analysts",
-      "tot_emp": 808860,
-      "employment_change": 0.09699999999999999,
-      "sort_order": 78459,
+      "tot_emp": 893900,
+      "employment_change": 0.106,
+      "sort_order": 94753,
       "programs": [
         "MBADMMBA",
         "FDTANBS",
@@ -250,34 +229,10 @@
       "uid": "13-1111"
     },
     {
-      "occ_title": "Sales Managers",
-      "tot_emp": 536390,
-      "employment_change": 0.04,
-      "sort_order": 21456,
-      "programs": [
-        "2BACC",
-        "OLEADBA",
-        "OLEAD"
-      ],
-      "uid": "11-2022"
-    },
-    {
-      "occ_title": "Industrial Production Managers",
-      "tot_emp": 211710,
-      "employment_change": 0.016,
-      "sort_order": 3387,
-      "programs": [
-        "2BACC",
-        "IEMENG",
-        "PSCMBS"
-      ],
-      "uid": "11-3051"
-    },
-    {
       "occ_title": "Transportation, Storage, and Distribution Managers",
-      "tot_emp": 169910,
-      "employment_change": 0.08199999999999999,
-      "sort_order": 13933,
+      "tot_emp": 213000,
+      "employment_change": 0.09,
+      "sort_order": 19170,
       "programs": [
         "2BACC",
         "PSCMBS",
@@ -286,10 +241,34 @@
       "uid": "11-3071"
     },
     {
+      "occ_title": "Industrial Production Managers",
+      "tot_emp": 234380,
+      "employment_change": 0.027999999999999997,
+      "sort_order": 6563,
+      "programs": [
+        "2BACC",
+        "IEMENG",
+        "PSCMBS"
+      ],
+      "uid": "11-3051"
+    },
+    {
+      "occ_title": "Sales Managers",
+      "tot_emp": 603710,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 35619,
+      "programs": [
+        "2BACC",
+        "OLEADBA",
+        "OLEAD"
+      ],
+      "uid": "11-2022"
+    },
+    {
       "occ_title": "Social and Community Service Managers",
-      "tot_emp": 162880,
-      "employment_change": 0.091,
-      "sort_order": 14822,
+      "tot_emp": 195490,
+      "employment_change": 0.08199999999999999,
+      "sort_order": 16030,
       "programs": [
         "MPCED",
         "P ADM",
@@ -298,10 +277,21 @@
       "uid": "11-9151"
     },
     {
+      "occ_title": "Natural Sciences Managers",
+      "tot_emp": 100870,
+      "employment_change": 0.075,
+      "sort_order": 7565,
+      "programs": [
+        "CIENTMMGT",
+        "RESS"
+      ],
+      "uid": "11-9121"
+    },
+    {
       "occ_title": "Architectural and Engineering Managers",
-      "tot_emp": 197180,
-      "employment_change": 0.040999999999999995,
-      "sort_order": 8084,
+      "tot_emp": 210340,
+      "employment_change": 0.055,
+      "sort_order": 11569,
       "programs": [
         "CIENTMMGT",
         "EEMEN",
@@ -314,21 +304,30 @@
       "uid": "11-9041"
     },
     {
-      "occ_title": "Natural Sciences Managers",
-      "tot_emp": 82570,
-      "employment_change": 0.048,
-      "sort_order": 3963,
+      "occ_title": "Private Detectives and Investigators",
+      "tot_emp": 38700,
+      "employment_change": 0.05,
+      "sort_order": 1935,
       "programs": [
-        "CIENTMMGT",
-        "RESS"
+        "2CJCAAS"
       ],
-      "uid": "11-9121"
+      "uid": "33-9021"
+    },
+    {
+      "occ_title": "Bailiffs",
+      "tot_emp": 16910,
+      "employment_change": -0.013999999999999999,
+      "sort_order": -237,
+      "programs": [
+        "2CJCAAS"
+      ],
+      "uid": "33-3011"
     },
     {
       "occ_title": "First-Line Supervisors of Correctional Officers",
-      "tot_emp": 55900,
-      "employment_change": -0.027000000000000003,
-      "sort_order": -1509,
+      "tot_emp": 53390,
+      "employment_change": -0.016,
+      "sort_order": -854,
       "programs": [
         "2CJCAAS",
         "4CRMJ"
@@ -336,20 +335,10 @@
       "uid": "33-1011"
     },
     {
-      "occ_title": "Bailiffs",
-      "tot_emp": 16470,
-      "employment_change": -0.023,
-      "sort_order": -379,
-      "programs": [
-        "2CJCAAS"
-      ],
-      "uid": "33-3011"
-    },
-    {
       "occ_title": "Police and Sheriff's Patrol Officers",
-      "tot_emp": 655890,
-      "employment_change": 0.033,
-      "sort_order": 21644,
+      "tot_emp": 666990,
+      "employment_change": 0.039,
+      "sort_order": 26013,
       "programs": [
         "2CJCAAS",
         "4CRMJ"
@@ -357,20 +346,10 @@
       "uid": "33-3051"
     },
     {
-      "occ_title": "Private Detectives and Investigators",
-      "tot_emp": 32050,
-      "employment_change": 0.061,
-      "sort_order": 1955,
-      "programs": [
-        "2CJCAAS"
-      ],
-      "uid": "33-9021"
-    },
-    {
       "occ_title": "Detectives and Criminal Investigators",
-      "tot_emp": 107400,
-      "employment_change": 0.015,
-      "sort_order": 1611,
+      "tot_emp": 110790,
+      "employment_change": 0.023,
+      "sort_order": 2548,
       "programs": [
         "4CRMJ",
         "CJPAMPS",
@@ -384,9 +363,9 @@
     },
     {
       "occ_title": "Emergency Management Directors",
-      "tot_emp": 11290,
-      "employment_change": 0.033,
-      "sort_order": 373,
+      "tot_emp": 12570,
+      "employment_change": 0.04,
+      "sort_order": 503,
       "programs": [
         "CJPAMPS",
         "HLSCTRTR",
@@ -397,9 +376,9 @@
     },
     {
       "occ_title": "Probation Officers and Correctional Treatment Specialists",
-      "tot_emp": 89920,
-      "employment_change": 0.025,
-      "sort_order": 2248,
+      "tot_emp": 86820,
+      "employment_change": 0.036000000000000004,
+      "sort_order": 3126,
       "programs": [
         "CJPAMPS"
       ],
@@ -407,9 +386,9 @@
     },
     {
       "occ_title": "Elementary School Teachers, Except Special Education",
-      "tot_emp": 1394200,
-      "employment_change": 0.006999999999999999,
-      "sort_order": 9759,
+      "tot_emp": 1393310,
+      "employment_change": -0.006999999999999999,
+      "sort_order": -9753,
       "programs": [
         "LLEDM"
       ],
@@ -417,9 +396,9 @@
     },
     {
       "occ_title": "Middle School Teachers, Except Special and Career/Technical Education",
-      "tot_emp": 611120,
-      "employment_change": 0.008,
-      "sort_order": 4889,
+      "tot_emp": 620370,
+      "employment_change": -0.006999999999999999,
+      "sort_order": -4343,
       "programs": [
         "LLEDM"
       ],
@@ -427,9 +406,9 @@
     },
     {
       "occ_title": "Secondary School Teachers, Except Special and Career/Technical Education",
-      "tot_emp": 1042090,
-      "employment_change": 0.01,
-      "sort_order": 10421,
+      "tot_emp": 1072540,
+      "employment_change": -0.006,
+      "sort_order": -6435,
       "programs": [
         "LLEDM"
       ],
@@ -437,9 +416,9 @@
     },
     {
       "occ_title": "Instructional Coordinators",
-      "tot_emp": 198660,
-      "employment_change": 0.025,
-      "sort_order": 4967,
+      "tot_emp": 210850,
+      "employment_change": 0.018000000000000002,
+      "sort_order": 3795,
       "programs": [
         "LLEDM",
         "EDUCDED",
@@ -448,24 +427,10 @@
       "uid": "25-9031"
     },
     {
-      "occ_title": "Information Security Analysts",
-      "tot_emp": 163690,
-      "employment_change": 0.315,
-      "sort_order": 51562,
-      "programs": [
-        "CAOWCBS",
-        "CYMPSMPS",
-        "HLSCTAP",
-        "HLSIS",
-        "SRA"
-      ],
-      "uid": "15-1212"
-    },
-    {
       "occ_title": "Computer Occupations, All Other",
-      "tot_emp": 416320,
-      "employment_change": 0.09699999999999999,
-      "sort_order": 40383,
+      "tot_emp": 439380,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 47453,
       "programs": [
         "CAOWCBS",
         "HLSGI",
@@ -474,24 +439,50 @@
       "uid": "15-1299"
     },
     {
+      "occ_title": "Information Security Analysts",
+      "tot_emp": 179430,
+      "employment_change": 0.327,
+      "sort_order": 58674,
+      "programs": [
+        "CAOWCBS",
+        "CYMPSMPS",
+        "HLSCTAP",
+        "HLSIS",
+        "CSCMCS",
+        "SRA"
+      ],
+      "uid": "15-1212"
+    },
+    {
       "occ_title": "Computer and Information Systems Managers",
-      "tot_emp": 533220,
-      "employment_change": 0.154,
-      "sort_order": 82116,
+      "tot_emp": 645970,
+      "employment_change": 0.174,
+      "sort_order": 112399,
       "programs": [
         "CYMPSMPS",
         "EABTMEA",
         "INSCMS",
         "4 IST",
-        "SWENG",
-        "DAANBDSYS"
+        "CSCMCS",
+        "DAANBDSYS",
+        "SWENG"
       ],
       "uid": "11-3021"
     },
     {
+      "occ_title": "Actuaries",
+      "tot_emp": 28340,
+      "employment_change": 0.218,
+      "sort_order": 6178,
+      "programs": [
+        "DAANBUSAN"
+      ],
+      "uid": "15-2011"
+    },
+    {
       "occ_title": "Marketing Managers",
-      "tot_emp": 328570,
-      "employment_change": 0.066,
+      "tot_emp": 384980,
+      "employment_change": 0.08199999999999999,
       "sort_order": 21686,
       "programs": [
         "DAANMRKAN",
@@ -502,8 +493,8 @@
     },
     {
       "occ_title": "Market Research Analysts and Marketing Specialists",
-      "tot_emp": 798620,
-      "employment_change": 0.134,
+      "tot_emp": 861140,
+      "employment_change": 0.083,
       "sort_order": 107015,
       "programs": [
         "DAANMRKAN",
@@ -516,10 +507,25 @@
       "uid": "13-1161"
     },
     {
+      "occ_title": "Database Architects",
+      "tot_emp": 64770,
+      "employment_change": 0.10800000000000001,
+      "sort_order": 6995,
+      "programs": [
+        "DAANMDA",
+        "EABTMEA",
+        "ETCHIBS",
+        "4 IST",
+        "CSCMCS",
+        "DAANBDSYS"
+      ],
+      "uid": "15-1243"
+    },
+    {
       "occ_title": "Producers and Directors",
-      "tot_emp": 153770,
-      "employment_change": 0.067,
-      "sort_order": 10303,
+      "tot_emp": 145270,
+      "employment_change": 0.08,
+      "sort_order": 11622,
       "programs": [
         "DGJRMBA"
       ],
@@ -527,9 +533,9 @@
     },
     {
       "occ_title": "News Analysts, Reporters, and Journalists",
-      "tot_emp": 44530,
-      "employment_change": -0.033,
-      "sort_order": -1469,
+      "tot_emp": 41550,
+      "employment_change": -0.027000000000000003,
+      "sort_order": -1122,
       "programs": [
         "DGJRMBA",
         "ORPCMBA",
@@ -539,9 +545,9 @@
     },
     {
       "occ_title": "Editors",
-      "tot_emp": 101430,
-      "employment_change": -0.04,
-      "sort_order": -4057,
+      "tot_emp": 95480,
+      "employment_change": -0.02,
+      "sort_order": -1910,
       "programs": [
         "DGJRMBA",
         "ORPCMBA",
@@ -550,30 +556,10 @@
       "uid": "27-3041"
     },
     {
-      "occ_title": "Web and Digital Interface Designers",
-      "tot_emp": 97350,
-      "employment_change": 0.152,
-      "sort_order": 14797,
-      "programs": [
-        "DIGMDBDES"
-      ],
-      "uid": "15-1255"
-    },
-    {
-      "occ_title": "Art Directors",
-      "tot_emp": 54470,
-      "employment_change": 0.061,
-      "sort_order": 3323,
-      "programs": [
-        "DIGMDBDES"
-      ],
-      "uid": "27-1011"
-    },
-    {
       "occ_title": "Special Effects Artists and Animators",
-      "tot_emp": 35990,
-      "employment_change": 0.08199999999999999,
-      "sort_order": 2951,
+      "tot_emp": 21280,
+      "employment_change": 0.043,
+      "sort_order": 915,
       "programs": [
         "DIGMDBDES"
       ],
@@ -581,19 +567,39 @@
     },
     {
       "occ_title": "Graphic Designers",
-      "tot_emp": 211890,
-      "employment_change": 0.033,
-      "sort_order": 6992,
+      "tot_emp": 214260,
+      "employment_change": 0.025,
+      "sort_order": 5357,
       "programs": [
         "DIGMDBDES"
       ],
       "uid": "27-1024"
     },
     {
+      "occ_title": "Web and Digital Interface Designers",
+      "tot_emp": 111400,
+      "employment_change": 0.079,
+      "sort_order": 8801,
+      "programs": [
+        "DIGMDBDES"
+      ],
+      "uid": "15-1255"
+    },
+    {
+      "occ_title": "Art Directors",
+      "tot_emp": 50370,
+      "employment_change": 0.052000000000000005,
+      "sort_order": 2619,
+      "programs": [
+        "DIGMDBDES"
+      ],
+      "uid": "27-1011"
+    },
+    {
       "occ_title": "Economists",
-      "tot_emp": 16370,
-      "employment_change": 0.063,
-      "sort_order": 1031,
+      "tot_emp": 15880,
+      "employment_change": 0.051,
+      "sort_order": 810,
       "programs": [
         "ECLBA",
         "ECLBS"
@@ -602,9 +608,9 @@
     },
     {
       "occ_title": "Conservation Scientists",
-      "tot_emp": 22880,
-      "employment_change": 0.040999999999999995,
-      "sort_order": 938,
+      "tot_emp": 25590,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 1433,
       "programs": [
         "EMGTMPS",
         "ESPBA",
@@ -615,9 +621,9 @@
     },
     {
       "occ_title": "Environmental Scientists and Specialists, Including Health",
-      "tot_emp": 77270,
-      "employment_change": 0.061,
-      "sort_order": 4713,
+      "tot_emp": 84930,
+      "employment_change": 0.073,
+      "sort_order": 6200,
       "programs": [
         "EMGTMPS",
         "ESPBA",
@@ -627,21 +633,40 @@
       "uid": "19-2041"
     },
     {
-      "occ_title": "Education Administrators, Kindergarten through Secondary",
-      "tot_emp": 285910,
-      "employment_change": 0.011000000000000001,
-      "sort_order": 3145,
+      "occ_title": "Educational, Guidance, and Career Counselors and Advisors",
+      "tot_emp": 342350,
+      "employment_change": 0.045,
+      "sort_order": 15406,
       "programs": [
-        "EDUCDED",
-        "EDLDR"
+        "EDUCDED"
       ],
-      "uid": "11-9032"
+      "uid": "21-1012"
+    },
+    {
+      "occ_title": "Education Teachers, Postsecondary",
+      "tot_emp": 59090,
+      "employment_change": 0.033,
+      "sort_order": 1950,
+      "programs": [
+        "EDUCDED"
+      ],
+      "uid": "25-1081"
+    },
+    {
+      "occ_title": "Education Administrators, All Other",
+      "tot_emp": 53330,
+      "employment_change": 0.025,
+      "sort_order": 1333,
+      "programs": [
+        "EDUCDED"
+      ],
+      "uid": "11-9039"
     },
     {
       "occ_title": "Education Administrators, Postsecondary",
-      "tot_emp": 167060,
-      "employment_change": 0.035,
-      "sort_order": 5847,
+      "tot_emp": 176420,
+      "employment_change": 0.028999999999999998,
+      "sort_order": 5116,
       "programs": [
         "EDUCDED",
         "EDLDR",
@@ -650,40 +675,21 @@
       "uid": "11-9033"
     },
     {
-      "occ_title": "Education Administrators, All Other",
-      "tot_emp": 50180,
-      "employment_change": 0.027999999999999997,
-      "sort_order": 1405,
+      "occ_title": "Education Administrators, Kindergarten through Secondary",
+      "tot_emp": 319630,
+      "employment_change": -0.005,
+      "sort_order": -1598,
       "programs": [
-        "EDUCDED"
+        "EDUCDED",
+        "EDLDR"
       ],
-      "uid": "11-9039"
-    },
-    {
-      "occ_title": "Educational, Guidance, and Career Counselors and Advisors",
-      "tot_emp": 308000,
-      "employment_change": 0.054000000000000006,
-      "sort_order": 16632,
-      "programs": [
-        "EDUCDED"
-      ],
-      "uid": "21-1012"
-    },
-    {
-      "occ_title": "Education Teachers, Postsecondary",
-      "tot_emp": 58280,
-      "employment_change": 0.037000000000000005,
-      "sort_order": 2156,
-      "programs": [
-        "EDUCDED"
-      ],
-      "uid": "25-1081"
+      "uid": "11-9032"
     },
     {
       "occ_title": "Education and Childcare Administrators, Preschool and Daycare",
-      "tot_emp": 60010,
-      "employment_change": -0.03,
-      "sort_order": -1800,
+      "tot_emp": 71620,
+      "employment_change": -0.021,
+      "sort_order": -1504,
       "programs": [
         "EDLDR"
       ],
@@ -691,9 +697,9 @@
     },
     {
       "occ_title": "Electrical Engineers",
-      "tot_emp": 182210,
-      "employment_change": 0.042,
-      "sort_order": 7653,
+      "tot_emp": 188790,
+      "employment_change": 0.091,
+      "sort_order": 17180,
       "programs": [
         "EEMEN"
       ],
@@ -701,9 +707,9 @@
     },
     {
       "occ_title": "Compliance Officers",
-      "tot_emp": 359640,
-      "employment_change": 0.046,
-      "sort_order": 16543,
+      "tot_emp": 397770,
+      "employment_change": 0.054000000000000006,
+      "sort_order": 21480,
       "programs": [
         "ESPBA",
         "ESPBSBS"
@@ -712,50 +718,38 @@
     },
     {
       "occ_title": "Computer Systems Analysts",
-      "tot_emp": 505210,
-      "employment_change": 0.096,
+      "tot_emp": 497800,
+      "employment_change": 0.107,
       "sort_order": 48500,
       "programs": [
         "EABTMEA",
         "ETCHIBS",
         "INSCMS",
+        "CSCMCS",
+        "DAANBDSYS",
         "SRA",
-        "SYSEN",
-        "DAANBDSYS"
+        "SYSEN"
       ],
       "uid": "15-1211"
     },
     {
-      "occ_title": "Database Architects",
-      "tot_emp": 62470,
-      "employment_change": 0.1,
-      "sort_order": 6247,
-      "programs": [
-        "EABTMEA",
-        "ETCHIBS",
-        "4 IST",
-        "DAANBDSYS",
-        "DAANMDA"
-      ],
-      "uid": "15-1243"
-    },
-    {
       "occ_title": "Database Administrators",
-      "tot_emp": 80520,
-      "employment_change": 0.07,
+      "tot_emp": 73180,
+      "employment_change": 0.08199999999999999,
       "sort_order": 5636,
       "programs": [
         "ETCHIBS",
         "4 IST",
+        "CSCMCS",
         "DAANBDSYS"
       ],
       "uid": "15-1242"
     },
     {
       "occ_title": "Financial Managers",
-      "tot_emp": 740780,
-      "employment_change": 0.16,
-      "sort_order": 118525,
+      "tot_emp": 818620,
+      "employment_change": 0.165,
+      "sort_order": 135072,
       "programs": [
         "FINBS",
         "FINAN"
@@ -764,9 +758,9 @@
     },
     {
       "occ_title": "Financial and Investment Analysts",
-      "tot_emp": 291370,
-      "employment_change": 0.076,
-      "sort_order": 22144,
+      "tot_emp": 340580,
+      "employment_change": 0.095,
+      "sort_order": 32355,
       "programs": [
         "FINBS",
         "FINAN",
@@ -776,9 +770,9 @@
     },
     {
       "occ_title": "Statistical assistants",
-      "tot_emp": 6710,
-      "employment_change": -0.017,
-      "sort_order": -114,
+      "tot_emp": 5900,
+      "employment_change": 0.002,
+      "sort_order": 12,
       "programs": [
         "FDTANBS"
       ],
@@ -786,9 +780,9 @@
     },
     {
       "occ_title": "Architects, Except Landscape and Naval",
-      "tot_emp": 107490,
-      "employment_change": 0.048,
-      "sort_order": 5160,
+      "tot_emp": 111140,
+      "employment_change": 0.078,
+      "sort_order": 8669,
       "programs": [
         "MPSGEO"
       ],
@@ -796,19 +790,30 @@
     },
     {
       "occ_title": "Urban and Regional Planners",
-      "tot_emp": 39880,
-      "employment_change": 0.037000000000000005,
-      "sort_order": 1476,
+      "tot_emp": 43040,
+      "employment_change": 0.043,
+      "sort_order": 1851,
       "programs": [
         "MPSGEO"
       ],
       "uid": "19-3051"
     },
     {
+      "occ_title": "Geographers",
+      "tot_emp": 1380,
+      "employment_change": 0.025,
+      "sort_order": 35,
+      "programs": [
+        "GIS",
+        "SDSMS"
+      ],
+      "uid": "19-3092"
+    },
+    {
       "occ_title": "Cartographers and Photogrammetrists",
-      "tot_emp": 13270,
-      "employment_change": 0.05,
-      "sort_order": 664,
+      "tot_emp": 12790,
+      "employment_change": 0.063,
+      "sort_order": 806,
       "programs": [
         "GIS",
         "SDSMS"
@@ -817,9 +822,9 @@
     },
     {
       "occ_title": "Surveying and Mapping Technicians",
-      "tot_emp": 56580,
-      "employment_change": 0.033,
-      "sort_order": 1867,
+      "tot_emp": 56720,
+      "employment_change": 0.055999999999999994,
+      "sort_order": 3176,
       "programs": [
         "GIS",
         "SDSMS"
@@ -828,9 +833,9 @@
     },
     {
       "occ_title": "Physical Scientists, All Other",
-      "tot_emp": 19820,
-      "employment_change": 0.021,
-      "sort_order": 416,
+      "tot_emp": 22580,
+      "employment_change": 0.023,
+      "sort_order": 519,
       "programs": [
         "GIS",
         "SDSMS"
@@ -838,21 +843,10 @@
       "uid": "19-2099"
     },
     {
-      "occ_title": "Geographers",
-      "tot_emp": 1360,
-      "employment_change": 0.011000000000000001,
-      "sort_order": 15,
-      "programs": [
-        "GIS",
-        "SDSMS"
-      ],
-      "uid": "19-3092"
-    },
-    {
       "occ_title": "Medical and Health Services Managers",
-      "tot_emp": 476750,
-      "employment_change": 0.284,
-      "sort_order": 135397,
+      "tot_emp": 565840,
+      "employment_change": 0.285,
+      "sort_order": 161264,
       "programs": [
         "HPABS",
         "H P A",
@@ -866,9 +860,9 @@
     },
     {
       "occ_title": "Historians",
-      "tot_emp": 3120,
-      "employment_change": 0.031,
-      "sort_order": 97,
+      "tot_emp": 3140,
+      "employment_change": 0.057,
+      "sort_order": 179,
       "programs": [
         "HISTBA"
       ],
@@ -876,9 +870,9 @@
     },
     {
       "occ_title": "Tour and Travel Guides",
-      "tot_emp": 41180,
-      "employment_change": 0.081,
-      "sort_order": 3336,
+      "tot_emp": 49010,
+      "employment_change": 0.095,
+      "sort_order": 4656,
       "programs": [
         "HISTBA"
       ],
@@ -886,19 +880,20 @@
     },
     {
       "occ_title": "Computer Network Architects",
-      "tot_emp": 173920,
-      "employment_change": 0.035,
-      "sort_order": 6087,
+      "tot_emp": 177010,
+      "employment_change": 0.134,
+      "sort_order": 23719,
       "programs": [
-        "HLSCTAP"
+        "HLSCTAP",
+        "CSCMCS"
       ],
       "uid": "15-1241"
     },
     {
       "occ_title": "Forensic Science Technicians",
-      "tot_emp": 17590,
-      "employment_change": 0.126,
-      "sort_order": 2216,
+      "tot_emp": 19450,
+      "employment_change": 0.136,
+      "sort_order": 2645,
       "programs": [
         "HLSIS"
       ],
@@ -906,9 +901,9 @@
     },
     {
       "occ_title": "Social and Human Service Assistants",
-      "tot_emp": 399560,
-      "employment_change": 0.086,
-      "sort_order": 34362,
+      "tot_emp": 424220,
+      "employment_change": 0.079,
+      "sort_order": 33513,
       "programs": [
         "2EHFS",
         "HDFS"
@@ -916,10 +911,20 @@
       "uid": "21-1093"
     },
     {
+      "occ_title": "Teaching Assistants, Except Postsecondary",
+      "tot_emp": 1375300,
+      "employment_change": -0.006,
+      "sort_order": -8252,
+      "programs": [
+        "2EHFS"
+      ],
+      "uid": "25-9045"
+    },
+    {
       "occ_title": "Preschool Teachers, Except Special Education",
-      "tot_emp": 415360,
-      "employment_change": 0.034,
-      "sort_order": 14122,
+      "tot_emp": 445080,
+      "employment_change": 0.044000000000000004,
+      "sort_order": 19584,
       "programs": [
         "2EHFS",
         "HDFS"
@@ -927,20 +932,10 @@
       "uid": "25-2011"
     },
     {
-      "occ_title": "Teaching Assistants, Except Postsecondary",
-      "tot_emp": 1254240,
-      "employment_change": 0.001,
-      "sort_order": 1254,
-      "programs": [
-        "2EHFS"
-      ],
-      "uid": "25-9045"
-    },
-    {
       "occ_title": "Child, Family, and School Social Workers",
-      "tot_emp": 344770,
-      "employment_change": 0.053,
-      "sort_order": 18273,
+      "tot_emp": 382960,
+      "employment_change": 0.049,
+      "sort_order": 18765,
       "programs": [
         "HDFS",
         "MSWMSW"
@@ -949,8 +944,8 @@
     },
     {
       "occ_title": "Compensation and Benefits Managers",
-      "tot_emp": 16850,
-      "employment_change": 0.022000000000000002,
+      "tot_emp": 20070,
+      "employment_change": 0.021,
       "sort_order": 371,
       "programs": [
         "HRERMHRER",
@@ -960,9 +955,20 @@
       "uid": "11-3111"
     },
     {
+      "occ_title": "Training and Development Managers",
+      "tot_emp": 44960,
+      "employment_change": 0.073,
+      "sort_order": 2571,
+      "programs": [
+        "HRERMHRER",
+        "MPSODC"
+      ],
+      "uid": "11-3131"
+    },
+    {
       "occ_title": "Human Resources Managers",
-      "tot_emp": 181360,
-      "employment_change": 0.052000000000000005,
+      "tot_emp": 215520,
+      "employment_change": 0.065,
       "sort_order": 9431,
       "programs": [
         "HRERMHRER",
@@ -972,22 +978,10 @@
       "uid": "11-3121"
     },
     {
-      "occ_title": "Training and Development Managers",
-      "tot_emp": 39550,
-      "employment_change": 0.065,
-      "sort_order": 2571,
-      "programs": [
-        "HRERMHRER",
-        "LLAEDMED",
-        "MPSODC"
-      ],
-      "uid": "11-3131"
-    },
-    {
       "occ_title": "Computer Network Support Specialists",
-      "tot_emp": 168920,
-      "employment_change": 0.07,
-      "sort_order": 11824,
+      "tot_emp": 146450,
+      "employment_change": 0.073,
+      "sort_order": 10691,
       "programs": [
         "2 IST"
       ],
@@ -995,9 +989,9 @@
     },
     {
       "occ_title": "Network and Computer Systems Administrators",
-      "tot_emp": 325930,
-      "employment_change": 0.025,
-      "sort_order": 8148,
+      "tot_emp": 318570,
+      "employment_change": -0.026000000000000002,
+      "sort_order": -8283,
       "programs": [
         "2 IST",
         "4 IST",
@@ -1007,9 +1001,9 @@
     },
     {
       "occ_title": "Web Developers",
-      "tot_emp": 88620,
-      "employment_change": 0.17,
-      "sort_order": 15065,
+      "tot_emp": 78860,
+      "employment_change": 0.09,
+      "sort_order": 7097,
       "programs": [
         "4 IST"
       ],
@@ -1017,9 +1011,9 @@
     },
     {
       "occ_title": "Human Resources Specialists",
-      "tot_emp": 835360,
-      "employment_change": 0.059000000000000004,
-      "sort_order": 49286,
+      "tot_emp": 917460,
+      "employment_change": 0.079,
+      "sort_order": 72479,
       "programs": [
         "2LHRAS",
         "LHRBABA",
@@ -1029,9 +1023,9 @@
     },
     {
       "occ_title": "Labor Relations Specialists",
-      "tot_emp": 62200,
-      "employment_change": -0.008,
-      "sort_order": -498,
+      "tot_emp": 64590,
+      "employment_change": -0.003,
+      "sort_order": -194,
       "programs": [
         "2LHRAS",
         "LHRBABA",
@@ -1041,9 +1035,9 @@
     },
     {
       "occ_title": "Human Resources Assistants, Except Payroll and Timekeeping",
-      "tot_emp": 103680,
-      "employment_change": -0.049,
-      "sort_order": -5080,
+      "tot_emp": 92580,
+      "employment_change": -0.048,
+      "sort_order": -4444,
       "programs": [
         "2LHRAS"
       ],
@@ -1051,9 +1045,9 @@
     },
     {
       "occ_title": "Arbitrators, Mediators, and Conciliators",
-      "tot_emp": 7780,
-      "employment_change": 0.05,
-      "sort_order": 389,
+      "tot_emp": 7860,
+      "employment_change": 0.061,
+      "sort_order": 479,
       "programs": [
         "LHRBABA",
         "LHRBSBS"
@@ -1062,9 +1056,9 @@
     },
     {
       "occ_title": "Paralegals and Legal Assistants",
-      "tot_emp": 345240,
-      "employment_change": 0.042,
-      "sort_order": 14500,
+      "tot_emp": 367220,
+      "employment_change": 0.012,
+      "sort_order": 4407,
       "programs": [
         "LAWSC"
       ],
@@ -1072,39 +1066,40 @@
     },
     {
       "occ_title": "Legal Support Workers, All Other",
-      "tot_emp": 46480,
-      "employment_change": 0.002,
-      "sort_order": 93,
+      "tot_emp": 47380,
+      "employment_change": 0.01,
+      "sort_order": 474,
       "programs": [
         "LAWSC"
       ],
       "uid": "23-2099"
     },
     {
-      "occ_title": "Training and Development Specialists",
-      "tot_emp": 367180,
-      "employment_change": 0.063,
-      "sort_order": 23132,
-      "programs": [
-        "LDT"
-      ],
-      "uid": "13-1151"
-    },
-    {
       "occ_title": "Librarians and Media Collections Specialists",
-      "tot_emp": 131680,
-      "employment_change": 0.03,
-      "sort_order": 3950,
+      "tot_emp": 131830,
+      "employment_change": 0.028999999999999998,
+      "sort_order": 3823,
       "programs": [
         "LDT"
       ],
       "uid": "25-4022"
     },
     {
+      "occ_title": "Training and Development Specialists",
+      "tot_emp": 436610,
+      "employment_change": 0.115,
+      "sort_order": 50210,
+      "programs": [
+        "LDT",
+        "LLAEDMED"
+      ],
+      "uid": "13-1151"
+    },
+    {
       "occ_title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
-      "tot_emp": 36490,
-      "employment_change": -0.126,
-      "sort_order": -4598,
+      "tot_emp": 36260,
+      "employment_change": -0.127,
+      "sort_order": -4605,
       "programs": [
         "LLAEDMED"
       ],
@@ -1112,9 +1107,9 @@
     },
     {
       "occ_title": "Advertising and Promotions Managers",
-      "tot_emp": 22010,
-      "employment_change": 0.019,
-      "sort_order": 418,
+      "tot_emp": 21100,
+      "employment_change": -0.026000000000000002,
+      "sort_order": -549,
       "programs": [
         "MRKTBS",
         "STRCMBA",
@@ -1124,9 +1119,9 @@
     },
     {
       "occ_title": "Mechanical Engineers",
-      "tot_emp": 277560,
-      "employment_change": 0.1,
-      "sort_order": 27756,
+      "tot_emp": 286760,
+      "employment_change": 0.11,
+      "sort_order": 31544,
       "programs": [
         "MSME"
       ],
@@ -1134,30 +1129,19 @@
     },
     {
       "occ_title": "Nuclear Engineers",
-      "tot_emp": 12250,
-      "employment_change": 0.011000000000000001,
-      "sort_order": 135,
+      "tot_emp": 14740,
+      "employment_change": -0.008,
+      "sort_order": -118,
       "programs": [
         "NUC E"
       ],
       "uid": "17-2161"
     },
     {
-      "occ_title": "Nursing Instructors and Teachers, Postsecondary",
-      "tot_emp": 69190,
-      "employment_change": 0.182,
-      "sort_order": 12593,
-      "programs": [
-        "M S N",
-        "NDNPLDR"
-      ],
-      "uid": "25-1072"
-    },
-    {
       "occ_title": "Registered Nurses",
-      "tot_emp": 3072700,
-      "employment_change": 0.055999999999999994,
-      "sort_order": 172071,
+      "tot_emp": 3282010,
+      "employment_change": 0.06,
+      "sort_order": 196921,
       "programs": [
         "M S N",
         "NURSBSNRN"
@@ -1165,10 +1149,21 @@
       "uid": "29-1141"
     },
     {
+      "occ_title": "Nursing Instructors and Teachers, Postsecondary",
+      "tot_emp": 74250,
+      "employment_change": 0.179,
+      "sort_order": 13291,
+      "programs": [
+        "M S N",
+        "NDNPLDR"
+      ],
+      "uid": "25-1072"
+    },
+    {
       "occ_title": "Nurse Practitioners",
-      "tot_emp": 258230,
-      "employment_change": 0.445,
-      "sort_order": 114912,
+      "tot_emp": 307390,
+      "employment_change": 0.46299999999999997,
+      "sort_order": 142322,
       "programs": [
         "NDNPLDR",
         "NDNPORT"
@@ -1177,30 +1172,30 @@
     },
     {
       "occ_title": "Dietitians and Nutritionists",
-      "tot_emp": 69880,
-      "employment_change": 0.066,
-      "sort_order": 4612,
+      "tot_emp": 76570,
+      "employment_change": 0.07400000000000001,
+      "sort_order": 5666,
       "programs": [
         "NUTRMPS"
       ],
       "uid": "29-1031"
     },
     {
-      "occ_title": "Fundraisers",
-      "tot_emp": 94630,
-      "employment_change": 0.052000000000000005,
-      "sort_order": 4921,
+      "occ_title": "Technical Writers",
+      "tot_emp": 55530,
+      "employment_change": 0.04,
+      "sort_order": 2221,
       "programs": [
         "ORPCMBA",
         "ORPCMBS"
       ],
-      "uid": "13-1131"
+      "uid": "27-3042"
     },
     {
       "occ_title": "Public Relations Specialists",
-      "tot_emp": 264750,
-      "employment_change": 0.061,
-      "sort_order": 16150,
+      "tot_emp": 280590,
+      "employment_change": 0.062,
+      "sort_order": 17397,
       "programs": [
         "ORPCMBA",
         "ORPCMBS",
@@ -1209,21 +1204,10 @@
       "uid": "27-3031"
     },
     {
-      "occ_title": "Technical Writers",
-      "tot_emp": 48620,
-      "employment_change": 0.069,
-      "sort_order": 3355,
-      "programs": [
-        "ORPCMBA",
-        "ORPCMBS"
-      ],
-      "uid": "27-3042"
-    },
-    {
       "occ_title": "Writers and Authors",
-      "tot_emp": 54010,
-      "employment_change": 0.037000000000000005,
-      "sort_order": 1998,
+      "tot_emp": 47800,
+      "employment_change": 0.051,
+      "sort_order": 2438,
       "programs": [
         "ORPCMBA",
         "ORPCMBS"
@@ -1231,10 +1215,21 @@
       "uid": "27-3043"
     },
     {
+      "occ_title": "Fundraisers",
+      "tot_emp": 105930,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 6250,
+      "programs": [
+        "ORPCMBA",
+        "ORPCMBS"
+      ],
+      "uid": "13-1131"
+    },
+    {
       "occ_title": "Fundraising Managers",
-      "tot_emp": 26240,
-      "employment_change": 0.051,
-      "sort_order": 1338,
+      "tot_emp": 36920,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 2178,
       "programs": [
         "OLEADBA",
         "OLEAD",
@@ -1243,21 +1238,10 @@
       "uid": "11-2033"
     },
     {
-      "occ_title": "Political Scientists",
-      "tot_emp": 5660,
-      "employment_change": 0.066,
-      "sort_order": 374,
-      "programs": [
-        "PL SC",
-        "PLSBS"
-      ],
-      "uid": "19-3094"
-    },
-    {
       "occ_title": "Social Science Research Assistants",
-      "tot_emp": 28720,
-      "employment_change": 0.048,
-      "sort_order": 1379,
+      "tot_emp": 32940,
+      "employment_change": 0.063,
+      "sort_order": 2075,
       "programs": [
         "PL SC",
         "PLSBS",
@@ -1267,21 +1251,21 @@
       "uid": "19-4061"
     },
     {
-      "occ_title": "Logisticians",
-      "tot_emp": 202970,
-      "employment_change": 0.183,
-      "sort_order": 37144,
+      "occ_title": "Political Scientists",
+      "tot_emp": 5950,
+      "employment_change": 0.026000000000000002,
+      "sort_order": 155,
       "programs": [
-        "PSCMBS",
-        "SCMMSCM"
+        "PL SC",
+        "PLSBS"
       ],
-      "uid": "13-1081"
+      "uid": "19-3094"
     },
     {
       "occ_title": "Project Management Specialists",
-      "tot_emp": 843910,
-      "employment_change": 0.062,
-      "sort_order": 52322,
+      "tot_emp": 1006160,
+      "employment_change": 0.07200000000000001,
+      "sort_order": 72444,
       "programs": [
         "PSCMBS",
         "PMPO"
@@ -1289,10 +1273,21 @@
       "uid": "13-1082"
     },
     {
+      "occ_title": "Logisticians",
+      "tot_emp": 235640,
+      "employment_change": 0.193,
+      "sort_order": 45479,
+      "programs": [
+        "PSCMBS",
+        "SCMMSCM"
+      ],
+      "uid": "13-1081"
+    },
+    {
       "occ_title": "Survey Researchers",
-      "tot_emp": 7880,
-      "employment_change": -0.038,
-      "sort_order": -299,
+      "tot_emp": 7720,
+      "employment_change": -0.002,
+      "sort_order": -15,
       "programs": [
         "PSYBA",
         "PSYBS"
@@ -1301,9 +1296,9 @@
     },
     {
       "occ_title": "Public Relations Managers",
-      "tot_emp": 64280,
-      "employment_change": 0.059000000000000004,
-      "sort_order": 3793,
+      "tot_emp": 76060,
+      "employment_change": 0.069,
+      "sort_order": 5248,
       "programs": [
         "P ADM",
         "STRCMBA",
@@ -1313,18 +1308,19 @@
     },
     {
       "occ_title": "Recreation Workers",
-      "tot_emp": 270380,
-      "employment_change": 0.046,
-      "sort_order": 12437,
+      "tot_emp": 309640,
+      "employment_change": 0.055,
+      "sort_order": 17030,
       "programs": [
+        "RPTMCRTM",
         "RPTMBS"
       ],
       "uid": "39-9032"
     },
     {
       "occ_title": "Counselors, All Other",
-      "tot_emp": 37270,
-      "employment_change": 0.172,
+      "tot_emp": 33340,
+      "employment_change": 0.14400000000000002,
       "sort_order": 6410,
       "programs": [
         "MSWMSW"
@@ -1333,8 +1329,8 @@
     },
     {
       "occ_title": "Healthcare Social Workers",
-      "tot_emp": 182420,
-      "employment_change": 0.096,
+      "tot_emp": 185940,
+      "employment_change": 0.09699999999999999,
       "sort_order": 17512,
       "programs": [
         "MSWMSW"
@@ -1343,8 +1339,8 @@
     },
     {
       "occ_title": "Mental Health and Substance Abuse Social Workers",
-      "tot_emp": 107940,
-      "employment_change": 0.106,
+      "tot_emp": 125910,
+      "employment_change": 0.11599999999999999,
       "sort_order": 11442,
       "programs": [
         "MSWMSW"
@@ -1353,8 +1349,8 @@
     },
     {
       "occ_title": "Social Workers, All Other",
-      "tot_emp": 54620,
-      "employment_change": 0.066,
+      "tot_emp": 64940,
+      "employment_change": 0.055,
       "sort_order": 3605,
       "programs": [
         "MSWMSW"
@@ -1363,9 +1359,9 @@
     },
     {
       "occ_title": "Software Quality Assurance Analysts and Testers",
-      "tot_emp": 196420,
-      "employment_change": 0.203,
-      "sort_order": 39873,
+      "tot_emp": 199800,
+      "employment_change": 0.11800000000000001,
+      "sort_order": 23576,
       "programs": [
         "SEBCBS",
         "SWENG",
@@ -1374,30 +1370,30 @@
       "uid": "15-1253"
     },
     {
-      "occ_title": "Special Education Teachers, Preschool",
-      "tot_emp": 22970,
-      "employment_change": 0.019,
-      "sort_order": 436,
-      "programs": [
-        "SPLEDMED"
-      ],
-      "uid": "25-2051"
-    },
-    {
       "occ_title": "Special Education Teachers, Kindergarten and Elementary School",
-      "tot_emp": 195010,
-      "employment_change": 0,
-      "sort_order": 0,
+      "tot_emp": 231570,
+      "employment_change": -0.006999999999999999,
+      "sort_order": -1621,
       "programs": [
         "SPLEDMED"
       ],
       "uid": "25-2052"
     },
     {
+      "occ_title": "Special Education Teachers, Preschool",
+      "tot_emp": 28200,
+      "employment_change": 0.016,
+      "sort_order": 451,
+      "programs": [
+        "SPLEDMED"
+      ],
+      "uid": "25-2051"
+    },
+    {
       "occ_title": "Special Education Teachers, Middle School",
-      "tot_emp": 82970,
-      "employment_change": -0.002,
-      "sort_order": -166,
+      "tot_emp": 95330,
+      "employment_change": -0.009000000000000001,
+      "sort_order": -858,
       "programs": [
         "SPLEDMED"
       ],
@@ -1405,9 +1401,9 @@
     },
     {
       "occ_title": "Special Education Teachers, Secondary School",
-      "tot_emp": 152490,
-      "employment_change": 0.005,
-      "sort_order": 762,
+      "tot_emp": 162780,
+      "employment_change": -0.006,
+      "sort_order": -977,
       "programs": [
         "SPLEDMED"
       ],
@@ -1415,8 +1411,8 @@
     },
     {
       "occ_title": "Tax Examiners and Collectors, and Revenue Agents",
-      "tot_emp": 50610,
-      "employment_change": 0.006,
+      "tot_emp": 53530,
+      "employment_change": 0.019,
       "sort_order": 304,
       "programs": [
         "TAXMTAX"
@@ -1424,40 +1420,40 @@
       "uid": "13-2081"
     },
     {
-      "occ_title": "Soil and Plant Scientists",
-      "tot_emp": 16010,
-      "employment_change": 0.047,
-      "sort_order": 752,
-      "programs": [
-        "MPSTM"
-      ],
-      "uid": "19-1013"
-    },
-    {
-      "occ_title": "Agricultural Technicians",
-      "tot_emp": 13140,
-      "employment_change": 0.045,
-      "sort_order": 591,
-      "programs": [
-        "MPSTM"
-      ],
-      "uid": "19-4012"
-    },
-    {
       "occ_title": "Agricultural Inspectors",
-      "tot_emp": 14000,
-      "employment_change": 0.02,
-      "sort_order": 280,
+      "tot_emp": 12090,
+      "employment_change": 0.039,
+      "sort_order": 472,
       "programs": [
         "MPSTM"
       ],
       "uid": "45-2011"
     },
     {
+      "occ_title": "Agricultural Technicians",
+      "tot_emp": 14340,
+      "employment_change": 0.059000000000000004,
+      "sort_order": 846,
+      "programs": [
+        "MPSTM"
+      ],
+      "uid": "19-4012"
+    },
+    {
+      "occ_title": "Soil and Plant Scientists",
+      "tot_emp": 16600,
+      "employment_change": 0.07200000000000001,
+      "sort_order": 1195,
+      "programs": [
+        "MPSTM"
+      ],
+      "uid": "19-1013"
+    },
+    {
       "occ_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
-      "tot_emp": 122910,
-      "employment_change": 0.026000000000000002,
-      "sort_order": 3196,
+      "tot_emp": 124130,
+      "employment_change": 0.035,
+      "sort_order": 4345,
       "programs": [
         "TURF3",
         "2 TSM"
@@ -1466,9 +1462,9 @@
     },
     {
       "occ_title": "Landscaping and Groundskeeping Workers",
-      "tot_emp": 914230,
-      "employment_change": 0.035,
-      "sort_order": 31998,
+      "tot_emp": 943430,
+      "employment_change": 0.051,
+      "sort_order": 48115,
       "programs": [
         "2 TSM"
       ],
@@ -1476,90 +1472,311 @@
     },
     {
       "occ_title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
-      "tot_emp": 22740,
-      "employment_change": 0.02,
-      "sort_order": 455,
+      "tot_emp": 25200,
+      "employment_change": 0.051,
+      "sort_order": 1285,
       "programs": [
         "2 TSM"
       ],
       "uid": "37-3012"
-    },
-    {
-      "occ_title": "Actuaries",
-      "tot_emp": 25010,
-      "employment_change": 0.23199999999999998,
-      "sort_order": 5802,
-      "programs": [
-        "DAANBUSAN"
-      ],
-      "uid": "15-2011"
     }
   ],
   "job_titles": [
     {
-      "job_title": "Business Records Manager",
+      "job_title": "Auditor",
       "programs": [
-        "2 IST"
+        "ACCTBS"
       ]
     },
     {
-      "job_title": "Computer Network Specialist",
+      "job_title": "Budget Analyst",
       "programs": [
-        "2 IST"
+        "ACCTBS",
+        "ACCTMS",
+        "FINBS",
+        "FDTANBS"
       ]
     },
     {
-      "job_title": "Information Technology Specialist (IT Specialist)",
+      "job_title": "Budget Coordinator",
       "programs": [
-        "2 IST"
+        "ACCTBS"
       ]
     },
     {
-      "job_title": "Web Administrator",
+      "job_title": "Credit Analyst",
       "programs": [
-        "2 IST"
+        "ACCTBS",
+        "FINBS"
       ]
     },
     {
-      "job_title": "Web Technologies Administrator",
+      "job_title": "Accountant",
       "programs": [
-        "2 IST"
+        "ACCTBS",
+        "ACCTMS",
+        "TAXMTAX"
       ]
     },
     {
-      "job_title": "Grounds Crew Supervisor",
+      "job_title": "Internal Auditor",
       "programs": [
-        "2 TSM"
+        "ACCTMS",
+        "TAXMTAX"
       ]
     },
     {
-      "job_title": "Grounds Foreman",
+      "job_title": "Accounting Officer",
       "programs": [
-        "2 TSM"
+        "ACCTMS"
       ]
     },
     {
-      "job_title": "Groundskeeper",
+      "job_title": "Budget Officer",
       "programs": [
-        "2 TSM"
+        "ACCTMS",
+        "P ADM"
       ]
     },
     {
-      "job_title": "Integrated Pest Management Technician (IPM Technician)",
+      "job_title": "Design Engineer",
       "programs": [
-        "2 TSM"
+        "ACS",
+        "AMDMENG"
       ]
     },
     {
-      "job_title": "Lawn Service Supervisor",
+      "job_title": "Acoustic Engineer",
       "programs": [
-        "2 TSM"
+        "ACS"
       ]
     },
     {
-      "job_title": "Lawn Technician",
+      "job_title": "Application Engineer",
       "programs": [
-        "2 TSM"
+        "ACS"
+      ]
+    },
+    {
+      "job_title": "Advanced Manufacturing Engineer",
+      "programs": [
+        "AMDMENG"
+      ]
+    },
+    {
+      "job_title": "Manufacturing Process Engineer",
+      "programs": [
+        "AMDMENG"
+      ]
+    },
+    {
+      "job_title": "Process Engineering Manager",
+      "programs": [
+        "AMDMENG",
+        "ENGMT",
+        "IEMENG",
+        "MSME"
+      ]
+    },
+    {
+      "job_title": "Farm Business Management Agent",
+      "programs": [
+        "AGBM"
+      ]
+    },
+    {
+      "job_title": "Field Operations Farm Manager",
+      "programs": [
+        "AGBM"
+      ]
+    },
+    {
+      "job_title": "Greenhouse Manager",
+      "programs": [
+        "AGBM"
+      ]
+    },
+    {
+      "job_title": "Nursery Manager",
+      "programs": [
+        "AGBM"
+      ]
+    },
+    {
+      "job_title": "Ranch Manager",
+      "programs": [
+        "AGBM"
+      ]
+    },
+    {
+      "job_title": "Farm Manager",
+      "programs": [
+        "AGBM"
+      ]
+    },
+    {
+      "job_title": "Statistician",
+      "programs": [
+        "ASTAT"
+      ]
+    },
+    {
+      "job_title": "Statistical Reporting Analyst",
+      "programs": [
+        "ASTAT"
+      ]
+    },
+    {
+      "job_title": "Statistical Analyst",
+      "programs": [
+        "ASTAT",
+        "FDTANBS"
+      ]
+    },
+    {
+      "job_title": "Data Analyst",
+      "programs": [
+        "ASTAT",
+        "DAANBUSAN",
+        "DAANMDA",
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Data Scientist",
+      "programs": [
+        "AIMAI",
+        "DAANMDA",
+        "CSCMCS",
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Software Development Engineer",
+      "programs": [
+        "AIMAI",
+        "CSCMCS",
+        "SEBCBS",
+        "SWENG"
+      ]
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "programs": [
+        "AIMAI"
+      ]
+    },
+    {
+      "job_title": "Artificial Intelligence Specialist",
+      "programs": [
+        "AIMAI"
+      ]
+    },
+    {
+      "job_title": "Application Programmer Analyst",
+      "programs": [
+        "AIMAI",
+        "4 IST"
+      ]
+    },
+    {
+      "job_title": "Application Integration Engineer",
+      "programs": [
+        "AIMAI",
+        "CSCMCS",
+        "SEBCBS"
+      ]
+    },
+    {
+      "job_title": "Biomedical Research Assistant",
+      "programs": [
+        "BBHBS"
+      ]
+    },
+    {
+      "job_title": "Health Advocate",
+      "programs": [
+        "BBHBS"
+      ]
+    },
+    {
+      "job_title": "Health Education Specialist",
+      "programs": [
+        "BBHBS"
+      ]
+    },
+    {
+      "job_title": "Health Education Coordinator",
+      "programs": [
+        "BBHBS"
+      ]
+    },
+    {
+      "job_title": "Community Health Program Coordinator",
+      "programs": [
+        "BBHBS"
+      ]
+    },
+    {
+      "job_title": "Community Health Consultant",
+      "programs": [
+        "BBHBS"
+      ]
+    },
+    {
+      "job_title": "Operations Manager",
+      "programs": [
+        "BSBIC",
+        "PSCMBS"
+      ]
+    },
+    {
+      "job_title": "Operations Director",
+      "programs": [
+        "BSBIC",
+        "MBADMMBA"
+      ]
+    },
+    {
+      "job_title": "General Manager (GM)",
+      "programs": [
+        "BSBIC",
+        "MBADMMBA",
+        "SMEXLMMGT"
+      ]
+    },
+    {
+      "job_title": "Business Manager",
+      "programs": [
+        "BSBIC",
+        "OLEADBA",
+        "OLEAD"
+      ]
+    },
+    {
+      "job_title": "Administrative Director",
+      "programs": [
+        "BSBIC"
+      ]
+    },
+    {
+      "job_title": "Management Consultant",
+      "programs": [
+        "MBADMMBA"
+      ]
+    },
+    {
+      "job_title": "Chief Executive Officer (CEO)",
+      "programs": [
+        "MBADMMBA",
+        "SMEXLMMGT"
+      ]
+    },
+    {
+      "job_title": "Executive Director",
+      "programs": [
+        "MBADMMBA",
+        "SMEXLMMGT"
       ]
     },
     {
@@ -1593,488 +1810,30 @@
       ]
     },
     {
-      "job_title": "Correctional Supervisor",
+      "job_title": "Community Organizer",
       "programs": [
-        "2CJCAAS",
-        "4CRMJ"
+        "MPCED"
       ]
     },
     {
-      "job_title": "Law Enforcement Officer",
+      "job_title": "Social Services Director",
       "programs": [
-        "2CJCAAS"
+        "MPCED",
+        "P ADM",
+        "MSWMSW"
       ]
     },
     {
-      "job_title": "Loss Prevention Officer",
+      "job_title": "Nonprofit Director",
       "programs": [
-        "2CJCAAS"
-      ]
-    },
-    {
-      "job_title": "Security Officer",
-      "programs": [
-        "2CJCAAS"
-      ]
-    },
-    {
-      "job_title": "Community Organization Worker",
-      "programs": [
-        "2EHFS"
-      ]
-    },
-    {
-      "job_title": "Early Childhood Teacher",
-      "programs": [
-        "2EHFS"
-      ]
-    },
-    {
-      "job_title": "Pre-Kindergarten Teacher (Pre-K Teacher)",
-      "programs": [
-        "2EHFS"
-      ]
-    },
-    {
-      "job_title": "Social Services Assistant",
-      "programs": [
-        "2EHFS",
-        "HDFS"
-      ]
-    },
-    {
-      "job_title": "Teacher Aide",
-      "programs": [
-        "2EHFS"
-      ]
-    },
-    {
-      "job_title": "Employment Representative",
-      "programs": [
-        "2LHRAS"
-      ]
-    },
-    {
-      "job_title": "HR Coordinator (Human Resources Coordinator)",
-      "programs": [
-        "2LHRAS"
-      ]
-    },
-    {
-      "job_title": "Human Resources Assistant (HR Assistant)",
-      "programs": [
-        "2LHRAS"
-      ]
-    },
-    {
-      "job_title": "Labor Relations Specialist",
-      "programs": [
-        "2LHRAS",
-        "LHRBABA",
-        "LHRBSBS"
-      ]
-    },
-    {
-      "job_title": "Application Programmer Analyst",
-      "programs": [
-        "4 IST",
-        "AIMAI",
-        "AIMPS"
-      ]
-    },
-    {
-      "job_title": "Database Administrator (DBA)",
-      "programs": [
-        "4 IST"
-      ]
-    },
-    {
-      "job_title": "Database Architect",
-      "programs": [
-        "4 IST"
-      ]
-    },
-    {
-      "job_title": "Information Technology Manager (IT Manager)",
-      "programs": [
-        "4 IST"
-      ]
-    },
-    {
-      "job_title": "Systems Administrator",
-      "programs": [
-        "4 IST"
-      ]
-    },
-    {
-      "job_title": "Web Developer",
-      "programs": [
-        "4 IST"
-      ]
-    },
-    {
-      "job_title": "Criminal Investigator",
-      "programs": [
-        "4CRMJ"
-      ]
-    },
-    {
-      "job_title": "Detective",
-      "programs": [
-        "4CRMJ"
-      ]
-    },
-    {
-      "job_title": "Police Officer",
-      "programs": [
-        "4CRMJ"
-      ]
-    },
-    {
-      "job_title": "Accountant",
-      "programs": [
-        "ACCTBS",
-        "ACCTMS",
-        "TAXMTAX"
-      ]
-    },
-    {
-      "job_title": "Auditor",
-      "programs": [
-        "ACCTBS"
-      ]
-    },
-    {
-      "job_title": "Budget Analyst",
-      "programs": [
-        "ACCTBS",
-        "ACCTMS",
-        "FINBS",
-        "FDTANBS"
-      ]
-    },
-    {
-      "job_title": "Budget Coordinator",
-      "programs": [
-        "ACCTBS"
-      ]
-    },
-    {
-      "job_title": "Credit Analyst",
-      "programs": [
-        "ACCTBS",
-        "FINBS"
-      ]
-    },
-    {
-      "job_title": "Accounting Officer",
-      "programs": [
-        "ACCTMS"
-      ]
-    },
-    {
-      "job_title": "Budget Officer",
-      "programs": [
-        "ACCTMS",
+        "MPCED",
         "P ADM"
       ]
     },
     {
-      "job_title": "Internal Auditor",
+      "job_title": "Community Services Director",
       "programs": [
-        "ACCTMS",
-        "TAXMTAX"
-      ]
-    },
-    {
-      "job_title": "Application Engineer",
-      "programs": [
-        "ACS"
-      ]
-    },
-    {
-      "job_title": "Design Engineer",
-      "programs": [
-        "ACS",
-        "AMDMENG"
-      ]
-    },
-    {
-      "job_title": "Acoustic Engineer",
-      "programs": [
-        "ACS"
-      ]
-    },
-    {
-      "job_title": "Farm Business Management Agent",
-      "programs": [
-        "AGBM"
-      ]
-    },
-    {
-      "job_title": "Farm Manager",
-      "programs": [
-        "AGBM"
-      ]
-    },
-    {
-      "job_title": "Field Operations Farm Manager",
-      "programs": [
-        "AGBM"
-      ]
-    },
-    {
-      "job_title": "Greenhouse Manager",
-      "programs": [
-        "AGBM"
-      ]
-    },
-    {
-      "job_title": "Nursery Manager",
-      "programs": [
-        "AGBM"
-      ]
-    },
-    {
-      "job_title": "Ranch Manager",
-      "programs": [
-        "AGBM"
-      ]
-    },
-    {
-      "job_title": "Application Integration Engineer",
-      "programs": [
-        "AIMAI",
-        "AIMPS",
-        "SEBCBS"
-      ]
-    },
-    {
-      "job_title": "Artificial Intelligence Specialist",
-      "programs": [
-        "AIMAI",
-        "AIMPS"
-      ]
-    },
-    {
-      "job_title": "Machine Learning Engineer",
-      "programs": [
-        "AIMAI",
-        "AIMPS"
-      ]
-    },
-    {
-      "job_title": "Data Scientist",
-      "programs": [
-        "AIMAI",
-        "AIMPS",
-        "DAANBDSYS",
-        "DAANMDA"
-      ]
-    },
-    {
-      "job_title": "Software Development Engineer",
-      "programs": [
-        "AIMAI",
-        "AIMPS",
-        "SEBCBS",
-        "SWENG"
-      ]
-    },
-    {
-      "job_title": "Advanced Manufacturing Engineer",
-      "programs": [
-        "AMDMENG"
-      ]
-    },
-    {
-      "job_title": "Manufacturing Process Engineer",
-      "programs": [
-        "AMDMENG"
-      ]
-    },
-    {
-      "job_title": "Process Engineering Manager",
-      "programs": [
-        "AMDMENG",
-        "ENGMT",
-        "IEMENG",
-        "MSME"
-      ]
-    },
-    {
-      "job_title": "Demographer",
-      "programs": [
-        "APDEMMPS"
-      ]
-    },
-    {
-      "job_title": "Research Specialist",
-      "programs": [
-        "APDEMMPS"
-      ]
-    },
-    {
-      "job_title": "Social Scientist",
-      "programs": [
-        "APDEMMPS"
-      ]
-    },
-    {
-      "job_title": "Data Analyst",
-      "programs": [
-        "ASTAT",
-        "DAANBDSYS",
-        "DAANMDA",
-        "DAANBUSAN"
-      ]
-    },
-    {
-      "job_title": "Statistical Analyst",
-      "programs": [
-        "ASTAT",
-        "FDTANBS"
-      ]
-    },
-    {
-      "job_title": "Statistical Reporting Analyst",
-      "programs": [
-        "ASTAT"
-      ]
-    },
-    {
-      "job_title": "Statistician",
-      "programs": [
-        "ASTAT"
-      ]
-    },
-    {
-      "job_title": "Community Health Consultant",
-      "programs": [
-        "BBHBS"
-      ]
-    },
-    {
-      "job_title": "Community Health Program Coordinator",
-      "programs": [
-        "BBHBS"
-      ]
-    },
-    {
-      "job_title": "Health Education Coordinator",
-      "programs": [
-        "BBHBS"
-      ]
-    },
-    {
-      "job_title": "Health Education Specialist",
-      "programs": [
-        "BBHBS"
-      ]
-    },
-    {
-      "job_title": "Health Advocate",
-      "programs": [
-        "BBHBS"
-      ]
-    },
-    {
-      "job_title": "Biomedical Research Assistant",
-      "programs": [
-        "BBHBS"
-      ]
-    },
-    {
-      "job_title": "Administrative Director",
-      "programs": [
-        "BSBIC"
-      ]
-    },
-    {
-      "job_title": "Business Manager",
-      "programs": [
-        "BSBIC",
-        "OLEAD",
-        "OLEADBA"
-      ]
-    },
-    {
-      "job_title": "General Manager (GM)",
-      "programs": [
-        "BSBIC",
-        "MBADMMBA",
-        "SMEXLMMGT"
-      ]
-    },
-    {
-      "job_title": "Operations Director",
-      "programs": [
-        "BSBIC",
-        "MBADMMBA"
-      ]
-    },
-    {
-      "job_title": "Operations Manager",
-      "programs": [
-        "BSBIC",
-        "PSCMBS"
-      ]
-    },
-    {
-      "job_title": "Cyber Analyst",
-      "programs": [
-        "CAOWCBS",
-        "HLSCTAP",
-        "HLSIS"
-      ]
-    },
-    {
-      "job_title": "Information Security Officer",
-      "programs": [
-        "CAOWCBS"
-      ]
-    },
-    {
-      "job_title": "Information Security Specialist",
-      "programs": [
-        "CAOWCBS",
-        "HLSIS",
-        "SRA"
-      ]
-    },
-    {
-      "job_title": "Information Systems Security Analyst",
-      "programs": [
-        "CAOWCBS",
-        "CYMPSMPS",
-        "HLSCTAP"
-      ]
-    },
-    {
-      "job_title": "Information Systems Security Officer (ISSO)",
-      "programs": [
-        "CAOWCBS",
-        "HLSIS"
-      ]
-    },
-    {
-      "job_title": "Information Technology Security Analyst (IT Security Analyst)",
-      "programs": [
-        "CAOWCBS"
-      ]
-    },
-    {
-      "job_title": "Network Security Analyst",
-      "programs": [
-        "CAOWCBS",
-        "HLSCTAP",
-        "SRA"
-      ]
-    },
-    {
-      "job_title": "Business Development Director",
-      "programs": [
-        "CIENTMMGT"
+        "MPCED"
       ]
     },
     {
@@ -2104,6 +1863,70 @@
       ]
     },
     {
+      "job_title": "Business Development Director",
+      "programs": [
+        "CIENTMMGT"
+      ]
+    },
+    {
+      "job_title": "Law Enforcement Officer",
+      "programs": [
+        "2CJCAAS"
+      ]
+    },
+    {
+      "job_title": "Correctional Supervisor",
+      "programs": [
+        "2CJCAAS",
+        "4CRMJ"
+      ]
+    },
+    {
+      "job_title": "Loss Prevention Officer",
+      "programs": [
+        "2CJCAAS"
+      ]
+    },
+    {
+      "job_title": "Security Officer",
+      "programs": [
+        "2CJCAAS"
+      ]
+    },
+    {
+      "job_title": "Criminal Investigator",
+      "programs": [
+        "4CRMJ"
+      ]
+    },
+    {
+      "job_title": "Police Officer",
+      "programs": [
+        "4CRMJ"
+      ]
+    },
+    {
+      "job_title": "Detective",
+      "programs": [
+        "4CRMJ"
+      ]
+    },
+    {
+      "job_title": "Public Safety Director",
+      "programs": [
+        "CJPAMPS",
+        "HLSCTRTR",
+        "HLSPH",
+        "HLSB"
+      ]
+    },
+    {
+      "job_title": "Probation and Parole Officer",
+      "programs": [
+        "CJPAMPS"
+      ]
+    },
+    {
       "job_title": "Correctional Counselor",
       "programs": [
         "CJPAMPS"
@@ -2116,31 +1939,84 @@
       ]
     },
     {
-      "job_title": "Probation and Parole Officer",
+      "job_title": "Teacher",
       "programs": [
-        "CJPAMPS"
+        "LLEDM"
       ]
     },
     {
-      "job_title": "Public Safety Director",
+      "job_title": "Curriculum and Instruction Director",
       "programs": [
-        "CJPAMPS",
-        "HLSB",
-        "HLSCTRTR",
-        "HLSPH"
+        "LLEDM"
       ]
     },
     {
-      "job_title": "Cybersecurity Project Manager",
+      "job_title": "Curriculum Coordinator",
       "programs": [
-        "CYMPSMPS"
+        "LLEDM"
       ]
     },
     {
-      "job_title": "Information Systems Director (IS Director)",
+      "job_title": "Educator",
       "programs": [
+        "LLEDM"
+      ]
+    },
+    {
+      "job_title": "Curriculum Director",
+      "programs": [
+        "LLEDM"
+      ]
+    },
+    {
+      "job_title": "Information Systems Security Analyst",
+      "programs": [
+        "CAOWCBS",
         "CYMPSMPS",
-        "EABTMEA"
+        "HLSCTAP"
+      ]
+    },
+    {
+      "job_title": "Information Security Officer",
+      "programs": [
+        "CAOWCBS"
+      ]
+    },
+    {
+      "job_title": "Information Security Specialist",
+      "programs": [
+        "CAOWCBS",
+        "HLSIS",
+        "SRA"
+      ]
+    },
+    {
+      "job_title": "Cyber Analyst",
+      "programs": [
+        "CAOWCBS",
+        "HLSCTAP",
+        "HLSIS"
+      ]
+    },
+    {
+      "job_title": "Information Systems Security Officer (ISSO)",
+      "programs": [
+        "CAOWCBS",
+        "HLSIS"
+      ]
+    },
+    {
+      "job_title": "Information Technology Security Analyst (IT Security Analyst)",
+      "programs": [
+        "CAOWCBS"
+      ]
+    },
+    {
+      "job_title": "Network Security Analyst",
+      "programs": [
+        "CAOWCBS",
+        "HLSCTAP",
+        "SRA"
       ]
     },
     {
@@ -2151,17 +2027,45 @@
       ]
     },
     {
-      "job_title": "Network and Security Engineer",
+      "job_title": "Information Systems Director (IS Director)",
+      "programs": [
+        "CYMPSMPS",
+        "EABTMEA"
+      ]
+    },
+    {
+      "job_title": "Cybersecurity Project Manager",
       "programs": [
         "CYMPSMPS"
       ]
     },
     {
-      "job_title": "Digital Marketing Strategist",
+      "job_title": "Network and Security Engineer",
       "programs": [
-        "DAANMRKAN",
-        "MMAIMMKT",
-        "MRKTBS"
+        "CYMPSMPS",
+        "CSCMCS"
+      ]
+    },
+    {
+      "job_title": "Actuarial Analyst",
+      "programs": [
+        "DAANBUSAN"
+      ]
+    },
+    {
+      "job_title": "Business Intelligence Analyst",
+      "programs": [
+        "DAANBUSAN",
+        "FDTANBS"
+      ]
+    },
+    {
+      "job_title": "Information Architect",
+      "programs": [
+        "DAANBUSAN",
+        "DAANMDA",
+        "EABTMEA",
+        "ETCHIBS"
       ]
     },
     {
@@ -2174,16 +2078,11 @@
       ]
     },
     {
-      "job_title": "Market Intelligence Analyst",
-      "programs": [
-        "DAANMRKAN"
-      ]
-    },
-    {
-      "job_title": "Marketing and Promotions Manager",
+      "job_title": "Digital Marketing Strategist",
       "programs": [
         "DAANMRKAN",
-        "MRKTBS"
+        "MRKTBS",
+        "MMAIMMKT"
       ]
     },
     {
@@ -2194,31 +2093,33 @@
       ]
     },
     {
+      "job_title": "Marketing and Promotions Manager",
+      "programs": [
+        "DAANMRKAN",
+        "MRKTBS"
+      ]
+    },
+    {
+      "job_title": "Market Intelligence Analyst",
+      "programs": [
+        "DAANMRKAN"
+      ]
+    },
+    {
+      "job_title": "Information Modeling Specialist",
+      "programs": [
+        "DAANMDA"
+      ]
+    },
+    {
+      "job_title": "Data Engineer",
+      "programs": [
+        "DAANMDA",
+        "DAANBDSYS"
+      ]
+    },
+    {
       "job_title": "Journalist",
-      "programs": [
-        "DGJRMBA"
-      ]
-    },
-    {
-      "job_title": "Digital Media Production Manager",
-      "programs": [
-        "DGJRMBA"
-      ]
-    },
-    {
-      "job_title": "Digital Media Programming Director",
-      "programs": [
-        "DGJRMBA"
-      ]
-    },
-    {
-      "job_title": "Reporter",
-      "programs": [
-        "DGJRMBA"
-      ]
-    },
-    {
-      "job_title": "Web Editor",
       "programs": [
         "DGJRMBA"
       ]
@@ -2230,19 +2131,31 @@
       ]
     },
     {
-      "job_title": "Creative Director",
+      "job_title": "Web Editor",
       "programs": [
-        "DIGMDBDES"
+        "DGJRMBA"
       ]
     },
     {
-      "job_title": "Design Director",
+      "job_title": "Digital Media Programming Director",
       "programs": [
-        "DIGMDBDES"
+        "DGJRMBA"
       ]
     },
     {
-      "job_title": "Digital Media Designer",
+      "job_title": "Digital Media Production Manager",
+      "programs": [
+        "DGJRMBA"
+      ]
+    },
+    {
+      "job_title": "Reporter",
+      "programs": [
+        "DGJRMBA"
+      ]
+    },
+    {
+      "job_title": "Web Designer",
       "programs": [
         "DIGMDBDES"
       ]
@@ -2254,7 +2167,19 @@
       ]
     },
     {
-      "job_title": "Web Designer",
+      "job_title": "Digital Media Designer",
+      "programs": [
+        "DIGMDBDES"
+      ]
+    },
+    {
+      "job_title": "Design Director",
+      "programs": [
+        "DIGMDBDES"
+      ]
+    },
+    {
+      "job_title": "Creative Director",
       "programs": [
         "DIGMDBDES"
       ]
@@ -2266,26 +2191,10 @@
       ]
     },
     {
-      "job_title": "Business Systems Analyst",
+      "job_title": "Research Analyst",
       "programs": [
-        "EABTMEA"
-      ]
-    },
-    {
-      "job_title": "Computer Systems Analyst",
-      "programs": [
-        "EABTMEA",
-        "INSCMS",
-        "SYSEN"
-      ]
-    },
-    {
-      "job_title": "Information Architect",
-      "programs": [
-        "EABTMEA",
-        "ETCHIBS",
-        "DAANMDA",
-        "DAANBUSAN"
+        "ECLBA",
+        "ECLBS"
       ]
     },
     {
@@ -2296,89 +2205,16 @@
       ]
     },
     {
-      "job_title": "Research Analyst",
+      "job_title": "Environmental Policy Analyst",
       "programs": [
-        "ECLBA",
-        "ECLBS"
-      ]
-    },
-    {
-      "job_title": "Education Coordinator",
-      "programs": [
-        "EDLDR"
-      ]
-    },
-    {
-      "job_title": "Education Director",
-      "programs": [
-        "EDLDR"
-      ]
-    },
-    {
-      "job_title": "Lead Teacher",
-      "programs": [
-        "EDLDR"
-      ]
-    },
-    {
-      "job_title": "Principal",
-      "programs": [
-        "EDLDR"
-      ]
-    },
-    {
-      "job_title": "School Administrator",
-      "programs": [
-        "EDLDR"
-      ]
-    },
-    {
-      "job_title": "Student Services Director",
-      "programs": [
-        "EDLDR"
-      ]
-    },
-    {
-      "job_title": "Electrical Controls Engineer",
-      "programs": [
-        "EEMEN"
-      ]
-    },
-    {
-      "job_title": "Electrical Design Engineer",
-      "programs": [
-        "EEMEN"
-      ]
-    },
-    {
-      "job_title": "Electrical Engineering Manager",
-      "programs": [
-        "EEMEN"
-      ]
-    },
-    {
-      "job_title": "Electrical Project Engineer",
-      "programs": [
-        "EEMEN"
-      ]
-    },
-    {
-      "job_title": "Power Systems Engineer",
-      "programs": [
-        "EEMEN"
+        "EMGTMPS",
+        "RESS"
       ]
     },
     {
       "job_title": "Environmental Consultant",
       "programs": [
         "EMGTMPS"
-      ]
-    },
-    {
-      "job_title": "Environmental Policy Analyst",
-      "programs": [
-        "EMGTMPS",
-        "RESS"
       ]
     },
     {
@@ -2405,9 +2241,152 @@
       ]
     },
     {
+      "job_title": "Career Development Counselor",
+      "programs": [
+        "EDUCDED"
+      ]
+    },
+    {
+      "job_title": "Instructional Technology Director",
+      "programs": [
+        "EDUCDED"
+      ]
+    },
+    {
+      "job_title": "Enrollment Management Vice President",
+      "programs": [
+        "EDUCDED"
+      ]
+    },
+    {
+      "job_title": "Higher Education Administrator",
+      "programs": [
+        "EDUCDED"
+      ]
+    },
+    {
+      "job_title": "Learning Development Specialist",
+      "programs": [
+        "EDUCDED",
+        "LDT"
+      ]
+    },
+    {
+      "job_title": "Academic Affairs Director",
+      "programs": [
+        "EDUCDED",
+        "HIGHED"
+      ]
+    },
+    {
+      "job_title": "School Administrator",
+      "programs": [
+        "EDLDR"
+      ]
+    },
+    {
+      "job_title": "Principal",
+      "programs": [
+        "EDLDR"
+      ]
+    },
+    {
+      "job_title": "Lead Teacher",
+      "programs": [
+        "EDLDR"
+      ]
+    },
+    {
+      "job_title": "Education Coordinator",
+      "programs": [
+        "EDLDR"
+      ]
+    },
+    {
+      "job_title": "Student Services Director",
+      "programs": [
+        "EDLDR"
+      ]
+    },
+    {
+      "job_title": "Education Director",
+      "programs": [
+        "EDLDR"
+      ]
+    },
+    {
+      "job_title": "Electrical Engineering Manager",
+      "programs": [
+        "EEMEN"
+      ]
+    },
+    {
+      "job_title": "Electrical Project Engineer",
+      "programs": [
+        "EEMEN"
+      ]
+    },
+    {
+      "job_title": "Electrical Design Engineer",
+      "programs": [
+        "EEMEN"
+      ]
+    },
+    {
+      "job_title": "Electrical Controls Engineer",
+      "programs": [
+        "EEMEN"
+      ]
+    },
+    {
+      "job_title": "Power Systems Engineer",
+      "programs": [
+        "EEMEN"
+      ]
+    },
+    {
+      "job_title": "Resource Conservation Specialist",
+      "programs": [
+        "ESPBA",
+        "ESPBSBS"
+      ]
+    },
+    {
+      "job_title": "Environmental Protection Specialist",
+      "programs": [
+        "ESPBA",
+        "ESPBSBS"
+      ]
+    },
+    {
+      "job_title": "Environmental Analyst",
+      "programs": [
+        "ESPBA",
+        "ESPBSBS"
+      ]
+    },
+    {
+      "job_title": "Project Development Director",
+      "programs": [
+        "ENGRDENG"
+      ]
+    },
+    {
       "job_title": "Engineering Director",
       "programs": [
-        "ENGMT",
+        "ENGRDENG",
+        "ENGMT"
+      ]
+    },
+    {
+      "job_title": "Research Engineer",
+      "programs": [
+        "ENGRDENG"
+      ]
+    },
+    {
+      "job_title": "Research and Development Engineer",
+      "programs": [
         "ENGRDENG"
       ]
     },
@@ -2425,46 +2404,76 @@
       ]
     },
     {
-      "job_title": "Project Development Director",
+      "job_title": "Business Systems Analyst",
       "programs": [
-        "ENGRDENG"
+        "EABTMEA"
       ]
     },
     {
-      "job_title": "Research and Development Engineer",
+      "job_title": "Computer Systems Analyst",
       "programs": [
-        "ENGRDENG"
+        "EABTMEA",
+        "INSCMS",
+        "SYSEN"
       ]
     },
     {
-      "job_title": "Research Engineer",
+      "job_title": "Application Systems Integrator",
       "programs": [
-        "ENGRDENG"
+        "ETCHIBS"
       ]
     },
     {
-      "job_title": "Environmental Analyst",
+      "job_title": "Business Technology Analyst",
       "programs": [
-        "ESPBA",
-        "ESPBSBS"
+        "ETCHIBS"
       ]
     },
     {
-      "job_title": "Environmental Protection Specialist",
+      "job_title": "Database Analyst",
       "programs": [
-        "ESPBA",
-        "ESPBSBS"
+        "ETCHIBS"
       ]
     },
     {
-      "job_title": "Resource Conservation Specialist",
+      "job_title": "Programmer Analyst",
       "programs": [
-        "ESPBA",
-        "ESPBSBS"
+        "ETCHIBS"
       ]
     },
     {
-      "job_title": "Chief Financial Officer (CFO)",
+      "job_title": "Business Technology Consultant",
+      "programs": [
+        "ETCHIBS"
+      ]
+    },
+    {
+      "job_title": "Information Systems Analyst",
+      "programs": [
+        "ETCHIBS"
+      ]
+    },
+    {
+      "job_title": "Portfolio Manager",
+      "programs": [
+        "FINBS"
+      ]
+    },
+    {
+      "job_title": "Financial Analyst",
+      "programs": [
+        "FINBS",
+        "FINAN"
+      ]
+    },
+    {
+      "job_title": "Controller",
+      "programs": [
+        "FINBS"
+      ]
+    },
+    {
+      "job_title": "Credit Administration Manager",
       "programs": [
         "FINAN"
       ]
@@ -2476,16 +2485,9 @@
       ]
     },
     {
-      "job_title": "Credit Administration Manager",
+      "job_title": "Chief Financial Officer (CFO)",
       "programs": [
         "FINAN"
-      ]
-    },
-    {
-      "job_title": "Financial Analyst",
-      "programs": [
-        "FINAN",
-        "FINBS"
       ]
     },
     {
@@ -2495,15 +2497,57 @@
       ]
     },
     {
-      "job_title": "Controller",
+      "job_title": "Market Research Analyst",
       "programs": [
-        "FINBS"
+        "FDTANBS"
       ]
     },
     {
-      "job_title": "Portfolio Manager",
+      "job_title": "Business Analyst",
       "programs": [
-        "FINBS"
+        "FDTANBS"
+      ]
+    },
+    {
+      "job_title": "Credit Risk Analyst",
+      "programs": [
+        "FDTANBS"
+      ]
+    },
+    {
+      "job_title": "Planning Analyst",
+      "programs": [
+        "FDTANBS"
+      ]
+    },
+    {
+      "job_title": "Technical Analyst",
+      "programs": [
+        "FDTANBS"
+      ]
+    },
+    {
+      "job_title": "Green Building Design Specialist",
+      "programs": [
+        "MPSGEO"
+      ]
+    },
+    {
+      "job_title": "Sustainable Communities Designer",
+      "programs": [
+        "MPSGEO"
+      ]
+    },
+    {
+      "job_title": "Sustainable Design Consultant",
+      "programs": [
+        "MPSGEO"
+      ]
+    },
+    {
+      "job_title": "Urban Design Consultant",
+      "programs": [
+        "MPSGEO"
       ]
     },
     {
@@ -2513,13 +2557,13 @@
       ]
     },
     {
-      "job_title": "GIS/Geospatial Analyst",
+      "job_title": "GIS Consultant",
       "programs": [
         "GIS"
       ]
     },
     {
-      "job_title": "GIS Consultant",
+      "job_title": "GIS/Geospatial Analyst",
       "programs": [
         "GIS"
       ]
@@ -2543,208 +2587,7 @@
       ]
     },
     {
-      "job_title": "Clinical Director",
-      "programs": [
-        "H P A",
-        "PHMPH"
-      ]
-    },
-    {
-      "job_title": "Health Care Facility Administrator",
-      "programs": [
-        "H P A"
-      ]
-    },
-    {
-      "job_title": "Health Services Administrator",
-      "programs": [
-        "H P A"
-      ]
-    },
-    {
-      "job_title": "Health Services Director",
-      "programs": [
-        "H P A"
-      ]
-    },
-    {
-      "job_title": "Medicine and Health Service Manager",
-      "programs": [
-        "H P A"
-      ]
-    },
-    {
-      "job_title": "Child Development Teacher",
-      "programs": [
-        "HDFS"
-      ]
-    },
-    {
-      "job_title": "Child Welfare Worker",
-      "programs": [
-        "HDFS"
-      ]
-    },
-    {
-      "job_title": "Family Resource Coordinator",
-      "programs": [
-        "HDFS"
-      ]
-    },
-    {
-      "job_title": "Elder Care Assistant",
-      "programs": [
-        "HDFS"
-      ]
-    },
-    {
-      "job_title": "Youth Services Specialist",
-      "programs": [
-        "HDFS"
-      ]
-    },
-    {
-      "job_title": "Academic Affairs Director",
-      "programs": [
-        "HIGHED",
-        "EDUCDED"
-      ]
-    },
-    {
-      "job_title": "Admissions Director",
-      "programs": [
-        "HIGHED"
-      ]
-    },
-    {
-      "job_title": "Financial Aid Director",
-      "programs": [
-        "HIGHED"
-      ]
-    },
-    {
-      "job_title": "Institutional Research Director",
-      "programs": [
-        "HIGHED"
-      ]
-    },
-    {
-      "job_title": "County Historian",
-      "programs": [
-        "HISTBA"
-      ]
-    },
-    {
-      "job_title": "Historic Sites Registrar",
-      "programs": [
-        "HISTBA"
-      ]
-    },
-    {
-      "job_title": "Museum Educator",
-      "programs": [
-        "HISTBA"
-      ]
-    },
-    {
-      "job_title": "Research Associate",
-      "programs": [
-        "HISTBA",
-        "PSYBA",
-        "PSYBS"
-      ]
-    },
-    {
-      "job_title": "Emergency Management Coordinator",
-      "programs": [
-        "HLSB"
-      ]
-    },
-    {
-      "job_title": "Emergency Planner",
-      "programs": [
-        "HLSB"
-      ]
-    },
-    {
-      "job_title": "Emergency Preparedness Coordinator",
-      "programs": [
-        "HLSB",
-        "HLSCTRTR",
-        "HLSPH"
-      ]
-    },
-    {
-      "job_title": "Emergency Services Director",
-      "programs": [
-        "HLSB"
-      ]
-    },
-    {
-      "job_title": "Security Analyst",
-      "programs": [
-        "HLSCTAP",
-        "SRA"
-      ]
-    },
-    {
-      "job_title": "Threat Intelligence Analyst",
-      "programs": [
-        "HLSCTAP",
-        "HLSCTRTR"
-      ]
-    },
-    {
-      "job_title": "Anti-Terrorist Analyst",
-      "programs": [
-        "HLSCTRTR"
-      ]
-    },
-    {
-      "job_title": "Counterintelligence Analyst",
-      "programs": [
-        "HLSCTRTR"
-      ]
-    },
-    {
-      "job_title": "Geospatial Analyst",
-      "programs": [
-        "HLSGI",
-        "SDSMS"
-      ]
-    },
-    {
-      "job_title": "Lidar Analyst",
-      "programs": [
-        "HLSGI"
-      ]
-    },
-    {
-      "job_title": "Forensic Computer Examiner",
-      "programs": [
-        "HLSIS"
-      ]
-    },
-    {
-      "job_title": "Health Information Management Director",
-      "programs": [
-        "HLSPH"
-      ]
-    },
-    {
-      "job_title": "Medical Practice Manager",
-      "programs": [
-        "HPABS"
-      ]
-    },
-    {
-      "job_title": "Patient Services Director",
-      "programs": [
-        "HPABS"
-      ]
-    },
-    {
-      "job_title": "Health Care Consultant",
+      "job_title": "Health Information Manager",
       "programs": [
         "HPABS"
       ]
@@ -2768,13 +2611,251 @@
       ]
     },
     {
-      "job_title": "Health Information Manager",
+      "job_title": "Health Care Consultant",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "job_title": "Compensation and Benefits Director",
+      "job_title": "Patient Services Director",
+      "programs": [
+        "HPABS"
+      ]
+    },
+    {
+      "job_title": "Medical Practice Manager",
+      "programs": [
+        "HPABS"
+      ]
+    },
+    {
+      "job_title": "Health Services Director",
+      "programs": [
+        "H P A"
+      ]
+    },
+    {
+      "job_title": "Clinical Director",
+      "programs": [
+        "H P A",
+        "PHMPH"
+      ]
+    },
+    {
+      "job_title": "Health Services Administrator",
+      "programs": [
+        "H P A"
+      ]
+    },
+    {
+      "job_title": "Medicine and Health Service Manager",
+      "programs": [
+        "H P A"
+      ]
+    },
+    {
+      "job_title": "Health Care Facility Administrator",
+      "programs": [
+        "H P A"
+      ]
+    },
+    {
+      "job_title": "Institutional Research Director",
+      "programs": [
+        "HIGHED"
+      ]
+    },
+    {
+      "job_title": "Financial Aid Director",
+      "programs": [
+        "HIGHED"
+      ]
+    },
+    {
+      "job_title": "Admissions Director",
+      "programs": [
+        "HIGHED"
+      ]
+    },
+    {
+      "job_title": "County Historian",
+      "programs": [
+        "HISTBA"
+      ]
+    },
+    {
+      "job_title": "Historic Sites Registrar",
+      "programs": [
+        "HISTBA"
+      ]
+    },
+    {
+      "job_title": "Research Associate",
+      "programs": [
+        "HISTBA",
+        "PSYBA",
+        "PSYBS"
+      ]
+    },
+    {
+      "job_title": "Museum Educator",
+      "programs": [
+        "HISTBA"
+      ]
+    },
+    {
+      "job_title": "Anti-Terrorist Analyst",
+      "programs": [
+        "HLSCTRTR"
+      ]
+    },
+    {
+      "job_title": "Emergency Preparedness Coordinator",
+      "programs": [
+        "HLSCTRTR",
+        "HLSPH",
+        "HLSB"
+      ]
+    },
+    {
+      "job_title": "Threat Intelligence Analyst",
+      "programs": [
+        "HLSCTRTR",
+        "HLSCTAP"
+      ]
+    },
+    {
+      "job_title": "Counterintelligence Analyst",
+      "programs": [
+        "HLSCTRTR"
+      ]
+    },
+    {
+      "job_title": "Security Analyst",
+      "programs": [
+        "HLSCTAP",
+        "SRA"
+      ]
+    },
+    {
+      "job_title": "Forensic Computer Examiner",
+      "programs": [
+        "HLSIS"
+      ]
+    },
+    {
+      "job_title": "Geospatial Analyst",
+      "programs": [
+        "HLSGI",
+        "SDSMS"
+      ]
+    },
+    {
+      "job_title": "Lidar Analyst",
+      "programs": [
+        "HLSGI"
+      ]
+    },
+    {
+      "job_title": "Health Information Management Director",
+      "programs": [
+        "HLSPH"
+      ]
+    },
+    {
+      "job_title": "Emergency Management Coordinator",
+      "programs": [
+        "HLSB"
+      ]
+    },
+    {
+      "job_title": "Emergency Planner",
+      "programs": [
+        "HLSB"
+      ]
+    },
+    {
+      "job_title": "Emergency Services Director",
+      "programs": [
+        "HLSB"
+      ]
+    },
+    {
+      "job_title": "Teacher Aide",
+      "programs": [
+        "2EHFS"
+      ]
+    },
+    {
+      "job_title": "Community Organization Worker",
+      "programs": [
+        "2EHFS"
+      ]
+    },
+    {
+      "job_title": "Early Childhood Teacher",
+      "programs": [
+        "2EHFS"
+      ]
+    },
+    {
+      "job_title": "Social Services Assistant",
+      "programs": [
+        "2EHFS",
+        "HDFS"
+      ]
+    },
+    {
+      "job_title": "Pre-Kindergarten Teacher (Pre-K Teacher)",
+      "programs": [
+        "2EHFS"
+      ]
+    },
+    {
+      "job_title": "Elder Care Assistant",
+      "programs": [
+        "HDFS"
+      ]
+    },
+    {
+      "job_title": "Family Resource Coordinator",
+      "programs": [
+        "HDFS"
+      ]
+    },
+    {
+      "job_title": "Child Development Teacher",
+      "programs": [
+        "HDFS"
+      ]
+    },
+    {
+      "job_title": "Child Welfare Worker",
+      "programs": [
+        "HDFS"
+      ]
+    },
+    {
+      "job_title": "Youth Services Specialist",
+      "programs": [
+        "HDFS"
+      ]
+    },
+    {
+      "job_title": "Labor Relations Director",
+      "programs": [
+        "HRERMHRER"
+      ]
+    },
+    {
+      "job_title": "Training and Development Director",
+      "programs": [
+        "HRERMHRER",
+        "MPSODC"
+      ]
+    },
+    {
+      "job_title": "Human Resources Analyst",
       "programs": [
         "HRERMHRER"
       ]
@@ -2786,13 +2867,7 @@
       ]
     },
     {
-      "job_title": "Labor Relations Director",
-      "programs": [
-        "HRERMHRER"
-      ]
-    },
-    {
-      "job_title": "Human Resources Analyst",
+      "job_title": "Compensation and Benefits Director",
       "programs": [
         "HRERMHRER"
       ]
@@ -2801,13 +2876,6 @@
       "job_title": "Human Resources Director (HR Director)",
       "programs": [
         "HRERMHRER"
-      ]
-    },
-    {
-      "job_title": "Training and Development Director",
-      "programs": [
-        "HRERMHRER",
-        "MPSODC"
       ]
     },
     {
@@ -2837,13 +2905,14 @@
       ]
     },
     {
-      "job_title": "Application Development Director",
+      "job_title": "Solutions Architect",
       "programs": [
-        "INSCMS"
+        "INSCMS",
+        "SWENG"
       ]
     },
     {
-      "job_title": "Computing Services Director",
+      "job_title": "Application Development Director",
       "programs": [
         "INSCMS"
       ]
@@ -2861,86 +2930,95 @@
       ]
     },
     {
-      "job_title": "Solutions Architect",
+      "job_title": "Computing Services Director",
       "programs": [
-        "INSCMS",
-        "SWENG"
+        "INSCMS"
       ]
     },
     {
-      "job_title": "Law Researcher",
+      "job_title": "Computer Network Specialist",
       "programs": [
-        "LAWSC"
+        "2 IST"
       ]
     },
     {
-      "job_title": "Legal Analyst",
+      "job_title": "Information Technology Specialist (IT Specialist)",
       "programs": [
-        "LAWSC"
+        "2 IST"
       ]
     },
     {
-      "job_title": "Legal Assistant",
+      "job_title": "Web Technologies Administrator",
       "programs": [
-        "LAWSC"
+        "2 IST"
       ]
     },
     {
-      "job_title": "Legal Research Analyst",
+      "job_title": "Business Records Manager",
       "programs": [
-        "LAWSC"
+        "2 IST"
       ]
     },
     {
-      "job_title": "E-Learning Developer",
+      "job_title": "Web Administrator",
       "programs": [
-        "LDT"
+        "2 IST"
       ]
     },
     {
-      "job_title": "Instructional Designer",
+      "job_title": "Web Developer",
       "programs": [
-        "LDT"
+        "4 IST"
       ]
     },
     {
-      "job_title": "Instructional Systems Specialist",
+      "job_title": "Systems Administrator",
       "programs": [
-        "LDT"
+        "4 IST"
       ]
     },
     {
-      "job_title": "Educational Technology Specialist",
+      "job_title": "Database Architect",
       "programs": [
-        "LDT"
+        "4 IST"
       ]
     },
     {
-      "job_title": "Learning Development Specialist",
+      "job_title": "Information Technology Manager (IT Manager)",
       "programs": [
-        "LDT",
-        "EDUCDED"
+        "4 IST"
       ]
     },
     {
-      "job_title": "Compensation and Benefits Manager",
+      "job_title": "Database Administrator (DBA)",
       "programs": [
+        "4 IST"
+      ]
+    },
+    {
+      "job_title": "Labor Relations Specialist",
+      "programs": [
+        "2LHRAS",
         "LHRBABA",
         "LHRBSBS"
       ]
     },
     {
-      "job_title": "HR Analyst (Human Resources Analyst)",
+      "job_title": "Employment Representative",
       "programs": [
-        "LHRBABA",
-        "LHRBSBS"
+        "2LHRAS"
       ]
     },
     {
-      "job_title": "Human Resources Manager (HR Manager)",
+      "job_title": "Human Resources Assistant (HR Assistant)",
       "programs": [
-        "LHRBABA",
-        "LHRBSBS"
+        "2LHRAS"
+      ]
+    },
+    {
+      "job_title": "HR Coordinator (Human Resources Coordinator)",
+      "programs": [
+        "2LHRAS"
       ]
     },
     {
@@ -2958,6 +3036,87 @@
       ]
     },
     {
+      "job_title": "Human Resources Manager (HR Manager)",
+      "programs": [
+        "LHRBABA",
+        "LHRBSBS"
+      ]
+    },
+    {
+      "job_title": "HR Analyst (Human Resources Analyst)",
+      "programs": [
+        "LHRBABA",
+        "LHRBSBS"
+      ]
+    },
+    {
+      "job_title": "Compensation and Benefits Manager",
+      "programs": [
+        "LHRBABA",
+        "LHRBSBS"
+      ]
+    },
+    {
+      "job_title": "Law Researcher",
+      "programs": [
+        "LAWSC"
+      ]
+    },
+    {
+      "job_title": "Legal Research Analyst",
+      "programs": [
+        "LAWSC"
+      ]
+    },
+    {
+      "job_title": "Legal Assistant",
+      "programs": [
+        "LAWSC"
+      ]
+    },
+    {
+      "job_title": "Legal Analyst",
+      "programs": [
+        "LAWSC"
+      ]
+    },
+    {
+      "job_title": "Educational Technology Specialist",
+      "programs": [
+        "LDT"
+      ]
+    },
+    {
+      "job_title": "Instructional Systems Specialist",
+      "programs": [
+        "LDT"
+      ]
+    },
+    {
+      "job_title": "Instructional Designer",
+      "programs": [
+        "LDT"
+      ]
+    },
+    {
+      "job_title": "E-Learning Developer",
+      "programs": [
+        "LDT"
+      ]
+    },
+    {
+      "job_title": "Learning and Development Director",
+      "programs": [
+        "LLAEDMED"
+      ]
+    },
+    {
+      "job_title": "GED Instructor (General Educational Development Instructor)",
+      "programs": [
+        "LLAEDMED"
+      ]
+    },
+    {
       "job_title": "Adult Basic Education Instructor (ABE Instructor)",
       "programs": [
         "LLAEDMED"
@@ -2970,45 +3129,136 @@
       ]
     },
     {
-      "job_title": "GED Instructor (General Educational Development Instructor)",
+      "job_title": "SEO Strategist (Search Engine Optimization Strategist)",
       "programs": [
-        "LLAEDMED"
+        "MRKTBS",
+        "MMAIMMKT"
       ]
     },
     {
-      "job_title": "Learning and Development Director",
+      "job_title": "Marketing Manager",
       "programs": [
-        "LLAEDMED"
+        "MRKTBS"
       ]
     },
     {
-      "job_title": "Curriculum and Instruction Director",
+      "job_title": "Marketing Consultant",
       "programs": [
-        "LLEDM"
+        "MMAIMMKT"
       ]
     },
     {
-      "job_title": "Curriculum Coordinator",
+      "job_title": "Marketing Analyst",
       "programs": [
-        "LLEDM"
+        "MMAIMMKT"
       ]
     },
     {
-      "job_title": "Curriculum Director",
+      "job_title": "Brand Manager",
       "programs": [
-        "LLEDM"
+        "MMAIMMKT"
       ]
     },
     {
-      "job_title": "Educator",
+      "job_title": "DevOps Engineer",
       "programs": [
-        "LLEDM"
+        "CSCMCS"
       ]
     },
     {
-      "job_title": "Teacher",
+      "job_title": "Cyber Security Engineer",
       "programs": [
-        "LLEDM"
+        "CSCMCS"
+      ]
+    },
+    {
+      "job_title": "Cloud Architect",
+      "programs": [
+        "CSCMCS"
+      ]
+    },
+    {
+      "job_title": "Enterprise Systems Administrator",
+      "programs": [
+        "CSCMCS"
+      ]
+    },
+    {
+      "job_title": "Data Science Engineer",
+      "programs": [
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Data Officer",
+      "programs": [
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Data Architect",
+      "programs": [
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Data Processing Manager",
+      "programs": [
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Data Operations Director",
+      "programs": [
+        "DAANBDSYS"
+      ]
+    },
+    {
+      "job_title": "Engineering Group Manager",
+      "programs": [
+        "MSME"
+      ]
+    },
+    {
+      "job_title": "Project Engineer",
+      "programs": [
+        "MSME"
+      ]
+    },
+    {
+      "job_title": "Mechanical Design Engineer",
+      "programs": [
+        "MSME"
+      ]
+    },
+    {
+      "job_title": "Mechanical Engineering Manager",
+      "programs": [
+        "MSME"
+      ]
+    },
+    {
+      "job_title": "Nuclear Design Engineer",
+      "programs": [
+        "NUC E"
+      ]
+    },
+    {
+      "job_title": "Analytical Research Program Manager",
+      "programs": [
+        "NUC E"
+      ]
+    },
+    {
+      "job_title": "Nuclear Reactor Engineer",
+      "programs": [
+        "NUC E"
+      ]
+    },
+    {
+      "job_title": "Nuclear Engineer",
+      "programs": [
+        "NUC E"
       ]
     },
     {
@@ -3046,244 +3296,7 @@
       ]
     },
     {
-      "job_title": "Chief Executive Officer (CEO)",
-      "programs": [
-        "MBADMMBA",
-        "SMEXLMMGT"
-      ]
-    },
-    {
-      "job_title": "Executive Director",
-      "programs": [
-        "MBADMMBA",
-        "SMEXLMMGT"
-      ]
-    },
-    {
-      "job_title": "Management Consultant",
-      "programs": [
-        "MBADMMBA"
-      ]
-    },
-    {
-      "job_title": "Brand Manager",
-      "programs": [
-        "MMAIMMKT"
-      ]
-    },
-    {
-      "job_title": "Marketing Analyst",
-      "programs": [
-        "MMAIMMKT"
-      ]
-    },
-    {
-      "job_title": "Marketing Consultant",
-      "programs": [
-        "MMAIMMKT"
-      ]
-    },
-    {
-      "job_title": "SEO Strategist (Search Engine Optimization Strategist)",
-      "programs": [
-        "MMAIMMKT",
-        "MRKTBS"
-      ]
-    },
-    {
-      "job_title": "Community Organizer",
-      "programs": [
-        "MPCED"
-      ]
-    },
-    {
-      "job_title": "Community Services Director",
-      "programs": [
-        "MPCED"
-      ]
-    },
-    {
-      "job_title": "Nonprofit Director",
-      "programs": [
-        "MPCED",
-        "P ADM"
-      ]
-    },
-    {
-      "job_title": "Social Services Director",
-      "programs": [
-        "MPCED",
-        "P ADM",
-        "MSWMSW"
-      ]
-    },
-    {
-      "job_title": "Green Building Design Specialist",
-      "programs": [
-        "MPSGEO"
-      ]
-    },
-    {
-      "job_title": "Sustainable Communities Designer",
-      "programs": [
-        "MPSGEO"
-      ]
-    },
-    {
-      "job_title": "Sustainable Design Consultant",
-      "programs": [
-        "MPSGEO"
-      ]
-    },
-    {
-      "job_title": "Urban Design Consultant",
-      "programs": [
-        "MPSGEO"
-      ]
-    },
-    {
-      "job_title": "Management Development Specialist",
-      "programs": [
-        "MPSODC"
-      ]
-    },
-    {
-      "job_title": "Staff Development Director",
-      "programs": [
-        "MPSODC"
-      ]
-    },
-    {
-      "job_title": "Talent Development Manager",
-      "programs": [
-        "MPSODC"
-      ]
-    },
-    {
-      "job_title": "Workforce Development Program Director",
-      "programs": [
-        "MPSODC"
-      ]
-    },
-    {
-      "job_title": "Agricultural Research Technologist",
-      "programs": [
-        "MPSTM"
-      ]
-    },
-    {
-      "job_title": "Field Agronomist",
-      "programs": [
-        "MPSTM"
-      ]
-    },
-    {
-      "job_title": "Golf Course Manager",
-      "programs": [
-        "MPSTM",
-        "TURF3"
-      ]
-    },
-    {
-      "job_title": "Golf Course Superintendent",
-      "programs": [
-        "MPSTM",
-        "TURF3"
-      ]
-    },
-    {
-      "job_title": "Seed and Fertilizer Specialist",
-      "programs": [
-        "MPSTM"
-      ]
-    },
-    {
-      "job_title": "Marketing Manager",
-      "programs": [
-        "MRKTBS"
-      ]
-    },
-    {
-      "job_title": "Engineering Group Manager",
-      "programs": [
-        "MSME"
-      ]
-    },
-    {
-      "job_title": "Mechanical Design Engineer",
-      "programs": [
-        "MSME"
-      ]
-    },
-    {
-      "job_title": "Mechanical Engineering Manager",
-      "programs": [
-        "MSME"
-      ]
-    },
-    {
-      "job_title": "Project Engineer",
-      "programs": [
-        "MSME"
-      ]
-    },
-    {
-      "job_title": "Nurse Practitioner (NP)",
-      "programs": [
-        "NDNPLDR",
-        "NDNPORT"
-      ]
-    },
-    {
-      "job_title": "ACNP (Acute Care Nurse Practitioner)",
-      "programs": [
-        "NDNPORT"
-      ]
-    },
-    {
-      "job_title": "Adult Nurse Practitioner",
-      "programs": [
-        "NDNPORT"
-      ]
-    },
-    {
-      "job_title": "Geriatric Nurse Practitioner",
-      "programs": [
-        "NDNPORT"
-      ]
-    },
-    {
-      "job_title": "Family Nurse Practitioner (FNP)",
-      "programs": [
-        "NDNPORT"
-      ]
-    },
-    {
-      "job_title": "Analytical Research Program Manager",
-      "programs": [
-        "NUC E"
-      ]
-    },
-    {
-      "job_title": "Nuclear Design Engineer",
-      "programs": [
-        "NUC E"
-      ]
-    },
-    {
-      "job_title": "Nuclear Engineer",
-      "programs": [
-        "NUC E"
-      ]
-    },
-    {
-      "job_title": "Nuclear Reactor Engineer",
-      "programs": [
-        "NUC E"
-      ]
-    },
-    {
-      "job_title": "Emergency Department RN (Emergency Department Registered Nurse)",
+      "job_title": "Staff RN (Staff Registered Nurse)",
       "programs": [
         "NURSBSNRN"
       ]
@@ -3295,9 +3308,40 @@
       ]
     },
     {
-      "job_title": "Staff RN (Staff Registered Nurse)",
+      "job_title": "Emergency Department RN (Emergency Department Registered Nurse)",
       "programs": [
         "NURSBSNRN"
+      ]
+    },
+    {
+      "job_title": "Nurse Practitioner (NP)",
+      "programs": [
+        "NDNPLDR",
+        "NDNPORT"
+      ]
+    },
+    {
+      "job_title": "Geriatric Nurse Practitioner",
+      "programs": [
+        "NDNPORT"
+      ]
+    },
+    {
+      "job_title": "ACNP (Acute Care Nurse Practitioner)",
+      "programs": [
+        "NDNPORT"
+      ]
+    },
+    {
+      "job_title": "Family Nurse Practitioner (FNP)",
+      "programs": [
+        "NDNPORT"
+      ]
+    },
+    {
+      "job_title": "Adult Nurse Practitioner",
+      "programs": [
+        "NDNPORT"
       ]
     },
     {
@@ -3307,7 +3351,7 @@
       ]
     },
     {
-      "job_title": "Clinical Nutritionist",
+      "job_title": "Registered Dietitian Nutritionist",
       "programs": [
         "NUTRMPS"
       ]
@@ -3325,49 +3369,37 @@
       ]
     },
     {
-      "job_title": "Registered Dietitian Nutritionist",
+      "job_title": "Clinical Nutritionist",
       "programs": [
         "NUTRMPS"
       ]
     },
     {
-      "job_title": "Account Manager",
+      "job_title": "Workforce Development Program Director",
       "programs": [
-        "OLEAD",
-        "OLEADBA"
+        "MPSODC"
       ]
     },
     {
-      "job_title": "Client Relationship Manager",
+      "job_title": "Talent Development Manager",
       "programs": [
-        "OLEAD",
-        "OLEADBA"
+        "MPSODC"
       ]
     },
     {
-      "job_title": "Development Director",
+      "job_title": "Staff Development Director",
       "programs": [
-        "OLEAD",
-        "OLEADBA",
-        "P ADM"
+        "MPSODC"
       ]
     },
     {
-      "job_title": "Regional Sales Manager",
+      "job_title": "Management Development Specialist",
       "programs": [
-        "OLEAD",
-        "OLEADBA"
+        "MPSODC"
       ]
     },
     {
-      "job_title": "Corporate Communications Specialist",
-      "programs": [
-        "ORPCMBA",
-        "ORPCMBS"
-      ]
-    },
-    {
-      "job_title": "Technical Writer",
+      "job_title": "Media Relations Specialist",
       "programs": [
         "ORPCMBA",
         "ORPCMBS"
@@ -3381,7 +3413,21 @@
       ]
     },
     {
-      "job_title": "Media Relations Specialist",
+      "job_title": "Technical Writer",
+      "programs": [
+        "ORPCMBA",
+        "ORPCMBS"
+      ]
+    },
+    {
+      "job_title": "Corporate Communications Specialist",
+      "programs": [
+        "ORPCMBA",
+        "ORPCMBS"
+      ]
+    },
+    {
+      "job_title": "Speech Writer",
       "programs": [
         "ORPCMBA",
         "ORPCMBS"
@@ -3402,13 +3448,6 @@
       ]
     },
     {
-      "job_title": "Speech Writer",
-      "programs": [
-        "ORPCMBA",
-        "ORPCMBS"
-      ]
-    },
-    {
       "job_title": "Marketing Communications Specialist",
       "programs": [
         "ORPCMBA",
@@ -3416,44 +3455,36 @@
       ]
     },
     {
-      "job_title": "Public Affairs Director",
+      "job_title": "Development Director",
       "programs": [
-        "P ADM",
-        "STCOMMPS"
-      ]
-    },
-    {
-      "job_title": "Public Works Director",
-      "programs": [
+        "OLEADBA",
+        "OLEAD",
         "P ADM"
       ]
     },
     {
-      "job_title": "Community Health Program Director",
+      "job_title": "Client Relationship Manager",
       "programs": [
-        "PHMPH"
+        "OLEADBA",
+        "OLEAD"
       ]
     },
     {
-      "job_title": "Public Health Advisor",
+      "job_title": "Account Manager",
       "programs": [
-        "PHMPH"
+        "OLEADBA",
+        "OLEAD"
       ]
     },
     {
-      "job_title": "Public Health Educator",
+      "job_title": "Regional Sales Manager",
       "programs": [
-        "PHMPH"
+        "OLEADBA",
+        "OLEAD"
       ]
     },
     {
-      "job_title": "Public Health Policy Analyst",
-      "programs": [
-        "PHMPH"
-      ]
-    },
-    {
-      "job_title": "Government Affairs Specialist",
+      "job_title": "Political Science Research Assistant",
       "programs": [
         "PL SC",
         "PLSBS"
@@ -3467,7 +3498,7 @@
       ]
     },
     {
-      "job_title": "Political Science Research Assistant",
+      "job_title": "Government Affairs Specialist",
       "programs": [
         "PL SC",
         "PLSBS"
@@ -3488,6 +3519,44 @@
       ]
     },
     {
+      "job_title": "Business Operations Analyst",
+      "programs": [
+        "PSCMBS"
+      ]
+    },
+    {
+      "job_title": "Project Manager",
+      "programs": [
+        "PSCMBS",
+        "PMPO"
+      ]
+    },
+    {
+      "job_title": "Production Control Manager",
+      "programs": [
+        "PSCMBS"
+      ]
+    },
+    {
+      "job_title": "Logistics Operations Manager",
+      "programs": [
+        "PSCMBS"
+      ]
+    },
+    {
+      "job_title": "Global Logistics Analyst",
+      "programs": [
+        "PSCMBS",
+        "SCMMSCM"
+      ]
+    },
+    {
+      "job_title": "Project Management Specialist",
+      "programs": [
+        "PMPO"
+      ]
+    },
+    {
       "job_title": "Project Administrator",
       "programs": [
         "PMPO"
@@ -3500,16 +3569,17 @@
       ]
     },
     {
-      "job_title": "Project Management Specialist",
+      "job_title": "Survey Research Consultant",
       "programs": [
-        "PMPO"
+        "PSYBA",
+        "PSYBS"
       ]
     },
     {
-      "job_title": "Project Manager",
+      "job_title": "Research Interviewer",
       "programs": [
-        "PMPO",
-        "PSCMBS"
+        "PSYBA",
+        "PSYBS"
       ]
     },
     {
@@ -3527,51 +3597,50 @@
       ]
     },
     {
-      "job_title": "Research Interviewer",
+      "job_title": "Public Works Director",
       "programs": [
-        "PSYBA",
-        "PSYBS"
+        "P ADM"
       ]
     },
     {
-      "job_title": "Survey Research Consultant",
+      "job_title": "Public Affairs Director",
       "programs": [
-        "PSYBA",
-        "PSYBS"
+        "P ADM",
+        "STCOMMPS"
       ]
     },
     {
-      "job_title": "Sustainability Analyst",
+      "job_title": "Community Health Program Director",
       "programs": [
-        "RESS"
+        "PHMPH"
       ]
     },
     {
-      "job_title": "Sustainability Program Manager",
+      "job_title": "Public Health Policy Analyst",
       "programs": [
-        "RESS"
+        "PHMPH"
       ]
     },
     {
-      "job_title": "Energy and Sustainability Strategic Advisor",
+      "job_title": "Public Health Advisor",
       "programs": [
-        "RESS"
+        "PHMPH"
       ]
     },
     {
-      "job_title": "Renewable Energy Specialist",
+      "job_title": "Public Health Educator",
       "programs": [
-        "RESS"
+        "PHMPH"
       ]
     },
     {
-      "job_title": "Hotel Recreational Facilities Manager",
+      "job_title": "Parks Recreation Director",
       "programs": [
         "RPTMBS"
       ]
     },
     {
-      "job_title": "Parks Recreation Director",
+      "job_title": "Hotel Recreational Facilities Manager",
       "programs": [
         "RPTMBS"
       ]
@@ -3595,58 +3664,45 @@
       ]
     },
     {
-      "job_title": "Global Logistics Analyst",
+      "job_title": "Sustainability Analyst",
       "programs": [
-        "SCMMSCM",
-        "PSCMBS"
+        "RESS"
       ]
     },
     {
-      "job_title": "Global Supply Chain Director",
+      "job_title": "Energy and Sustainability Strategic Advisor",
       "programs": [
-        "SCMMSCM"
+        "RESS"
       ]
     },
     {
-      "job_title": "Logistics Director",
+      "job_title": "Renewable Energy Specialist",
       "programs": [
-        "SCMMSCM"
+        "RESS"
       ]
     },
     {
-      "job_title": "Logistics Management Analyst",
+      "job_title": "Sustainability Program Manager",
       "programs": [
-        "SCMMSCM"
+        "RESS"
       ]
     },
     {
-      "job_title": "Supply Chain Analyst",
+      "job_title": "IT Security Analyst",
       "programs": [
-        "SCMMSCM"
+        "SRA"
       ]
     },
     {
-      "job_title": "GIS Software Developer",
+      "job_title": "Information Analyst",
       "programs": [
-        "SDSMS"
+        "SRA"
       ]
     },
     {
-      "job_title": "Geographic Data Visualization Specialist",
+      "job_title": "Hospice Social Worker",
       "programs": [
-        "SDSMS"
-      ]
-    },
-    {
-      "job_title": "GIS/Geospatial Data Engineer",
-      "programs": [
-        "SDSMS"
-      ]
-    },
-    {
-      "job_title": "Spatial Data Scientist",
-      "programs": [
-        "SDSMS"
+        "MSWMSW"
       ]
     },
     {
@@ -3668,25 +3724,19 @@
       ]
     },
     {
-      "job_title": "Child Protective Services Social Worker",
-      "programs": [
-        "MSWMSW"
-      ]
-    },
-    {
       "job_title": "Substance Abuse Counselor",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "job_title": "Hospice Social Worker",
+      "job_title": "Health Care Social Worker",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "job_title": "Health Care Social Worker",
+      "job_title": "Child Protective Services Social Worker",
       "programs": [
         "MSWMSW"
       ]
@@ -3711,15 +3761,39 @@
       ]
     },
     {
-      "job_title": "Management Analyst",
+      "job_title": "Software Development Director",
       "programs": [
-        "SMEXLMMGT"
+        "SWENG"
       ]
     },
     {
-      "job_title": "Organizational Development Consultant",
+      "job_title": "Software Project Manager",
       "programs": [
-        "SMEXLMMGT"
+        "SWENG"
+      ]
+    },
+    {
+      "job_title": "GIS Software Developer",
+      "programs": [
+        "SDSMS"
+      ]
+    },
+    {
+      "job_title": "Geographic Data Visualization Specialist",
+      "programs": [
+        "SDSMS"
+      ]
+    },
+    {
+      "job_title": "GIS/Geospatial Data Engineer",
+      "programs": [
+        "SDSMS"
+      ]
+    },
+    {
+      "job_title": "Spatial Data Scientist",
+      "programs": [
+        "SDSMS"
       ]
     },
     {
@@ -3753,49 +3827,19 @@
       ]
     },
     {
-      "job_title": "Information Analyst",
-      "programs": [
-        "SRA"
-      ]
-    },
-    {
-      "job_title": "IT Security Analyst",
-      "programs": [
-        "SRA"
-      ]
-    },
-    {
-      "job_title": "Communications Director",
-      "programs": [
-        "STCOMMPS"
-      ]
-    },
-    {
-      "job_title": "Promotions Director",
-      "programs": [
-        "STCOMMPS"
-      ]
-    },
-    {
-      "job_title": "Public Relations Director (PR Director)",
-      "programs": [
-        "STCOMMPS"
-      ]
-    },
-    {
-      "job_title": "Content Manager",
-      "programs": [
-        "STCOMMPS"
-      ]
-    },
-    {
-      "job_title": "Communications Manager",
+      "job_title": "Communications Specialist",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "job_title": "Communications Specialist",
+      "job_title": "Public Relations Specialist (PR Specialist)",
+      "programs": [
+        "STRCMBA"
+      ]
+    },
+    {
+      "job_title": "Communications Manager",
       "programs": [
         "STRCMBA"
       ]
@@ -3819,21 +3863,69 @@
       ]
     },
     {
-      "job_title": "Public Relations Specialist (PR Specialist)",
+      "job_title": "Content Manager",
       "programs": [
-        "STRCMBA"
+        "STCOMMPS"
       ]
     },
     {
-      "job_title": "Software Development Director",
+      "job_title": "Public Relations Director (PR Director)",
       "programs": [
-        "SWENG"
+        "STCOMMPS"
       ]
     },
     {
-      "job_title": "Software Project Manager",
+      "job_title": "Promotions Director",
       "programs": [
-        "SWENG"
+        "STCOMMPS"
+      ]
+    },
+    {
+      "job_title": "Communications Director",
+      "programs": [
+        "STCOMMPS"
+      ]
+    },
+    {
+      "job_title": "Management Analyst",
+      "programs": [
+        "SMEXLMMGT"
+      ]
+    },
+    {
+      "job_title": "Organizational Development Consultant",
+      "programs": [
+        "SMEXLMMGT"
+      ]
+    },
+    {
+      "job_title": "Global Supply Chain Director",
+      "programs": [
+        "SCMMSCM"
+      ]
+    },
+    {
+      "job_title": "Logistics Director",
+      "programs": [
+        "SCMMSCM"
+      ]
+    },
+    {
+      "job_title": "Supply Chain Analyst",
+      "programs": [
+        "SCMMSCM"
+      ]
+    },
+    {
+      "job_title": "Logistics Management Analyst",
+      "programs": [
+        "SCMMSCM"
+      ]
+    },
+    {
+      "job_title": "Systems Engineer",
+      "programs": [
+        "SYSEN"
       ]
     },
     {
@@ -3861,27 +3953,15 @@
       ]
     },
     {
-      "job_title": "System Architect",
-      "programs": [
-        "SYSEN"
-      ]
-    },
-    {
       "job_title": "Systems Analyst",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "job_title": "Systems Engineer",
+      "job_title": "System Architect",
       "programs": [
         "SYSEN"
-      ]
-    },
-    {
-      "job_title": "Revenue Tax Specialist",
-      "programs": [
-        "TAXMTAX"
       ]
     },
     {
@@ -3897,8 +3977,40 @@
       ]
     },
     {
-      "job_title": "Grounds Maintenance Supervisor",
+      "job_title": "Revenue Tax Specialist",
       "programs": [
+        "TAXMTAX"
+      ]
+    },
+    {
+      "job_title": "Golf Course Manager",
+      "programs": [
+        "MPSTM",
+        "TURF3"
+      ]
+    },
+    {
+      "job_title": "Field Agronomist",
+      "programs": [
+        "MPSTM"
+      ]
+    },
+    {
+      "job_title": "Seed and Fertilizer Specialist",
+      "programs": [
+        "MPSTM"
+      ]
+    },
+    {
+      "job_title": "Agricultural Research Technologist",
+      "programs": [
+        "MPSTM"
+      ]
+    },
+    {
+      "job_title": "Golf Course Superintendent",
+      "programs": [
+        "MPSTM",
         "TURF3"
       ]
     },
@@ -3915,167 +4027,45 @@
       ]
     },
     {
-      "job_title": "Logistics Operations Manager",
+      "job_title": "Grounds Maintenance Supervisor",
       "programs": [
-        "PSCMBS"
+        "TURF3"
       ]
     },
     {
-      "job_title": "Production Control Manager",
+      "job_title": "Grounds Foreman",
       "programs": [
-        "PSCMBS"
+        "2 TSM"
       ]
     },
     {
-      "job_title": "Business Operations Analyst",
+      "job_title": "Lawn Technician",
       "programs": [
-        "PSCMBS"
+        "2 TSM"
       ]
     },
     {
-      "job_title": "Business Analyst",
+      "job_title": "Lawn Service Supervisor",
       "programs": [
-        "FDTANBS"
+        "2 TSM"
       ]
     },
     {
-      "job_title": "Market Research Analyst",
+      "job_title": "Groundskeeper",
       "programs": [
-        "FDTANBS"
+        "2 TSM"
       ]
     },
     {
-      "job_title": "Credit Risk Analyst",
+      "job_title": "Grounds Crew Supervisor",
       "programs": [
-        "FDTANBS"
+        "2 TSM"
       ]
     },
     {
-      "job_title": "Planning Analyst",
+      "job_title": "Integrated Pest Management Technician (IPM Technician)",
       "programs": [
-        "FDTANBS"
-      ]
-    },
-    {
-      "job_title": "Business Intelligence Analyst",
-      "programs": [
-        "FDTANBS",
-        "DAANBUSAN"
-      ]
-    },
-    {
-      "job_title": "Technical Analyst",
-      "programs": [
-        "FDTANBS"
-      ]
-    },
-    {
-      "job_title": "Information Systems Analyst",
-      "programs": [
-        "ETCHIBS"
-      ]
-    },
-    {
-      "job_title": "Database Analyst",
-      "programs": [
-        "ETCHIBS"
-      ]
-    },
-    {
-      "job_title": "Programmer Analyst",
-      "programs": [
-        "ETCHIBS"
-      ]
-    },
-    {
-      "job_title": "Business Technology Consultant",
-      "programs": [
-        "ETCHIBS"
-      ]
-    },
-    {
-      "job_title": "Business Technology Analyst",
-      "programs": [
-        "ETCHIBS"
-      ]
-    },
-    {
-      "job_title": "Application Systems Integrator",
-      "programs": [
-        "ETCHIBS"
-      ]
-    },
-    {
-      "job_title": "Enrollment Management Vice President",
-      "programs": [
-        "EDUCDED"
-      ]
-    },
-    {
-      "job_title": "Instructional Technology Director",
-      "programs": [
-        "EDUCDED"
-      ]
-    },
-    {
-      "job_title": "Career Development Counselor",
-      "programs": [
-        "EDUCDED"
-      ]
-    },
-    {
-      "job_title": "Higher Education Administrator",
-      "programs": [
-        "EDUCDED"
-      ]
-    },
-    {
-      "job_title": "Data Architect",
-      "programs": [
-        "DAANBDSYS"
-      ]
-    },
-    {
-      "job_title": "Data Engineer",
-      "programs": [
-        "DAANBDSYS",
-        "DAANMDA"
-      ]
-    },
-    {
-      "job_title": "Data Officer",
-      "programs": [
-        "DAANBDSYS"
-      ]
-    },
-    {
-      "job_title": "Data Operations Director",
-      "programs": [
-        "DAANBDSYS"
-      ]
-    },
-    {
-      "job_title": "Data Processing Manager",
-      "programs": [
-        "DAANBDSYS"
-      ]
-    },
-    {
-      "job_title": "Data Science Engineer",
-      "programs": [
-        "DAANBDSYS"
-      ]
-    },
-    {
-      "job_title": "Information Modeling Specialist",
-      "programs": [
-        "DAANMDA"
-      ]
-    },
-    {
-      "job_title": "Actuarial Analyst",
-      "programs": [
-        "DAANBUSAN"
+        "2 TSM"
       ]
     }
   ]
