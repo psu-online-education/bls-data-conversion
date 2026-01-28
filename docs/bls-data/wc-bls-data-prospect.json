@@ -3291,24 +3291,29 @@
     {
       "job_title": "Progressive Care Unit RN (Progressive Care Unit Registered Nurse)",
       "programs": [
-        "M S N",
-        "NURSBSNRN"
+        "M S N"
       ]
     },
     {
-      "job_title": "Staff RN (Staff Registered Nurse)",
+      "job_title": "Nursing Supervisor",
       "programs": [
         "NURSBSNRN"
       ]
     },
     {
-      "job_title": "School Nurse",
+      "job_title": "Charge Nurse ",
       "programs": [
         "NURSBSNRN"
       ]
     },
     {
-      "job_title": "Emergency Department RN (Emergency Department Registered Nurse)",
+      "job_title": "Nurse Coordinator ",
+      "programs": [
+        "NURSBSNRN"
+      ]
+    },
+    {
+      "job_title": "Staff Nurse Team Leader ",
       "programs": [
         "NURSBSNRN"
       ]
