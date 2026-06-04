@@ -1497,11 +1497,6 @@
   ],
   "job_titles": [
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Accountant",
       "programs": [
         "ACCTBS",
@@ -1510,22 +1505,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Auditor",
       "programs": [
         "ACCTBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Budget Analyst",
       "programs": [
         "ACCTBS",
@@ -1535,22 +1520,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Budget Coordinator",
       "programs": [
         "ACCTBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Credit Analyst",
       "programs": [
         "ACCTBS",
@@ -1558,22 +1533,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Accounting Officer",
       "programs": [
         "ACCTMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Budget Officer",
       "programs": [
         "ACCTMS",
@@ -1581,11 +1546,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Internal Auditor",
       "programs": [
         "ACCTMS",
@@ -1593,33 +1553,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Acoustic Engineer",
       "programs": [
         "ACS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Application Engineer",
       "programs": [
         "ACS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Design Engineer",
       "programs": [
         "ACS",
@@ -1628,33 +1573,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Advanced Manufacturing Engineer",
       "programs": [
         "AMDMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Manufacturing Process Engineer",
       "programs": [
         "AMDMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Process Engineering Manager",
       "programs": [
         "AMDMENG",
@@ -1664,77 +1594,42 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Farm Business Management Agent",
       "programs": [
         "AGBM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Farm Manager",
       "programs": [
         "AGBM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Field Operations Farm Manager",
       "programs": [
         "AGBM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Greenhouse Manager",
       "programs": [
         "AGBM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nursery Manager",
       "programs": [
         "AGBM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Ranch Manager",
       "programs": [
         "AGBM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Analyst",
       "programs": [
         "ASTAT",
@@ -1744,11 +1639,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Statistical Analyst",
       "programs": [
         "ASTAT",
@@ -1756,33 +1646,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Statistical Reporting Analyst",
       "programs": [
         "ASTAT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Statistician",
       "programs": [
         "ASTAT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Application Integration Engineer",
       "programs": [
         "AIMAI",
@@ -1791,11 +1666,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Application Programmer Analyst",
       "programs": [
         "AIMAI",
@@ -1803,22 +1673,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Artificial Intelligence Specialist",
       "programs": [
         "AIMAI"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Scientist",
       "programs": [
         "AIMAI",
@@ -1828,22 +1688,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Machine Learning Engineer",
       "programs": [
         "AIMAI"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Software Development Engineer",
       "programs": [
         "AIMAI",
@@ -1853,88 +1703,48 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Biomedical Research Assistant",
       "programs": [
         "BBHBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Community Health Consultant",
       "programs": [
         "BBHBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Community Health Program Coordinator",
       "programs": [
         "BBHBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Advocate",
       "programs": [
         "BBHBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Education Coordinator",
       "programs": [
         "BBHBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Education Specialist",
       "programs": [
         "BBHBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Administrative Director",
       "programs": [
         "BSBIC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Manager",
       "programs": [
         "BSBIC",
@@ -1943,11 +1753,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "General Manager (GM)",
       "programs": [
         "BSBIC",
@@ -1956,11 +1761,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Operations Director",
       "programs": [
         "BSBIC",
@@ -1968,11 +1768,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Operations Manager",
       "programs": [
         "BSBIC",
@@ -1980,11 +1775,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Chief Executive Officer (CEO)",
       "programs": [
         "MBADMMBA",
@@ -1992,11 +1782,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Executive Director",
       "programs": [
         "MBADMMBA",
@@ -2004,143 +1789,78 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Management Consultant",
       "programs": [
         "MBADMMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Operations Supervisor",
       "programs": [
         "2BACC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Product Line Manager",
       "programs": [
         "2BACC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Sales Supervisor",
       "programs": [
         "2BACC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Store Manager",
       "programs": [
         "2BACC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Warehouse Supervisor",
       "programs": [
         "2BACC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "City Engineer",
       "programs": [
         "CEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Facilities Engineer",
       "programs": [
         "CEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Highway Design Engineer",
       "programs": [
         "CEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Structural Design Engineer",
       "programs": [
         "CEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Civil Engineering Manager",
       "programs": [
         "CEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Transportation Engineer",
       "programs": [
         "CEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Engineer",
       "programs": [
         "CEMENG",
@@ -2148,33 +1868,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Community Organizer",
       "programs": [
         "MPCED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Community Services Director",
       "programs": [
         "MPCED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nonprofit Director",
       "programs": [
         "MPCED",
@@ -2182,11 +1887,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Social Services Director",
       "programs": [
         "MPCED",
@@ -2195,22 +1895,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Development Director",
       "programs": [
         "CIENTMMGT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Development Manager",
       "programs": [
         "CIENTMMGT",
@@ -2218,33 +1908,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Chief Innovation Officer",
       "programs": [
         "CIENTMMGT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Product Development Director",
       "programs": [
         "CIENTMMGT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research and Development Director",
       "programs": [
         "CIENTMMGT",
@@ -2252,11 +1927,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Correctional Supervisor",
       "programs": [
         "2CJCAAS",
@@ -2264,110 +1934,60 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Law Enforcement Officer",
       "programs": [
         "2CJCAAS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Loss Prevention Officer",
       "programs": [
         "2CJCAAS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Security Officer",
       "programs": [
         "2CJCAAS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Criminal Investigator",
       "programs": [
         "4CRMJ"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Detective",
       "programs": [
         "4CRMJ"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Police Officer",
       "programs": [
         "4CRMJ"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Correctional Counselor",
       "programs": [
         "CJPAMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Criminalist",
       "programs": [
         "CJPAMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Probation and Parole Officer",
       "programs": [
         "CJPAMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Safety Director",
       "programs": [
         "CJPAMPS",
@@ -2377,66 +1997,36 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Curriculum and Instruction Director",
       "programs": [
         "LLEDM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Curriculum Coordinator",
       "programs": [
         "LLEDM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Curriculum Director",
       "programs": [
         "LLEDM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Educator",
       "programs": [
         "LLEDM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Teacher",
       "programs": [
         "LLEDM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Cyber Analyst",
       "programs": [
         "CAOWCBS",
@@ -2445,22 +2035,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Security Officer",
       "programs": [
         "CAOWCBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Security Specialist",
       "programs": [
         "CAOWCBS",
@@ -2469,11 +2049,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Systems Security Analyst",
       "programs": [
         "CAOWCBS",
@@ -2482,11 +2057,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Systems Security Officer (ISSO)",
       "programs": [
         "CAOWCBS",
@@ -2494,22 +2064,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Technology Security Analyst (IT Security Analyst)",
       "programs": [
         "CAOWCBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Network Security Analyst",
       "programs": [
         "CAOWCBS",
@@ -2518,22 +2078,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Cybersecurity Project Manager",
       "programs": [
         "CYMPSMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Systems Director (IS Director)",
       "programs": [
         "CYMPSMPS",
@@ -2541,11 +2091,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Intelligence Analyst",
       "programs": [
         "CYMPSMPS",
@@ -2553,11 +2098,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Network and Security Engineer",
       "programs": [
         "CYMPSMPS",
@@ -2565,22 +2105,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Actuarial Analyst",
       "programs": [
         "DAANBUSAN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Intelligence Analyst",
       "programs": [
         "DAANBUSAN",
@@ -2588,11 +2118,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Architect",
       "programs": [
         "DAANBUSAN",
@@ -2602,11 +2127,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Digital Marketing Strategist",
       "programs": [
         "DAANMRKAN",
@@ -2615,11 +2135,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Market Analyst",
       "programs": [
         "DAANMRKAN",
@@ -2629,22 +2144,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Market Intelligence Analyst",
       "programs": [
         "DAANMRKAN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Marketing and Promotions Manager",
       "programs": [
         "DAANMRKAN",
@@ -2652,11 +2157,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Marketing Director",
       "programs": [
         "DAANMRKAN",
@@ -2664,11 +2164,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Engineer",
       "programs": [
         "DAANMDA",
@@ -2676,154 +2171,84 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Modeling Specialist",
       "programs": [
         "DAANMDA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Digital Media Production Manager",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Digital Media Programming Director",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Journalist",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Reporter",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Social Media Strategist",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Web Editor",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Creative Director",
       "programs": [
         "DIGMDBDES"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Design Director",
       "programs": [
         "DIGMDBDES"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Digital Media Designer",
       "programs": [
         "DIGMDBDES"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Graphic Artist",
       "programs": [
         "DIGMDBDES"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "User Experience (UX) Designer",
       "programs": [
         "DIGMDBDES"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Web Designer",
       "programs": [
         "DIGMDBDES"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Economic Analyst",
       "programs": [
         "ECLBA",
@@ -2831,11 +2256,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research Analyst",
       "programs": [
         "ECLBA",
@@ -2843,22 +2263,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Environmental Consultant",
       "programs": [
         "EMGTMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Environmental Policy Analyst",
       "programs": [
         "EMGTMPS",
@@ -2866,11 +2276,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Environmental Programs Specialist",
       "programs": [
         "EMGTMPS",
@@ -2880,11 +2285,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Natural Resource Manager",
       "programs": [
         "EMGTMPS",
@@ -2893,22 +2293,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Resource Conservationist",
       "programs": [
         "EMGTMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Academic Affairs Director",
       "programs": [
         "EDUCDED",
@@ -2916,55 +2306,30 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Career Development Counselor",
       "programs": [
         "EDUCDED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Enrollment Management Vice President",
       "programs": [
         "EDUCDED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Higher Education Administrator",
       "programs": [
         "EDUCDED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Instructional Technology Director",
       "programs": [
         "EDUCDED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Learning Development Specialist",
       "programs": [
         "EDUCDED",
@@ -2972,132 +2337,72 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Education Coordinator",
       "programs": [
         "EDLDR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Education Director",
       "programs": [
         "EDLDR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Lead Teacher",
       "programs": [
         "EDLDR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Principal",
       "programs": [
         "EDLDR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "School Administrator",
       "programs": [
         "EDLDR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Student Services Director",
       "programs": [
         "EDLDR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Electrical Controls Engineer",
       "programs": [
         "EEMEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Electrical Design Engineer",
       "programs": [
         "EEMEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Electrical Engineering Manager",
       "programs": [
         "EEMEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Electrical Project Engineer",
       "programs": [
         "EEMEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Power Systems Engineer",
       "programs": [
         "EEMEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Environmental Analyst",
       "programs": [
         "ESPBA",
@@ -3105,11 +2410,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Environmental Protection Specialist",
       "programs": [
         "ESPBA",
@@ -3117,11 +2417,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Resource Conservation Specialist",
       "programs": [
         "ESPBA",
@@ -3129,11 +2424,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Engineering Director",
       "programs": [
         "ENGRDENG",
@@ -3141,55 +2431,30 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Development Director",
       "programs": [
         "ENGRDENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research and Development Engineer",
       "programs": [
         "ENGRDENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research Engineer",
       "programs": [
         "ENGRDENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Engineering Program Manager",
       "programs": [
         "ENGMT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Engineering Manager",
       "programs": [
         "ENGMT",
@@ -3197,22 +2462,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Systems Analyst",
       "programs": [
         "EABTMEA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Computer Systems Analyst",
       "programs": [
         "EABTMEA",
@@ -3221,88 +2476,48 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Application Systems Integrator",
       "programs": [
         "ETCHIBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Technology Analyst",
       "programs": [
         "ETCHIBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Technology Consultant",
       "programs": [
         "ETCHIBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Database Analyst",
       "programs": [
         "ETCHIBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Systems Analyst",
       "programs": [
         "ETCHIBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Programmer Analyst",
       "programs": [
         "ETCHIBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Controller",
       "programs": [
         "FINBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Financial Analyst",
       "programs": [
         "FINBS",
@@ -3310,308 +2525,168 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Portfolio Manager",
       "programs": [
         "FINBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Chief Financial Officer (CFO)",
       "programs": [
         "FINAN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Corporate Controller",
       "programs": [
         "FINAN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Credit Administration Manager",
       "programs": [
         "FINAN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Financial Center Manager",
       "programs": [
         "FINAN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Analyst",
       "programs": [
         "FDTANBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Credit Risk Analyst",
       "programs": [
         "FDTANBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Market Research Analyst",
       "programs": [
         "FDTANBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Planning Analyst",
       "programs": [
         "FDTANBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Technical Analyst",
       "programs": [
         "FDTANBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Green Building Design Specialist",
       "programs": [
         "MPSGEO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Sustainable Communities Designer",
       "programs": [
         "MPSGEO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Sustainable Design Consultant",
       "programs": [
         "MPSGEO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Urban Design Consultant",
       "programs": [
         "MPSGEO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Digital Cartographer",
       "programs": [
         "GIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "GIS Consultant",
       "programs": [
         "GIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "GIS/Geospatial Analyst",
       "programs": [
         "GIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "LIDAR Analyst",
       "programs": [
         "GIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Photogrammetrist",
       "programs": [
         "GIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Remote Sensing Specialist",
       "programs": [
         "GIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Care Analyst",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Care Consultant",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Information Manager",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Hospital Unit Coordinator",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Medical Practice Manager",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Mental Health Program Manager",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Patient Services Director",
       "programs": [
         "HPABS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Clinical Director",
       "programs": [
         "H P A",
@@ -3619,121 +2694,66 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Care Facility Administrator",
       "programs": [
         "H P A"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Services Administrator",
       "programs": [
         "H P A"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Services Director",
       "programs": [
         "H P A"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Medicine and Health Service Manager",
       "programs": [
         "H P A"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Admissions Director",
       "programs": [
         "HIGHED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Financial Aid Director",
       "programs": [
         "HIGHED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Institutional Research Director",
       "programs": [
         "HIGHED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "County Historian",
       "programs": [
         "HISTBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Historic Sites Registrar",
       "programs": [
         "HISTBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Museum Educator",
       "programs": [
         "HISTBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research Associate",
       "programs": [
         "HISTBA",
@@ -3742,33 +2762,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Anti-Terrorist Analyst",
       "programs": [
         "HLSCTRTR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Counterintelligence Analyst",
       "programs": [
         "HLSCTRTR"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Emergency Preparedness Coordinator",
       "programs": [
         "HLSCTRTR",
@@ -3777,11 +2782,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Threat Intelligence Analyst",
       "programs": [
         "HLSCTRTR",
@@ -3789,11 +2789,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Security Analyst",
       "programs": [
         "HLSCTAP",
@@ -3801,22 +2796,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Forensic Computer Examiner",
       "programs": [
         "HLSIS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Geospatial Analyst",
       "programs": [
         "HLSGI",
@@ -3824,99 +2809,54 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Lidar Analyst",
       "programs": [
         "HLSGI"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Information Management Director",
       "programs": [
         "HLSPH"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Emergency Management Coordinator",
       "programs": [
         "HLSB"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Emergency Planner",
       "programs": [
         "HLSB"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Emergency Services Director",
       "programs": [
         "HLSB"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Community Organization Worker",
       "programs": [
         "2EHFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Early Childhood Teacher",
       "programs": [
         "2EHFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Pre-Kindergarten Teacher (Pre-K Teacher)",
       "programs": [
         "2EHFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Social Services Assistant",
       "programs": [
         "2EHFS",
@@ -3924,132 +2864,72 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Teacher Aide",
       "programs": [
         "2EHFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Child Development Teacher",
       "programs": [
         "HDFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Child Welfare Worker",
       "programs": [
         "HDFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Elder Care Assistant",
       "programs": [
         "HDFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Family Resource Coordinator",
       "programs": [
         "HDFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Youth Services Specialist",
       "programs": [
         "HDFS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Compensation and Benefits Director",
       "programs": [
         "HRERMHRER"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Human Resources Analyst",
       "programs": [
         "HRERMHRER"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Human Resources Director (HR Director)",
       "programs": [
         "HRERMHRER"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Labor Relations Director",
       "programs": [
         "HRERMHRER"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Talent Management Director",
       "programs": [
         "HRERMHRER"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Training and Development Director",
       "programs": [
         "HRERMHRER",
@@ -4057,11 +2937,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Human Factors Engineer",
       "programs": [
         "IEMENG",
@@ -4069,22 +2944,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Lean Manufacturing Engineer",
       "programs": [
         "IEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Process Improvement Engineer",
       "programs": [
         "IEMENG",
@@ -4092,66 +2957,36 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Quality Control Systems Manager",
       "programs": [
         "IEMENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Application Development Director",
       "programs": [
         "INSCMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Computing Services Director",
       "programs": [
         "INSCMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Technology Director (IT Director)",
       "programs": [
         "INSCMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "IT Project Manager (Information Technology Project Manager)",
       "programs": [
         "INSCMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Solutions Architect",
       "programs": [
         "INSCMS",
@@ -4159,154 +2994,84 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Records Manager",
       "programs": [
         "2 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Computer Network Specialist",
       "programs": [
         "2 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Technology Specialist (IT Specialist)",
       "programs": [
         "2 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Web Administrator",
       "programs": [
         "2 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Web Technologies Administrator",
       "programs": [
         "2 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Database Administrator (DBA)",
       "programs": [
         "4 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Database Architect",
       "programs": [
         "4 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Technology Manager (IT Manager)",
       "programs": [
         "4 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Systems Administrator",
       "programs": [
         "4 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Web Developer",
       "programs": [
         "4 IST"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Employment Representative",
       "programs": [
         "2LHRAS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "HR Coordinator (Human Resources Coordinator)",
       "programs": [
         "2LHRAS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Human Resources Assistant (HR Assistant)",
       "programs": [
         "2LHRAS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Labor Relations Specialist",
       "programs": [
         "2LHRAS",
@@ -4315,11 +3080,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Compensation and Benefits Manager",
       "programs": [
         "LHRBABA",
@@ -4327,11 +3087,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "HR Analyst (Human Resources Analyst)",
       "programs": [
         "LHRBABA",
@@ -4339,11 +3094,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Human Resources Manager (HR Manager)",
       "programs": [
         "LHRBABA",
@@ -4351,11 +3101,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Human Resources Specialist",
       "programs": [
         "LHRBABA",
@@ -4363,11 +3108,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Labor Mediator",
       "programs": [
         "LHRBABA",
@@ -4375,154 +3115,84 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Law Researcher",
       "programs": [
         "LAWSC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Legal Analyst",
       "programs": [
         "LAWSC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Legal Assistant",
       "programs": [
         "LAWSC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Legal Research Analyst",
       "programs": [
         "LAWSC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Educational Technology Specialist",
       "programs": [
         "LDT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "E-Learning Developer",
       "programs": [
         "LDT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Instructional Designer",
       "programs": [
         "LDT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Instructional Systems Specialist",
       "programs": [
         "LDT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Adult Basic Education Instructor (ABE Instructor)",
       "programs": [
         "LLAEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Education and Development Manager",
       "programs": [
         "LLAEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "GED Instructor (General Educational Development Instructor)",
       "programs": [
         "LLAEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Learning and Development Director",
       "programs": [
         "LLAEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Marketing Manager",
       "programs": [
         "MRKTBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "SEO Strategist (Search Engine Optimization Strategist)",
       "programs": [
         "MRKTBS",
@@ -4530,176 +3200,96 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Brand Manager",
       "programs": [
         "MMAIMMKT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Marketing Analyst",
       "programs": [
         "MMAIMMKT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Marketing Consultant",
       "programs": [
         "MMAIMMKT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Cloud Architect",
       "programs": [
         "CSCMCS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Cyber Security Engineer",
       "programs": [
         "CSCMCS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "DevOps Engineer",
       "programs": [
         "CSCMCS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Enterprise Systems Administrator",
       "programs": [
         "CSCMCS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Architect",
       "programs": [
         "DAANBDSYS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Officer",
       "programs": [
         "DAANBDSYS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Operations Director",
       "programs": [
         "DAANBDSYS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Processing Manager",
       "programs": [
         "DAANBDSYS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Data Science Engineer",
       "programs": [
         "DAANBDSYS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Engineering Group Manager",
       "programs": [
         "MSME"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Mechanical Design Engineer",
       "programs": [
         "MSME"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Mechanical Engineering Manager",
       "programs": [
         "MSME"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nuclear Design Engineer",
       "programs": [
         "NUCENUSEC",
@@ -4707,11 +3297,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nuclear Engineer",
       "programs": [
         "NUCENUSEC",
@@ -4719,11 +3304,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nuclear Reactor Engineer",
       "programs": [
         "NUCENUSEC",
@@ -4731,55 +3311,30 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nuclear Safety Engineer",
       "programs": [
         "NUCENUSEC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Analytical Research Program Manager",
       "programs": [
         "NUC E"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nurse Educator",
       "programs": [
         "M S N"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nurse Manager",
       "programs": [
         "M S N"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nursing Director",
       "programs": [
         "M S N",
@@ -4788,11 +3343,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nursing Instructor",
       "programs": [
         "M S N",
@@ -4800,11 +3350,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Progressive Care Unit RN (Progressive Care Unit Registered Nurse)",
       "programs": [
         "M S N",
@@ -4812,44 +3357,24 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Emergency Department RN (Emergency Department Registered Nurse)",
       "programs": [
         "NURSBSNRN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "School Nurse",
       "programs": [
         "NURSBSNRN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Staff RN (Staff Registered Nurse)",
       "programs": [
         "NURSBSNRN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nurse Practitioner (NP)",
       "programs": [
         "NDNPLDR",
@@ -4857,154 +3382,84 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "ACNP (Acute Care Nurse Practitioner)",
       "programs": [
         "NDNPORT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Adult Nurse Practitioner",
       "programs": [
         "NDNPORT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Family Nurse Practitioner (FNP)",
       "programs": [
         "NDNPORT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Geriatric Nurse Practitioner",
       "programs": [
         "NDNPORT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Clinical Dietitian",
       "programs": [
         "NUTRMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Clinical Nutritionist",
       "programs": [
         "NUTRMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Nutritionist",
       "programs": [
         "NUTRMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Registered Dietitian",
       "programs": [
         "NUTRMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Registered Dietitian Nutritionist",
       "programs": [
         "NUTRMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Management Development Specialist",
       "programs": [
         "MPSODC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Staff Development Director",
       "programs": [
         "MPSODC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Talent Development Manager",
       "programs": [
         "MPSODC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Workforce Development Program Director",
       "programs": [
         "MPSODC"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Communications Coordinator",
       "programs": [
         "ORPCMBA",
@@ -5012,11 +3467,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Corporate Communications Specialist",
       "programs": [
         "ORPCMBA",
@@ -5024,11 +3474,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Grant Writing Specialist",
       "programs": [
         "ORPCMBA",
@@ -5036,11 +3481,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Marketing Communications Specialist",
       "programs": [
         "ORPCMBA",
@@ -5048,11 +3488,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Media Relations Specialist",
       "programs": [
         "ORPCMBA",
@@ -5060,11 +3495,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Speech Writer",
       "programs": [
         "ORPCMBA",
@@ -5072,11 +3502,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Technical Writer",
       "programs": [
         "ORPCMBA",
@@ -5084,11 +3509,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Web Content Writer",
       "programs": [
         "ORPCMBA",
@@ -5096,11 +3516,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Account Manager",
       "programs": [
         "OLEADBA",
@@ -5108,11 +3523,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Client Relationship Manager",
       "programs": [
         "OLEADBA",
@@ -5120,11 +3530,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Development Director",
       "programs": [
         "OLEADBA",
@@ -5133,11 +3538,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Regional Sales Manager",
       "programs": [
         "OLEADBA",
@@ -5145,11 +3545,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Government Affairs Specialist",
       "programs": [
         "PL SC",
@@ -5157,11 +3552,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Policy Analyst",
       "programs": [
         "PL SC",
@@ -5169,11 +3559,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Political Science Research Assistant",
       "programs": [
         "PL SC",
@@ -5181,11 +3566,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research Aide",
       "programs": [
         "PL SC",
@@ -5193,11 +3573,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Social Research Assistant",
       "programs": [
         "PL SC",
@@ -5205,22 +3580,12 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Business Operations Analyst",
       "programs": [
         "PSCMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Global Logistics Analyst",
       "programs": [
         "PSCMBS",
@@ -5228,33 +3593,18 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Logistics Operations Manager",
       "programs": [
         "PSCMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Production Control Manager",
       "programs": [
         "PSCMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Manager",
       "programs": [
         "PSCMBS",
@@ -5262,44 +3612,24 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Administrator",
       "programs": [
         "PMPO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Controller",
       "programs": [
         "PMPO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Project Management Specialist",
       "programs": [
         "PMPO"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Research Interviewer",
       "programs": [
         "PSYBA",
@@ -5307,11 +3637,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Residential Counselor",
       "programs": [
         "PSYBA",
@@ -5319,11 +3644,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Survey Research Consultant",
       "programs": [
         "PSYBA",
@@ -5331,11 +3651,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Therapeutic Assistant",
       "programs": [
         "PSYBA",
@@ -5343,11 +3658,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Affairs Director",
       "programs": [
         "P ADM",
@@ -5355,286 +3665,156 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Works Director",
       "programs": [
         "P ADM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Community Health Program Director",
       "programs": [
         "PHMPH"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Health Advisor",
       "programs": [
         "PHMPH"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Health Educator",
       "programs": [
         "PHMPH"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Health Policy Analyst",
       "programs": [
         "PHMPH"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Convention Services Manager",
       "programs": [
         "RPTMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Hotel Recreational Facilities Manager",
       "programs": [
         "RPTMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Parks Recreation Director",
       "programs": [
         "RPTMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Recreation Coordinator",
       "programs": [
         "RPTMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Travel Consultant",
       "programs": [
         "RPTMBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Energy and Sustainability Strategic Advisor",
       "programs": [
         "RESS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Renewable Energy Specialist",
       "programs": [
         "RESS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Sustainability Analyst",
       "programs": [
         "RESS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Sustainability Program Manager",
       "programs": [
         "RESS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Analyst",
       "programs": [
         "SRA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "IT Security Analyst",
       "programs": [
         "SRA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Child Protective Services Social Worker",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Child Welfare Services Director",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Clinical Social Worker",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Health Care Social Worker",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Hospice Social Worker",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Social Work Case Manager",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Substance Abuse Counselor",
       "programs": [
         "MSWMSW"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Software Architect",
       "programs": [
         "SEBCBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Software Engineer",
       "programs": [
         "SEBCBS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Software Quality Assurance Engineer (SQA Engineer)",
       "programs": [
         "SEBCBS",
@@ -5642,440 +3822,240 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Software Development Director",
       "programs": [
         "SWENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Software Project Manager",
       "programs": [
         "SWENG"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Geographic Data Visualization Specialist",
       "programs": [
         "SDSMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "GIS Software Developer",
       "programs": [
         "SDSMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "GIS/Geospatial Data Engineer",
       "programs": [
         "SDSMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Spatial Data Scientist",
       "programs": [
         "SDSMS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Behavior Analyst",
       "programs": [
         "SPLEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Learning Disabilities Special Education Teacher (LD Special Education Teacher)",
       "programs": [
         "SPLEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Special Education Inclusion Teacher",
       "programs": [
         "SPLEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Special Education Resource Teacher",
       "programs": [
         "SPLEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Special Education Teacher",
       "programs": [
         "SPLEDMED"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Communications Manager",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Communications Specialist",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Media Specialist",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Affairs Specialist",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Relations Manager (PR Manager)",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Relations Specialist (PR Specialist)",
       "programs": [
         "STRCMBA"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Communications Director",
       "programs": [
         "STCOMMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Content Manager",
       "programs": [
         "STCOMMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Promotions Director",
       "programs": [
         "STCOMMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Public Relations Director (PR Director)",
       "programs": [
         "STCOMMPS"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Management Analyst",
       "programs": [
         "SMEXLMMGT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Organizational Development Consultant",
       "programs": [
         "SMEXLMMGT"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Global Supply Chain Director",
       "programs": [
         "SCMMSCM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Logistics Director",
       "programs": [
         "SCMMSCM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Logistics Management Analyst",
       "programs": [
         "SCMMSCM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Supply Chain Analyst",
       "programs": [
         "SCMMSCM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Information Systems Analyst (ISA)",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Operations Engineer",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Process Engineer",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Quality Engineer",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "System Architect",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Systems Analyst",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Systems Engineer",
       "programs": [
         "SYSEN"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Revenue Tax Specialist",
       "programs": [
         "TAXMTAX"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Tax Accountant",
       "programs": [
         "TAXMTAX"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Tax Compliance Officer",
       "programs": [
         "TAXMTAX"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Agricultural Research Technologist",
       "programs": [
         "MPSTM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Field Agronomist",
       "programs": [
         "MPSTM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Golf Course Manager",
       "programs": [
         "MPSTM",
@@ -6083,11 +4063,6 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Golf Course Superintendent",
       "programs": [
         "MPSTM",
@@ -6095,110 +4070,60 @@
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Seed and Fertilizer Specialist",
       "programs": [
         "MPSTM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Grounds Maintenance Supervisor",
       "programs": [
         "TURF3"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Grounds Manager",
       "programs": [
         "TURF3"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Groundskeeper Supervisor",
       "programs": [
         "TURF3"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Grounds Crew Supervisor",
       "programs": [
         "2 TSM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Grounds Foreman",
       "programs": [
         "2 TSM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Groundskeeper",
       "programs": [
         "2 TSM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Integrated Pest Management Technician (IPM Technician)",
       "programs": [
         "2 TSM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Lawn Service Supervisor",
       "programs": [
         "2 TSM"
       ]
     },
     {
-      "__EMPTY": "",
-      "__EMPTY_1": "",
-      "__EMPTY_2": "",
-      "__EMPTY_3": "",
-      "__EMPTY_4": "",
       "job_title": "Lawn Technician",
       "programs": [
         "2 TSM"
