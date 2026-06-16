@@ -3671,6 +3671,90 @@
       "tot_emp": 27050,
       "employment_change": 0.038,
       "sort_order": 1027.9
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "15-1251",
+      "occ_title": "Computer Programmers",
+      "tot_emp": 92230,
+      "employment_change": -0.06,
+      "sort_order": -5533.8
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "15-1252",
+      "occ_title": "Software Developers",
+      "tot_emp": 1687890,
+      "employment_change": 0.158,
+      "sort_order": 266686.6
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "15-2051",
+      "occ_title": "Data Scientists",
+      "tot_emp": 262440,
+      "employment_change": 0.335,
+      "sort_order": 87917.4
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "15-1252",
+      "occ_title": "Software Developers",
+      "tot_emp": 1687890,
+      "employment_change": 0.158,
+      "sort_order": 266686.6
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "15-2051",
+      "occ_title": "Data Scientists",
+      "tot_emp": 262440,
+      "employment_change": 0.335,
+      "sort_order": 87917.4
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "15-2031",
+      "occ_title": "Operations Research Analysts",
+      "tot_emp": 108510,
+      "employment_change": 0.215,
+      "sort_order": 23329.65
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "area_title": "U.S.",
+      "occ_code": "13-1111",
+      "occ_title": "Management Analysts",
+      "tot_emp": 898280,
+      "employment_change": 0.088,
+      "sort_order": 79048.64
     }
   ],
   "job_titles": [
@@ -7579,6 +7663,90 @@
       "program_id": 23,
       "program_name": "Turfgrass Science and Management (Associate in Science)",
       "job_titles": "Lawn Technician"
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "job_titles": "Software Development Engineer"
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "job_titles": "Machine Learning Engineer"
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "job_titles": "AI Engineer"
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "job_titles": "AI Platform Engineer"
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "job_titles": "Computer Vision Engineer"
+    },
+    {
+      "prospect_code": "AIAIENG",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - AI Engineering Option (Master of Artificial Intelligence)",
+      "job_titles": "AI Scientist"
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "job_titles": "AI Application Analyst"
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "job_titles": "Business Intelligence Analyst"
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "job_titles": "AI Product Manager"
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "job_titles": "Digital Transformation Manager"
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "job_titles": "Operations Analyst"
+    },
+    {
+      "prospect_code": "AIAGAI",
+      "deprecated": "",
+      "program_id": "",
+      "program_name": "Artificial Intelligence - Applied & Generative AI Option (Master of Artificial Intelligence)",
+      "job_titles": "Decision Support Analyst"
     }
   ]
 }

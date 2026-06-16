@@ -116,7 +116,9 @@
         "FDTANBS",
         "CSCMCS",
         "DAANBDSYS",
-        "SDSMS"
+        "SDSMS",
+        "AIAIENG",
+        "AIAGAI"
       ],
       "uid": "15-2051"
     },
@@ -141,7 +143,9 @@
         "AIMAI",
         "CSCMCS",
         "SEBCBS",
-        "SWENG"
+        "SWENG",
+        "AIAIENG",
+        "AIAGAI"
       ],
       "uid": "15-1252"
     },
@@ -152,7 +156,8 @@
       "sort_order": -5534,
       "programs": [
         "AIMAI",
-        "4 IST"
+        "4 IST",
+        "AIAIENG"
       ],
       "uid": "15-1251"
     },
@@ -212,7 +217,8 @@
       "programs": [
         "MBADMMBA",
         "FDTANBS",
-        "SMEXLMMGT"
+        "SMEXLMMGT",
+        "AIAGAI"
       ],
       "uid": "13-1111"
     },
@@ -1493,6 +1499,16 @@
         "2 TSM"
       ],
       "uid": "37-3012"
+    },
+    {
+      "occ_title": "Operations Research Analysts",
+      "tot_emp": 108510,
+      "employment_change": 0.215,
+      "sort_order": 23330,
+      "programs": [
+        "AIAGAI"
+      ],
+      "uid": "15-2031"
     }
   ],
   "job_titles": [
@@ -1690,7 +1706,8 @@
     {
       "job_title": "Machine Learning Engineer",
       "programs": [
-        "AIMAI"
+        "AIMAI",
+        "AIAIENG"
       ]
     },
     {
@@ -1699,7 +1716,8 @@
         "AIMAI",
         "CSCMCS",
         "SEBCBS",
-        "SWENG"
+        "SWENG",
+        "AIAIENG"
       ]
     },
     {
@@ -2114,7 +2132,8 @@
       "job_title": "Business Intelligence Analyst",
       "programs": [
         "DAANBUSAN",
-        "FDTANBS"
+        "FDTANBS",
+        "AIAGAI"
       ]
     },
     {
@@ -4127,6 +4146,60 @@
       "job_title": "Lawn Technician",
       "programs": [
         "2 TSM"
+      ]
+    },
+    {
+      "job_title": "AI Engineer",
+      "programs": [
+        "AIAIENG"
+      ]
+    },
+    {
+      "job_title": "AI Platform Engineer",
+      "programs": [
+        "AIAIENG"
+      ]
+    },
+    {
+      "job_title": "Computer Vision Engineer",
+      "programs": [
+        "AIAIENG"
+      ]
+    },
+    {
+      "job_title": "AI Scientist",
+      "programs": [
+        "AIAIENG"
+      ]
+    },
+    {
+      "job_title": "AI Application Analyst",
+      "programs": [
+        "AIAGAI"
+      ]
+    },
+    {
+      "job_title": "AI Product Manager",
+      "programs": [
+        "AIAGAI"
+      ]
+    },
+    {
+      "job_title": "Digital Transformation Manager",
+      "programs": [
+        "AIAGAI"
+      ]
+    },
+    {
+      "job_title": "Operations Analyst",
+      "programs": [
+        "AIAGAI"
+      ]
+    },
+    {
+      "job_title": "Decision Support Analyst",
+      "programs": [
+        "AIAGAI"
       ]
     }
   ]
