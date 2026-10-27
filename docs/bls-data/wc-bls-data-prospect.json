@@ -575,6 +575,18 @@
       "uid": "27-3023"
     },
     {
+      "occ_title": "Writers and Authors",
+      "tot_emp": 47940,
+      "employment_change": 0.036,
+      "sort_order": 1726,
+      "programs": [
+        "DGJRMBA",
+        "ORPCMBA",
+        "ORPCMBS"
+      ],
+      "uid": "27-3043"
+    },
+    {
       "occ_title": "Web and Digital Interface Designers",
       "tot_emp": 113330,
       "employment_change": 0.07,
@@ -1222,17 +1234,6 @@
         "ORPCMBS"
       ],
       "uid": "13-1131"
-    },
-    {
-      "occ_title": "Writers and Authors",
-      "tot_emp": 47940,
-      "employment_change": 0.036,
-      "sort_order": 1726,
-      "programs": [
-        "ORPCMBA",
-        "ORPCMBS"
-      ],
-      "uid": "27-3043"
     },
     {
       "occ_title": "Technical Writers",
@@ -2196,27 +2197,16 @@
       ]
     },
     {
-      "job_title": "Digital Media Production Manager",
+      "job_title": "Audience Engagement Specialist",
       "programs": [
         "DGJRMBA"
       ]
     },
     {
-      "job_title": "Digital Media Programming Director",
+      "job_title": "Communications Specialist",
       "programs": [
-        "DGJRMBA"
-      ]
-    },
-    {
-      "job_title": "Journalist",
-      "programs": [
-        "DGJRMBA"
-      ]
-    },
-    {
-      "job_title": "Reporter",
-      "programs": [
-        "DGJRMBA"
+        "DGJRMBA",
+        "STRCMBA"
       ]
     },
     {
@@ -2226,7 +2216,31 @@
       ]
     },
     {
-      "job_title": "Web Editor",
+      "job_title": "Content Creator",
+      "programs": [
+        "DGJRMBA"
+      ]
+    },
+    {
+      "job_title": "Digital Desk Editor",
+      "programs": [
+        "DGJRMBA"
+      ]
+    },
+    {
+      "job_title": "Digital Storyteller",
+      "programs": [
+        "DGJRMBA"
+      ]
+    },
+    {
+      "job_title": "Multimedia Journalist",
+      "programs": [
+        "DGJRMBA"
+      ]
+    },
+    {
+      "job_title": "Producer",
       "programs": [
         "DGJRMBA"
       ]
@@ -3908,12 +3922,6 @@
     },
     {
       "job_title": "Communications Manager",
-      "programs": [
-        "STRCMBA"
-      ]
-    },
-    {
-      "job_title": "Communications Specialist",
       "programs": [
         "STRCMBA"
       ]

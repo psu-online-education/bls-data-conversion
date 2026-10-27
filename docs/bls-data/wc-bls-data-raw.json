@@ -781,6 +781,18 @@
       "sort_order": -1530.75
     },
     {
+      "prospect_code": "DGJRMBA",
+      "deprecated": "",
+      "program_id": 2475,
+      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
+      "area_title": "U.S.",
+      "occ_code": "27-3043",
+      "occ_title": "Writers and Authors",
+      "tot_emp": 47940,
+      "employment_change": 0.036,
+      "sort_order": 1725.84
+    },
+    {
       "prospect_code": "DIGMDBDES",
       "deprecated": "",
       "program_id": 2364,
@@ -4561,28 +4573,14 @@
       "deprecated": "",
       "program_id": 2475,
       "program_name": "Digital Journalism and Media (Bachelor of Arts)",
-      "job_titles": "Digital Media Production Manager"
+      "job_titles": "Audience Engagement Specialist"
     },
     {
       "prospect_code": "DGJRMBA",
       "deprecated": "",
       "program_id": 2475,
       "program_name": "Digital Journalism and Media (Bachelor of Arts)",
-      "job_titles": "Digital Media Programming Director"
-    },
-    {
-      "prospect_code": "DGJRMBA",
-      "deprecated": "",
-      "program_id": 2475,
-      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
-      "job_titles": "Journalist"
-    },
-    {
-      "prospect_code": "DGJRMBA",
-      "deprecated": "",
-      "program_id": 2475,
-      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
-      "job_titles": "Reporter"
+      "job_titles": "Communications Specialist"
     },
     {
       "prospect_code": "DGJRMBA",
@@ -4596,7 +4594,35 @@
       "deprecated": "",
       "program_id": 2475,
       "program_name": "Digital Journalism and Media (Bachelor of Arts)",
-      "job_titles": "Web Editor"
+      "job_titles": "Content Creator"
+    },
+    {
+      "prospect_code": "DGJRMBA",
+      "deprecated": "",
+      "program_id": 2475,
+      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
+      "job_titles": "Digital Desk Editor"
+    },
+    {
+      "prospect_code": "DGJRMBA",
+      "deprecated": "",
+      "program_id": 2475,
+      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
+      "job_titles": "Digital Storyteller"
+    },
+    {
+      "prospect_code": "DGJRMBA",
+      "deprecated": "",
+      "program_id": 2475,
+      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
+      "job_titles": "Multimedia Journalist"
+    },
+    {
+      "prospect_code": "DGJRMBA",
+      "deprecated": "",
+      "program_id": 2475,
+      "program_name": "Digital Journalism and Media (Bachelor of Arts)",
+      "job_titles": "Producer"
     },
     {
       "prospect_code": "DIGMDBDES",
